@@ -13,6 +13,9 @@
   "keywords": [
     "giustizia"
   ],
+  "bin": {
+    "giustizia": "./index.js"
+  },
   "author": "Matteo Manzinello",
   "license": "ISC",
   "bugs": {
