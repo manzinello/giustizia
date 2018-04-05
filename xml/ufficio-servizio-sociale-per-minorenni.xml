@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Ufficio servizio sociale per minorenni-->
+<root>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di ANCONA">
+        <altronome/>
+        <indirizzo>Via Cavorchie, 1/E</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>85100</cap>
+        <telefono>071 - 201004</telefono>
+        <fax>071 - 20898415</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di BARI">
+        <altronome/>
+        <indirizzo>Via Amendola, 172/C</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70126</cap>
+        <telefono>080 - 5481555</telefono>
+        <fax>080 - 5481728</fax>
+        <email>ussm.bari.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di BARI - Sezione distaccata di FOGGIA">
+        <altronome/>
+        <indirizzo>Piazza Cavour, 1</indirizzo>
+        <comune>FOGGIA</comune>
+        <codiceistat>16071024</codiceistat>
+        <cap>71100</cap>
+        <telefono>0881 - 776031</telefono>
+        <fax/>
+        <email>ussm.foggia.dgm@giustizia.it</email>
+        <pec>ussm.bari.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di BOLOGNA">
+        <altronome/>
+        <indirizzo>Via del Pratello, 34</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40122</cap>
+        <telefono>051 - 238478 051 - 266419</telefono>
+        <fax>051 - 230162</fax>
+        <email>ussm.bologna.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di BOLOGNA - Sezione distaccata di RIMINI">
+        <altronome/>
+        <indirizzo>Via C.A. Dalla Chiesa, 11</indirizzo>
+        <comune>RIMINI</comune>
+        <codiceistat>08099014</codiceistat>
+        <cap>47900</cap>
+        <telefono>0541 - 763554</telefono>
+        <fax/>
+        <email>ussm.rimini.dgm@giustizia.it</email>
+        <pec>ussm.bologna.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi>informazioni carta dei servizi</cartaservizi>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di BOLZANO">
+        <altronome/>
+        <indirizzo>Piazza Vittoria, 47</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono>0471 - 262854</telefono>
+        <fax>0471 - 262896</fax>
+        <email>ussm.bolzano.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94088950210</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di BRESCIA">
+        <altronome/>
+        <indirizzo>Corso Cavour, 39</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25121</cap>
+        <telefono>030 - 4075611</telefono>
+        <fax>030 - 4075690</fax>
+        <email>ussm.brescia.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CAGLIARI">
+        <altronome/>
+        <indirizzo>Via Sonnino,184</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09127</cap>
+        <telefono>070 - 401981 / 401982</telefono>
+        <fax>070 - 402151</fax>
+        <email>ussm.cagliari.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80004020923</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 Ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>Via don Minzoni</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 551372</telefono>
+        <fax>0934 - 553460</fax>
+        <email>ussm.caltanissetta.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CALTANISSETTA - Sezione distaccata di GELA">
+        <altronome/>
+        <indirizzo>Corso Vittorio Emanuele, 168</indirizzo>
+        <comune>GELA</comune>
+        <codiceistat>19085007</codiceistat>
+        <cap>93012</cap>
+        <telefono>0933 - 823628</telefono>
+        <fax/>
+        <email>ussm.gela.dgm@giustizia.it</email>
+        <pec>ussm.caltanissetta.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CAMPOBASSO">
+        <altronome/>
+        <indirizzo>Via Principe di Piemonte, 61</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono>0874 - 47761</telefono>
+        <fax>0874 - 477620</fax>
+        <email>ussm.campobasso.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80002040709</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile</patrono>
+        <infoaggiuntive>apertura al pubblico dal lunedì al sabato dalle  8 alle 14. Martedì e giovedì dalle ore 14.30 alle ore 17.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CATANIA">
+        <altronome/>
+        <indirizzo>Piazza della Repubblica, 31</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95129</cap>
+        <telefono>095 - 535566/532379</telefono>
+        <fax>095 - 535199</fax>
+        <email>ussm.catania.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CATANIA - Sezione distaccata di RAGUSA">
+        <altronome/>
+        <indirizzo>Via Natanelli, 58</indirizzo>
+        <comune>RAGUSA</comune>
+        <codiceistat>19088009</codiceistat>
+        <cap>97100</cap>
+        <telefono>0932 - 245520</telefono>
+        <fax/>
+        <email>ussm.ragusa.dgm@giustizia.it</email>
+        <pec>ussm.catania.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CATANIA - Sezione distaccata di SIRACUSA">
+        <altronome/>
+        <indirizzo>Via Santa Panagia, 109</indirizzo>
+        <comune>SIRACUSA</comune>
+        <codiceistat>19089017</codiceistat>
+        <cap>96100</cap>
+        <telefono>0931 - 752685 / 752686</telefono>
+        <fax/>
+        <email>ussm.siracusa.dgm@giustizia.it</email>
+        <pec>ussm.catania.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CATANZARO">
+        <altronome/>
+        <indirizzo>Via Paglia, 47</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961 - 517511</telefono>
+        <fax>0961 - 517501</fax>
+        <email>ussm.catanzaro.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di CATANZARO - Sezione distaccata di COSENZA">
+        <altronome/>
+        <indirizzo>Via Guarascio</indirizzo>
+        <comune>COSENZA</comune>
+        <codiceistat>18078045</codiceistat>
+        <cap>87100</cap>
+        <telefono>0984 - 34861</telefono>
+        <fax/>
+        <email>ussm.cosenza.dgm@giustizia.it</email>
+        <pec>ussm.catanzaro.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di FIRENZE">
+        <altronome/>
+        <indirizzo>Via Bolognese, 86</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50139</cap>
+        <telefono>055 - 471826</telefono>
+        <fax>055 - 4620176</fax>
+        <email>ussm.firenze.dgm@giustizia.it</email>
+        <pec>ussm.firenze.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di FIRENZE - Sezione distaccata di LUCCA">
+        <altronome/>
+        <indirizzo>Via delle Sette Arti, 3</indirizzo>
+        <comune>LUCCA</comune>
+        <codiceistat>09046017</codiceistat>
+        <cap>55100</cap>
+        <telefono>0583 - 464459</telefono>
+        <fax/>
+        <email>ussm.lucca.dgm@giustizia.it</email>
+        <pec>ussm.firenze.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di FIRENZE - Sezione distaccata di SIENA">
+        <altronome/>
+        <indirizzo>Piazza Matteotti, 33</indirizzo>
+        <comune>SIENA</comune>
+        <codiceistat>09052032</codiceistat>
+        <cap>53100</cap>
+        <telefono>0577 - 283623</telefono>
+        <fax/>
+        <email>ussm.firenze.dgm@giustizia.it</email>
+        <pec>ussm.firenze.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di GENOVA">
+        <altronome/>
+        <indirizzo>Via Passo Frugoni, 4/3</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16121</cap>
+        <telefono>010 - 541771 / 543675</telefono>
+        <fax>010 - 5305967</fax>
+        <email>ussm.genova.dgm@giustizia.it</email>
+        <pec>ussm.genova.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di GENOVA - Sezione distaccata di LA SPEZIA">
+        <altronome/>
+        <indirizzo>Via Don Minzoni, 43</indirizzo>
+        <comune>LA SPEZIA</comune>
+        <codiceistat>07011015</codiceistat>
+        <cap>19100</cap>
+        <telefono>0187 - 22238</telefono>
+        <fax/>
+        <email>ussm.laspezia.dgm@giustizia.it</email>
+        <pec>ussm.genova.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 marzo</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di L'AQUILA">
+        <altronome/>
+        <indirizzo>Via Acquasanta, 3</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 483745</telefono>
+        <fax>0862 - 24540</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 giugno (San Massimo)</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di L'AQUILA - Sezione distaccata di PESCARA">
+        <altronome/>
+        <indirizzo>Via Rigopiano, 30/1 </indirizzo>
+        <comune>PESCARA</comune>
+        <codiceistat>13068028</codiceistat>
+        <cap>65100</cap>
+        <telefono>085 - 2058971 085 - 2058848 </telefono>
+        <fax/>
+        <email>ussm.pescara.dgm@giustizia.it</email>
+        <pec>ussm.laquila.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di L'AQUILA - Sezione distaccata di TERAMO">
+        <altronome/>
+        <indirizzo>Via Cesare Battisti, 51</indirizzo>
+        <comune>TERAMO</comune>
+        <codiceistat>13067041</codiceistat>
+        <cap>64100</cap>
+        <telefono>0861 - 243063</telefono>
+        <fax/>
+        <email>ussm.teramo.dgm@giustizia.it</email>
+        <pec>ussm.laquila.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di LECCE">
+        <altronome/>
+        <indirizzo>Via Dalmazio Birago s.n.</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono>0832 - 246919</telefono>
+        <fax>0832 - 241880</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80012040756</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di LECCE - Sezione distaccata di BRINDISI">
+        <altronome/>
+        <indirizzo>Via Sant'Angelo, 91</indirizzo>
+        <comune>BRINDISI</comune>
+        <codiceistat>16074001</codiceistat>
+        <cap>72100</cap>
+        <telefono>0831 - 521481</telefono>
+        <fax/>
+        <email>ussm.brindisi.dgm@giustizia.it</email>
+        <pec>ussm.lecce.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di MESSINA">
+        <altronome/>
+        <indirizzo>Viale Europa, 137</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98124</cap>
+        <telefono>090 - 2936015 - 693984 - 692155</telefono>
+        <fax>090 - 2938407</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di MESSINA - Sezione distaccata di PATTI">
+        <altronome/>
+        <indirizzo>Via Molino Croce, snc</indirizzo>
+        <comune>PATTI</comune>
+        <codiceistat>19083066</codiceistat>
+        <cap>98066</cap>
+        <telefono>0941 - 245289</telefono>
+        <fax/>
+        <email>ussm.patti.dgm@giustizia.it</email>
+        <pec>ussm.messina.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di MILANO">
+        <altronome/>
+        <indirizzo>Via Giovanni Spagliardi, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20152</cap>
+        <telefono>02 - 414901</telefono>
+        <fax>02 - 48302510</fax>
+        <email>ussm.milano.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di NAPOLI">
+        <altronome/>
+        <indirizzo>Viale Colli Aminei, 44</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80131</cap>
+        <telefono>081 - 7448271</telefono>
+        <fax>081 - 7448280</fax>
+        <email>ussm.napoli.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di PALERMO">
+        <altronome/>
+        <indirizzo>Via Principe di Palagonia, 135 - lato via Cilea</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90144</cap>
+        <telefono>091 - 6828732</telefono>
+        <fax>091 - 226064</fax>
+        <email>ussm.palermo.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di PALERMO - Sezione distaccata di ERICE">
+        <altronome/>
+        <indirizzo>Via Giuseppe Clemente, 100 - Loc. Casa Santa</indirizzo>
+        <comune>ERICE</comune>
+        <codiceistat>19081008</codiceistat>
+        <cap>91016</cap>
+        <telefono>0923 - 553208</telefono>
+        <fax/>
+        <email>ussm.trapani.dgm@giustizia.it</email>
+        <pec>ussm.palermo.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di PERUGIA">
+        <altronome/>
+        <indirizzo>Via Martiri dei Lager, 65</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06128</cap>
+        <telefono>075 - 5063138</telefono>
+        <fax>075 - 5003736</fax>
+        <email>ussm.perugia.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di POTENZA">
+        <altronome/>
+        <indirizzo>Via Appia, 175/BIS</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 54467</telefono>
+        <fax>0971 - 54467</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di POTENZA - Sezione distaccata di MATERA">
+        <altronome/>
+        <indirizzo>Via Cappelluti, 60/62</indirizzo>
+        <comune>MATERA</comune>
+        <codiceistat>17077014</codiceistat>
+        <cap>75100</cap>
+        <telefono>0835 - 336055</telefono>
+        <fax/>
+        <email>ussm.matera.dgm@giustizia.it</email>
+        <pec>ussm.potenza.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via Marsala, 13</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89133</cap>
+        <telefono>0965 - 24500</telefono>
+        <fax>0965 - 24500</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di ROMA">
+        <altronome/>
+        <indirizzo>Via V. Agnelli, 15</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00151</cap>
+        <telefono>06 - 96668011</telefono>
+        <fax>06 - 65747649</fax>
+        <email>ussm.roma.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di ROMA - Sezione distaccata di FROSINONE">
+        <altronome/>
+        <indirizzo>Viale Manzoni snc - c/o ospedale Umberto I</indirizzo>
+        <comune>FROSINONE</comune>
+        <codiceistat>12060038</codiceistat>
+        <cap>03100</cap>
+        <telefono>0775 - 211866</telefono>
+        <fax/>
+        <email>ussm.frosinone.dgm@giustizia.it</email>
+        <pec>ussm.roma.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 giugno (SS. Pietro e Paolo)</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di ROMA - Sezione distaccata di LATINA">
+        <altronome/>
+        <indirizzo>Via Don Morosini, 2</indirizzo>
+        <comune>LATINA</comune>
+        <codiceistat>12059011</codiceistat>
+        <cap>04100</cap>
+        <telefono>0773 - 662946</telefono>
+        <fax/>
+        <email>ussm.latina.dgm@giustizia.it</email>
+        <pec>ussm.roma.dgm@giustiziacert.it</pec>
+        <codicefiscale>97244910580</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 giugno (SS. Pietro e Paolo)</patrono>
+        <infoaggiuntive>La sede centrale di Roma garantisce l'accoglienza di richieste dei cittadini, degli utenti, delle istituzioni e di quanti ne abbiano necessità con un servizio di "Segretariato", funzionante dal lunedì al sabato, raggiungibile attraverso il numero di Roma</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di SALERNO">
+        <altronome/>
+        <indirizzo>Via Giovanni Negri, 5</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono>089 - 229478</telefono>
+        <fax>089 - 229488</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di SASSARI">
+        <altronome/>
+        <indirizzo>Località Piandanna - Strada Provinciale Sassari / Ittiri Km 0,500</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>079 - 2633024</telefono>
+        <fax>079 - 230607</fax>
+        <email>ussm.sassari.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92033860906</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di SASSARI - Sezione distaccata di NUORO">
+        <altronome/>
+        <indirizzo>Via Sardegna, 33 B</indirizzo>
+        <comune>NUORO</comune>
+        <codiceistat>20091051</codiceistat>
+        <cap>08100</cap>
+        <telefono>0784 - 33580</telefono>
+        <fax/>
+        <email>ussm.nuoro.dgm@giustizia.it</email>
+        <pec>ussm.sassari.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di TARANTO">
+        <altronome/>
+        <indirizzo>Vico S. Agostino, 1</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74100</cap>
+        <telefono>099 - 4706054</telefono>
+        <fax>099 - 4709404</fax>
+        <email>ussm.taranto.dgm@giustizia.it </email>
+        <pec/>
+        <codicefiscale>90040920739</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di TORINO">
+        <altronome/>
+        <indirizzo>Via Berruti e Ferrero, 1/A</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10135</cap>
+        <telefono>011 - 6194260</telefono>
+        <fax>011 - 6194279</fax>
+        <email>ussm.torino.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.cgmtorino.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di TRENTO">
+        <altronome/>
+        <indirizzo>Via Madruzzo, 13</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono>0461 - 984261-982056</telefono>
+        <fax>0461 - 232501</fax>
+        <email>ussm.trento.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di TRIESTE">
+        <altronome/>
+        <indirizzo>Via Carducci,20</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34100</cap>
+        <telefono>040 - 635254-635003</telefono>
+        <fax>040 - 635560</fax>
+        <email>ussm.trieste.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di TRIESTE - Sezione distaccata di UDINE">
+        <altronome/>
+        <indirizzo>Via Larga, 33</indirizzo>
+        <comune>UDINE</comune>
+        <codiceistat>06030129</codiceistat>
+        <cap>33100</cap>
+        <telefono>0432 - 505744 / 512883</telefono>
+        <fax/>
+        <email>ussm.udine.dgm@giustizia.it</email>
+        <pec>ussm.trieste.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>12 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di VENEZIA">
+        <altronome/>
+        <indirizzo>Dorsoduro, 423</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30121</cap>
+        <telefono>041 - 5228991</telefono>
+        <fax>041 - 5229365</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio Servizio Sociale per Minorenni di VENEZIA - Sezione distaccata di PADOVA">
+        <altronome/>
+        <indirizzo>Via Marsala, 19</indirizzo>
+        <comune>PADOVA</comune>
+        <codiceistat>05028060</codiceistat>
+        <cap>35100</cap>
+        <telefono>049 - 8758155</telefono>
+        <fax/>
+        <email>ussm.padova.dgm@giustizia.it</email>
+        <pec>ussm.venezia.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
