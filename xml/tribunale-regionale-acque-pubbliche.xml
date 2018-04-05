@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Tribunale regionale Acque pubbliche-->
+<root>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di CAGLIARI">
+        <altronome/>
+        <indirizzo>Piazza Repubblica</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09125</cap>
+        <telefono>070 - 6022332</telefono>
+        <fax>070 - 6022535</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di FIRENZE">
+        <altronome/>
+        <indirizzo> Viale Alessandro Guidoni, 61 - Palazzo di giustizia -</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono> 055 - 79941 (centralino)055 - 7995271</telefono>
+        <fax> 055 - 7995293</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di MILANO">
+        <altronome/>
+        <indirizzo> Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20122</cap>
+        <telefono> 02 - 5436 (centralino)</telefono>
+        <fax> 02 - 55187127</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di NAPOLI">
+        <altronome/>
+        <indirizzo> Nuovo Palazzo di Giustizia - Centro Direzionale - Piazza Porzio - Torre A - Piano 25</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80139</cap>
+        <telefono> 081 - 2237285 / 299</telefono>
+        <fax> 081 - 286068</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di PALERMO">
+        <altronome/>
+        <indirizzo>Piazza Vittorio Emanuele Orlando</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono>091 - 7421111 (centralino)</telefono>
+        <fax>091 - 7423414</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di ROMA">
+        <altronome/>
+        <indirizzo> Via Antonio Varisco, 3/5</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00136</cap>
+        <telefono> 06 - 398088095 / 6</telefono>
+        <fax> 06 - 398088410</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di TORINO">
+        <altronome/>
+        <indirizzo>Corso Vittorio Emanuele II, 130</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10122</cap>
+        <telefono>011 - 4327111 (centralino)</telefono>
+        <fax>011 - 532655</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale Regionale delle Acque Pubbliche di VENEZIA">
+        <altronome/>
+        <indirizzo> Palazzo Cavalli, 3978</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30100</cap>
+        <telefono> 041 - 5217654</telefono>
+        <fax> 041 - 5223899</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
