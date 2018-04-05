@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Procura della Repubblica presso il Tribunale per i minorenni-->
+<root>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di ANCONA">
+        <altronome/>
+        <indirizzo> Corso Mazzini, 32</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60121</cap>
+        <telefono> 071 - 200173 (centralino)</telefono>
+        <fax> 071 - 203193 (segreteria penale)071 - 203843 (segreteria civile)</fax>
+        <email> procmin.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di BARI">
+        <altronome/>
+        <indirizzo> Via Tommaso Fiore, 49/D</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70123</cap>
+        <telefono> 080 - 5741717 / 716</telefono>
+        <fax> 080 - 5794524</fax>
+        <email> procmin.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di BOLOGNA">
+        <altronome/>
+        <indirizzo> Via del Pratello, 36</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40122</cap>
+        <telefono> 051 - 2964811 (centralino)(sarà sostituito da 051 - 6100140)</telefono>
+        <fax> 051 - 237821 (segreteria penale)051 - 235884 (segreteria civile)</fax>
+        <email> procmin.bologna@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di BOLZANO">
+        <altronome/>
+        <indirizzo>Corso Libertà, 23</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono> 0471 - 226111 (centralino) 0471 - 226 455 (segreteria amministrativa) 0471 - 226 433 (segreteria penale) 0471 - 226 457 / 461 (segreteria civile)</telefono>
+        <fax> 0471 - 226 434 (segreteria penale) 0471 - 260 960 (segreteria PM)</fax>
+        <email> procmin.bolzano@giustizia.it (segreteria amministrativa) procmin.bolzano@giustizia.it (segreteria penale) affaricivili.procmin.bolzano@giustizia.it (segreteria civile)</email>
+        <pec>prot.procmin.bolzano@giustiziacert.it (segreteria amministrativa)	penale.procmin.bolzano@giustiziacert.it (segreteria penale) civile.procmin.bolzano@giustiziacert.it (segreteria penale) </pec>
+        <codicefiscale>94054800217</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive>Apertura al pubblico dalle 8.30 alle 13.30 tutti i giorni feriali</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di BRESCIA">
+        <altronome/>
+        <indirizzo> Via Malta, 12</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25124</cap>
+        <telefono> 030 - 2421832</telefono>
+        <fax> 030 - 224205</fax>
+        <email> procmin.brescia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di CAGLIARI">
+        <altronome/>
+        <indirizzo> Via Dante, 6</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09127</cap>
+        <telefono> 070 - 34921 (centralino)</telefono>
+        <fax> 070 - 306934</fax>
+        <email> procmin.cagliari@giustizia.it </email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di CALTANISSETTA">
+        <altronome/>
+        <indirizzo> Via Don Minzoni</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono> 0934 - 597340 / 337</telefono>
+        <fax> 0934 - 553321</fax>
+        <email> procmin.caltanissetta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.procmin.caltanissetta.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di CAMPOBASSO">
+        <altronome/>
+        <indirizzo> Via Principe di Piemonte, 45</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono> 0874 - 400101</telefono>
+        <fax> 0874 - 400111</fax>
+        <email> procmin.campobasso@giustizia.it</email>
+        <pec>prot.procmin.campobasso@giustiziacert.it</pec>
+        <codicefiscale>80007410709</codicefiscale>
+        <sitoweb> www.giustiziamolise.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di CATANIA">
+        <altronome/>
+        <indirizzo> Via Raimondo Franchetti, 62</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95123</cap>
+        <telefono> 095 - 7240113</telefono>
+        <fax> 095 -321023</fax>
+        <email> procmin.catania@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011350875</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di CATANZARO">
+        <altronome/>
+        <indirizzo> Via Paglia, 47</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono> 0961 - 517211 (centralino)</telefono>
+        <fax> 0961 - 741880</fax>
+        <email> procmin.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di FIRENZE">
+        <altronome/>
+        <indirizzo> Via della Scala, 79</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50123</cap>
+        <telefono> 055 - 267296</telefono>
+        <fax> 055 - 288169</fax>
+        <email> procmin.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di GENOVA">
+        <altronome/>
+        <indirizzo> Viale IV Novembre, 4</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16121</cap>
+        <telefono> 010 - 5717730 / 5717724 / 5717728 / 5717735</telefono>
+        <fax> 010 - 5451027</fax>
+        <email> procmin.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80053150100</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di L'AQUILA">
+        <altronome/>
+        <indirizzo> Via Acquasanta, 1</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono> 0862 - 209309 / 4841205 (cancelleria)0862 - 209307 / 4841207 (esecuzione penale)0862 - 209302 / 4841212 (cancelleria penale)0862 - 209314 / 4841214 (f.f. dirigenza)0862 - 209305 / 209310 (cancelleria civile)0862 - 209319 (Polizia Giudiziaria - Guardia di Finanza)0862 - 209320 (Polizia Giudiziaria - Polizia di Stato)0862 - 209321 (Polizia Giudiziaria - Carabinieri)</telefono>
+        <fax> 0862 - 411134</fax>
+        <email> procmin.laquila@giustizia.it</email>
+        <pec> dirigente.procmin.laquila@giustiziacert.it	esecuzioni.procmin.laquila@giustiziacert.it penale.procmin.laquila@giustiziacert.it amministrativo.procmin.laquila@giustiziacert.it civile.procmin.laquila@giustiziacert.it ispezioni.procmin.laquila@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di LECCE">
+        <altronome/>
+        <indirizzo> Via Dalmazio Birago s.n. </indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono> 0832 - 2111 </telefono>
+        <fax> 0832 - 332822</fax>
+        <email> procmin.lecce@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011740752</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di MESSINA">
+        <altronome/>
+        <indirizzo> Viale Europa, 137</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98124</cap>
+        <telefono> 090 - 2928088</telefono>
+        <fax> 090 - 2934444</fax>
+        <email> procmin.messina@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 giugno</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di MILANO">
+        <altronome/>
+        <indirizzo> Via Leopardi, 18</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20123</cap>
+        <telefono> 02 - 467581</telefono>
+        <fax> 02 - 48000756</fax>
+        <email> procmin.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>http://www.tribunaleminorimilano.it/home.asp</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di NAPOLI">
+        <altronome/>
+        <indirizzo> Viale Colli Aminei, 44</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80131</cap>
+        <telefono> 081 - 7447111</telefono>
+        <fax> 081 - 7415403 / 7418512</fax>
+        <email> procmin.napoli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>http://www.procmin.napoli.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di PALERMO">
+        <altronome/>
+        <indirizzo> Via Principe di Palagonia, 135</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90145</cap>
+        <telefono> 091 - 6867911</telefono>
+        <fax> 091 - 6812161</fax>
+        <email> procmin.palermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb> www.procmin.palermo.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di PERUGIA">
+        <altronome/>
+        <indirizzo> Via Martiri dei Lager, 65</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06128</cap>
+        <telefono> 075 - 506311</telefono>
+        <fax> 075 - 5057565</fax>
+        <email> procmin.perugia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di POTENZA">
+        <altronome/>
+        <indirizzo> Via San Vincenzo de' Paoli, 9</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono> 0971 - 55544</telefono>
+        <fax> 0971 - 55178</fax>
+        <email> procmin.potenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006130761</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via Marsala, 13</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89133</cap>
+        <telefono>0965 - 23825</telefono>
+        <fax>0965 - 897910</fax>
+        <email>procmin.reggiocalabria@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di ROMA">
+        <altronome/>
+        <indirizzo> Via dei Bresciani, 32</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00186</cap>
+        <telefono> 06 - 6889601</telefono>
+        <fax> 06 - 68892670</fax>
+        <email> procmin.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di SALERNO">
+        <altronome/>
+        <indirizzo> Largo S. Tommaso d'Aquino</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono> 089 - 2570111</telefono>
+        <fax> 089 - 241453</fax>
+        <email> procmin.salerno@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di SASSARI">
+        <altronome/>
+        <indirizzo> Località Piandanna - St. provinciale Sassari / Ittiri Km 0,500</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono> 079 - 2637245</telefono>
+        <fax> 079 - 230573</fax>
+        <email> procmin.sassari@giustizia.itPEC: procmin.sassari@giustiziacert.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.procmin.sassari.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di TARANTO">
+        <altronome/>
+        <indirizzo> Piazza Duomo, s.n.c.</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74100</cap>
+        <telefono> 099 - 7343111 (centralino)</telefono>
+        <fax> 099 - 7343567 / 842 / 556</fax>
+        <email> procmin.taranto@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>http://www.procmin.taranto.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di TORINO">
+        <altronome/>
+        <indirizzo> Corso Unione Sovietica, 325</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10135</cap>
+        <telefono> 011 - 6195801011 - 6195837</telefono>
+        <fax> 011 - 3160786</fax>
+        <email> procmin.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>96634950016</codicefiscale>
+        <sitoweb>www.procmin.torino.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di TRENTO">
+        <altronome/>
+        <indirizzo> Via Rosmini, 71</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono> 0461 - 220111 (centralino)</telefono>
+        <fax> 0461 - 238705</fax>
+        <email> procmin.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011930221</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 giugno</patrono>
+        <infoaggiuntive>Apertura al pubblico dalle 8.30 alle 13.30 dal lunedì al venerdì</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di TRIESTE">
+        <altronome/>
+        <indirizzo>Via Coroneo, 20</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34100</cap>
+        <telefono>040 - 7792374</telefono>
+        <fax>040 - 635708</fax>
+        <email>procmin.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale per i minorenni di VENEZIA">
+        <altronome/>
+        <indirizzo> Piazzale Generale Carlo Alberto Dalla Chiesa, 1</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30173</cap>
+        <telefono> 041 - 5066311 (centralino/informazioni) 041 - 5066303/304 (segreteria amministrativa e del personale)041 - 5066334/314 (segreteria penale e registro generale)041 - 5066305/336 (segreteria civile)</telefono>
+        <fax> 041 - 5066399 (segreteria amministrativa e del personale)041 - 5066398  (segreteria civile)041 - 5066393 (segreteria penale e registro generale)</fax>
+        <email> procmin.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 novembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+</root>
