@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Commissariato agli usi civici-->
+<root>
+    <ufficio nomeufficio="Commissariato agli usi civici per il FRIULI-VENEZIA GIULIA">
+        <altronome/>
+        <indirizzo>Scala dei Cappuccini, 1</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34131</cap>
+        <telefono>040.367844</telefono>
+        <fax>040 - 3772865</fax>
+        <email>usicivici.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per il LAZIO, la TOSCANA e l'UMBRIA">
+        <altronome/>
+        <indirizzo>Via XX Settembre, 20 (c/o Ministero Politiche Agricole)</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00187</cap>
+        <telefono>06 - 46652610 06 - 4665261606 - 46652618</telefono>
+        <fax>06 - 46652636</fax>
+        <email>usicivici.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per il PIEMONTE e la LIGURIA">
+        <altronome/>
+        <indirizzo>Via Maria Vittoria, 18</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10123</cap>
+        <telefono>011 - 8173289 / 0380</telefono>
+        <fax>011 - 883424</fax>
+        <email>usicivici.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per il TRENTINO-ALTO ADIGE">
+        <altronome/>
+        <indirizzo>Largo Pigarelli, 1</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono>0461 - 2004230461 - 235875</telefono>
+        <fax>0461 - 261209</fax>
+        <email>usicivici.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per il VENETO">
+        <altronome/>
+        <indirizzo>San Marco - Palazzo Cavalli, 3978 (c/o Corte Appello)</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30124</cap>
+        <telefono>041 - 5217788</telefono>
+        <fax>041 - 5217798 / 5217645</fax>
+        <email>usicivici.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per l'ABRUZZO">
+        <altronome/>
+        <indirizzo>Via Salaria Antica Est n. 27 F, presso Palazzo T.A.R.</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 204981</telefono>
+        <fax>0862 - 204981</fax>
+        <email>usicivici.laquila@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per l'EMILIA ROMAGNA e le MARCHE">
+        <altronome/>
+        <indirizzo>Via GALLIERA, 17</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40121</cap>
+        <telefono>051267637</telefono>
+        <fax>051267637</fax>
+        <email>usicivici.bologna@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92000500378</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la BASILICATA">
+        <altronome/>
+        <indirizzo>Via Vincenzo Verrastro, 10</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 53959</telefono>
+        <fax>0971 - 53959</fax>
+        <email>usicivici.potenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la CALABRIA">
+        <altronome/>
+        <indirizzo>Via Acri, 11</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961 - 722559 / 792982</telefono>
+        <fax>0961 - 722566</fax>
+        <email>giudiziario.usicivici.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la CAMPANIA e il MOLISE">
+        <altronome/>
+        <indirizzo>P.zza E. De Nicola I piano - Castel Capuano</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80139</cap>
+        <telefono>081 - 2237264 / 65081 - 2237617</telefono>
+        <fax>081 - 2237654</fax>
+        <email>usicivici.napoli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la LOMBARDIA">
+        <altronome/>
+        <indirizzo>Via General Fara, 20</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20124</cap>
+        <telefono>02 - 67388973</telefono>
+        <fax>02 - 67100398</fax>
+        <email>usicivici.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la PUGLIA">
+        <altronome/>
+        <indirizzo>Palazzo dell’Agricoltura - Lungomare Nazario Sauro</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70121</cap>
+        <telefono>080 - 5588363080 - 5405149</telefono>
+        <fax>080 - 5588363</fax>
+        <email>usicivici.bari@giustizia.it ; giurisdizionale.usicivici.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80016820724</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>8 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la SARDEGNA">
+        <altronome/>
+        <indirizzo>Via E. Pessagno, 4</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09126</cap>
+        <telefono>070 - 6066382 / 340</telefono>
+        <fax>070 - 6066244</fax>
+        <email>usicivici.cagliari@giustizia.itagr.comm.usicivici@regione.sardegna.it</email>
+        <pec>usicivici.cagliari@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Commissariato agli usi civici per la SICILIA">
+        <altronome/>
+        <indirizzo>Viale Regione Siciliana, 4600</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90145</cap>
+        <telefono>091 - 7070993091 - 7070986091 - 7070987</telefono>
+        <fax>091 - 7072830</fax>
+        <email>usicivici.palermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
