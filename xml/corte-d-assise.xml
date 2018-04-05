@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Corte di assise-->
+<root>
+    <ufficio nomeufficio="Corte di Assise di ANCONA">
+        <altronome/>
+        <indirizzo> Corso Mazzini, 95</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60121</cap>
+        <telefono> 071 - 5062422</telefono>
+        <fax> 071 - 2072865</fax>
+        <email> tribunale.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di BARI">
+        <altronome/>
+        <indirizzo>Piazza E. De Nicola, s.n.c.</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70123</cap>
+        <telefono>080 - 5298237</telefono>
+        <fax>080 - 5722003</fax>
+        <email>assise.tribunale.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di BOLOGNA">
+        <altronome/>
+        <indirizzo>Via G. Garibaldi, 6</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40124</cap>
+        <telefono>051 - 201269 / 270 / 139</telefono>
+        <fax>051 - 332352</fax>
+        <email>roberta.castellari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di BOLZANO">
+        <altronome/>
+        <indirizzo>Piazza Tribunale, 1</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono>0471 - 226111 (centralino)</telefono>
+        <fax>0471 - 283024</fax>
+        <email>tribunale.bolzano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di BRESCIA">
+        <altronome/>
+        <indirizzo> Via Lattanzio Gambara, 40</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25122</cap>
+        <telefono> 030 - 7672293030 - 7672420 cancelleria</telefono>
+        <fax> 030 - 7672573030 - 7672534 (cancelleria)</fax>
+        <email> tribunale.brescia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di CAGLIARI">
+        <altronome/>
+        <indirizzo>Piazza Repubblica, 18</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09125</cap>
+        <telefono>070 - 60222284</telefono>
+        <fax>070 - 60222525</fax>
+        <email>tribunale.cagliari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di CALTANISSETTA">
+        <altronome/>
+        <indirizzo> Via Libertà, 5 - Palazzo di Giustizia</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono> 0934 - 714220934 - 71349</telefono>
+        <fax> 0934 - 598040</fax>
+        <email> carola.giannone@giustizia.itmariapia.tumminelli@ giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di CAMPOBASSO">
+        <altronome/>
+        <indirizzo>Piazza Vittorio Emanuele II, 29</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono>0874 - 400229</telefono>
+        <fax>0874 - 94196</fax>
+        <email>tribunale.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di CATANIA">
+        <altronome/>
+        <indirizzo> Piazza Verga</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95125</cap>
+        <telefono> 095 - 366448 / 366449 / 366450 (cancelleria)</telefono>
+        <fax> 095 - 366451</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di CATANZARO">
+        <altronome/>
+        <indirizzo>Via Argento - Nuovo Palazzo di Giustizia</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono> 0961 - 885759 (1^ sezione)0961 - 885784 (2^ sezione)</telefono>
+        <fax> 0961 - 885755 (1^ sezione)0961 - 885783 (2^ sezione)</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di FIRENZE">
+        <altronome/>
+        <indirizzo> Viale Alessandro Guidoni, 61 - Palazzo di giustizia -</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono> 055-79941 (centralino)055 - 7996339</telefono>
+        <fax> 055 - 7996339</fax>
+        <email> elisabetta.barbetti@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di GENOVA">
+        <altronome/>
+        <indirizzo>Piazza Portoria, 1</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16121</cap>
+        <telefono> 010 - 5691 (centralino)010 - 5692788 / 89 / 90 (U.R.P.)</telefono>
+        <fax>010 - 5692615</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di L'AQUILA">
+        <altronome/>
+        <indirizzo>Via XX Settembre, 67</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 632337</telefono>
+        <fax>0862 - 401267</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di LECCE">
+        <altronome/>
+        <indirizzo>Viale Michele De Pietro</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono> 0832 - 660286 / 2792850832 - 247031 (cancelleria)</telefono>
+        <fax>0832 - 247031 (cancelleria)</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di MESSINA">
+        <altronome/>
+        <indirizzo> Via Tommaso Cannizzaro - piazza S. Pugliatti</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98100</cap>
+        <telefono> 090 - 7766273</telefono>
+        <fax> 090 - 7766271</fax>
+        <email> tribunale.messina@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di MILANO">
+        <altronome/>
+        <indirizzo> Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20122</cap>
+        <telefono> 02 - 54333682 (centralino cancelleria)</telefono>
+        <fax> 02 - 5456730</fax>
+        <email> assise.tribunale.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di NAPOLI">
+        <altronome/>
+        <indirizzo> Piazza Cenni</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80100</cap>
+        <telefono> (I sezione) sospesa(II sezione) sospesa(III sezione) 081 - 2233900 (cancelleria) 081 - 2233889(IV sezione) 081 - 2233899 (cancelleria) 081 - 2233891(V sezione) 081 - 2233898 (cancelleria) 081 - 2233894(dirigenza) 081 - 2233892(impugnazione) 081 - 2233897(ausiliario socio-assist.) 081 - 2233895 (segreteria) 081 - 2234206</telefono>
+        <fax> (I sezione) sospesa(II sezione) sospesa(III sezione) 081 - 2234203(IV sezione) 081 - 2234205(V sezione) 081 - 2234208</fax>
+        <email> carlo.vigliotti@giustizia.it</email>
+        <pec>assiseappello.ca.napoli@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di PALERMO">
+        <altronome/>
+        <indirizzo>Piazza Vittorio Emanuele Orlando</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono>091 - 7426303</telefono>
+        <fax>091 - 7426463</fax>
+        <email>tribunale.palermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di PERUGIA">
+        <altronome/>
+        <indirizzo>Piazza Matteotti, 1</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06100</cap>
+        <telefono> 075 - 54051 (centralino)075 - 5405668 (funzionario)</telefono>
+        <fax>075 - 5727910</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di POTENZA">
+        <altronome/>
+        <indirizzo>Via Nazario Sauro, 64</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 491669</telefono>
+        <fax>0971 - 471779</fax>
+        <email>angelo.santarsiero@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via Sant'Anna - Palazzo CE.DIR. - Torre n. 3 piano 2</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89128</cap>
+        <telefono>0965 - 810064</telefono>
+        <fax>0965 - 810064</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di ROMA">
+        <altronome/>
+        <indirizzo>Via Antonio Varisco, 11</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00136</cap>
+        <telefono> 06 - 38793661 / 2 / 3 (cancelleria)06 - 38793660 (cancelleria IV sezione penale)</telefono>
+        <fax>06 - 38703781 (cancelleria)</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di SALERNO">
+        <altronome/>
+        <indirizzo> Corso Vittorio Emanuele</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono> 089 - 5645443</telefono>
+        <fax> 089 - 5645444</fax>
+        <email> tribunale.salerno@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di SASSARI">
+        <altronome/>
+        <indirizzo>Via Roma, 49</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>079 - 204505</telefono>
+        <fax>079 - 232701</fax>
+        <email>antonello.manca@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di TARANTO">
+        <altronome/>
+        <indirizzo>Via Marche, s.n.c.</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74100</cap>
+        <telefono>099 - 7343363</telefono>
+        <fax>099 - 7343273</fax>
+        <email>eva.galendro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di TORINO">
+        <altronome/>
+        <indirizzo>Corso Vittorio Emanuele II, 130</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10138</cap>
+        <telefono>011 - 4327111 (centralino)</telefono>
+        <fax>011 - 4327582</fax>
+        <email>tribunale.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di TRENTO">
+        <altronome/>
+        <indirizzo> Largo Pigarelli, 1</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono> 0461 - 200111 (centralino)0461 - 200210 (ufficio informazioni)</telefono>
+        <fax> 0461 - 208538</fax>
+        <email> tribunale.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di TRIESTE">
+        <altronome/>
+        <indirizzo> Via Foro Ulpiano, 1</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34133</cap>
+        <telefono> 040 - 7792412</telefono>
+        <fax> 040 - 635366</fax>
+        <email> tribunale.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Corte di Assise di VENEZIA">
+        <altronome/>
+        <indirizzo>Sede di Santa Croce, 430 Edificio 1 (Cittadella della Giustizia - P.le Roma)</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30135</cap>
+        <telefono> 041 - 9653706 / 707 / 708 / 709 / 710 / 711 / 713 / 715 / 716 / 717 / 718 cancelleria dibattimento assise041 - 9653719 / 720 / 726 / 727 / 728 / 729 cancelleria postdibattimento assise</telefono>
+        <fax> 041 - 9653449 / 450 / 456 cancelleria dibattimento assise 041 - 9653452 / 454 / 455 cancelleria postdibattimento assise</fax>
+        <email> corteassise.tribunale.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.tribunale.venezia.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
