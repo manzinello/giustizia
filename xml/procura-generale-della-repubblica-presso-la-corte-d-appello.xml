@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Procura Generale della Repubblica presso la Corte d'appello-->
+<root>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di ANCONA">
+        <altronome/>
+        <indirizzo> Via Matteotti, 48</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60121</cap>
+        <telefono> 071 - 5062517</telefono>
+        <fax> 071 - 2072568071 - 5062434</fax>
+        <email> pg.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di BARI">
+        <altronome/>
+        <indirizzo>Piazza E. De Nicola</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70100</cap>
+        <telefono> 080 - 5298111 (centralino)080 - 5749218</telefono>
+        <fax>080 - 5794547</fax>
+        <email> pg.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.pg.bari.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di BOLOGNA">
+        <altronome/>
+        <indirizzo> Piazza dei Tribunali, 4</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40124</cap>
+        <telefono> 051 - 201512</telefono>
+        <fax> 051 - 201768 (segreteria)051 - 585653 (esecuzioni penali)</fax>
+        <email> pg.bologna@giustizia.it esecpenale.pg.bologna@giustizia.it penale.segreteria.pg.bologna@giustizia.it affari.civili.pg.bologna@giustizia.it contab.pg.bologna@giustizia.it formatore.pg.bologna@giustizia.it </email>
+        <pec> prot.pg.bologna@giustiziacert.it esecuzioni.pg.bologna@giustiziacert.it giurisdizione.pg.bologna@giustiziacert.it contabilita.pg.bologna@giustiziacert.it</pec>
+        <codicefiscale>91197670374</codicefiscale>
+        <sitoweb>www.pg.bologna.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di BRESCIA">
+        <altronome/>
+        <indirizzo> Via Lattanzio Gambara, 40</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25122</cap>
+        <telefono> 030-7674111 (centralino)030-76742027 (anticamera Procuratore Generale)030-7674221/4206 (segreteria particolare  Procuratore  Generale - Magistrati)030-7674222 (dirigente amministrativo)030-7674219 (segreteria civile e amministrativa)030-7674218/4215 (segreteria penale)030-7674213/4216 (ufficio esecuzioni penali)030-7674240/4237 (ufficio ragioneria - funzionario delegato)</telefono>
+        <fax> 030 - 7672575 (anticamera Procuratore Generale)030 - 7674046 (segreteria particolare  Procuratore  Generale - Magistrati)030 - 7674999 (dirigente amministrativo)030 - 7674046 (segreteria civile e amministrativa)030 - 3774996 (segreteria penale)030 - 7674051 (ufficio esecuzioni penali)030 - 7674021 (ufficio ragioneria - funzionario delegato)</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80050550179</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 febbraio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di CAGLIARI">
+        <altronome/>
+        <indirizzo> Piazza della Repubblica, 18</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09127</cap>
+        <telefono> 070 - 60222223 / 2224 (segreteria affari generali e personale)070 - 60222223/ 2216 (segreteria particolare del procuratore generale)070 - 60222220 / 2217 (segreteria affari penali e rapporti con l’estero)070 - 60222215 (segreteria affari civili e amministrativi)070 - 60222554 / 2200/ 2218 (segreteria esecuzione sentenze penali)070 - 60222221/ 2219 (contabilità)070 - 60222792 (peconomato)</telefono>
+        <fax> 070 - 60222790 (segreteria affari generali e personale)070 - 60222790 (segreteria particolare del procuratore generale)070 - 60222807 / 303477 (segreteria affari penali e rapporti con l’estero)070 - 60222490 (segreteria affari civili e amministrativi)070 - 303477 / 60222807 (segreteria esecuzione sentenze penali)070 - 60222490 (contabilità)070 - 60222790 (economato)</fax>
+        <email> pg.cagliari@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011370932</codicefiscale>
+        <sitoweb>http://www.pg.cagliari.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 ottobre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di CAGLIARI - Sezione distaccata di SASSARI">
+        <altronome/>
+        <indirizzo> Via Budapest, 34</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono> 079 - 209200 / 266 / 244</telefono>
+        <fax> 079 - 236827</fax>
+        <email> pg.sassari@giustizia.it penale.pg.sassari@giustizia.it</email>
+        <pec>prot.pg.sassari@giustiziacert.it penale.pg.sassari@giustiziacert.it civile.pg.sassari@giustiziacert.it</pec>
+        <codicefiscale>92025600906 Codice IPA SPESE DI GIUSTIZIA (da indicare nelle fatture elettroniche) 2O1NYL Codice IPA SPESE DI FUNZIONAMENTO (da indicare nelle fatture elettroniche) B69E75</codicefiscale>
+        <sitoweb> www.procuragenerale.sassari.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive>apertura al pubblico: dal lunedì al giovedì dalle 9 alle 13 e dalle 16 alle 17 venerdì dalle 8.30 alle 13.30 sabato dalle 8.30 alle 13.30 solo per gli atti in scadenza o che si riferiscono a interessi costituzionalmente garantiti come la libertà personale l'apertura pomeridiana è sospesa dal 1 agosto al 31 agosto. In questo periodo l'orario al pubblico è dal lunedì al sabato dalle 8.45 alle 13.45.Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di CALTANISSETTA">
+        <altronome/>
+        <indirizzo> Via Libertà, 5</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono> 0934 - 71211</telefono>
+        <fax> 0934 - 592067</fax>
+        <email> pg.caltanissetta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>http://www.pg.caltanissetta.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di CAMPOBASSO">
+        <altronome/>
+        <indirizzo> Piazza Vittorio Emanuele - viale Elena</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono> 0874 - 400335 (centralino anche per informazioni)0874 - 400206 (segreteria affari generali - responsabile)0874 - 400332 (segreteria affari generali - collaboratori)0874 - 400201 (segreteria civile/penale)0874 - 400203 (segreteria esecuzioni e avocazioni)0874 - 400202 / 400210 / 400208 (contabilità)</telefono>
+        <fax> 0874 - 98647 0874 - 418399 (ufficio esecuzioni e avocazioni)</fax>
+        <email> pg.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92000500709</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile</patrono>
+        <infoaggiuntive>apertura al pubblico dal lunedì al sabato dalle 8.30 alle 13.30. Martedì e giovedì dalle 15 alle 17.Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di CATANIA">
+        <altronome/>
+        <indirizzo> Piazza Verga</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95100</cap>
+        <telefono> 095 - 446586</telefono>
+        <fax> 095 - 502502</fax>
+        <email> pg.catania@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 febbraio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di CATANZARO">
+        <altronome/>
+        <indirizzo> Via Falcone e Borsellino, s.n.c.</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono> 0961 - 885111 (centralino)</telefono>
+        <fax> 0961 - 747153</fax>
+        <email> pg.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di FIRENZE">
+        <altronome/>
+        <indirizzo> Viale Alessandro Guidoni, 61 - Palazzo di giustizia -</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono> 055 - 79941 (centralino)</telefono>
+        <fax> 055 - 7995833 (segreteria amministrativa)055 - 7995848 (uff. contabilità)055 - 7995826 (segreteria penale)055 - 7995852 (uff. esecuzione penale)055 - 7995826 (uff. rogatorie)055 - 7995835 (uff.estradizioni; M.A.E.; Convenzioni Strasburgo)</fax>
+        <email> pg.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di GENOVA">
+        <altronome/>
+        <indirizzo> Piazza Portoria, 1</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16100</cap>
+        <telefono> 010 - 5691 (centralino)010 - 5692788 / 89 / 90 (URP)</telefono>
+        <fax> 010 - 5692767</fax>
+        <email> pg.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80047610102</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di L'AQUILA">
+        <altronome/>
+        <indirizzo> Via XX settembre, 66</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono> 0862 - 632807 (segreteria amministrativa)0862 - 632812 (dirigenza amministrativa)0862 - 632823 (ufficio contabilità)0862 - 632819 (segreteria penale)0862 - 632810 (segreteria civile)0862 - 632804 ( segreteria penale e ufficio di formazione distrettuale)</telefono>
+        <fax> 0862 - 6324940862 - 632860 (segreteria amministrativa)</fax>
+        <email> pg.laquila@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93027320667</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di LECCE">
+        <altronome/>
+        <indirizzo> Viale Michele De Pietro, s.n.c.</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono> 0832 - 242731 / 301637 / 276110 (centralino)0832 - 300518 (segreteria procuratore generale)0832 - 245030 (uff. esecuzione penale) </telefono>
+        <fax> 0832 - 249930 (segreteria amministrativa)0832 - 307890 (esecuzione penale)</fax>
+        <email> pg.lecce@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011820752</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 Agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di LECCE - Sezione distaccata di TARANTO">
+        <altronome/>
+        <indirizzo> Viale G. Impastato n. 1/C - Quartiere Paolo VI</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74123</cap>
+        <telefono> 099 - 7343111 (centralino) 099 - 7343614 (segreteria amministrativa)099 - 7343617 (segreteria esecuzioni penali)099 - 7343611 (segreteria affari giurisdizionali)099 - 7343603 (segreteria contabilità)</telefono>
+        <fax> 099 - 7343697 (segreteria amministrativo-contabile)099 - 7343624 (segreteria esecuzioni e giurisdizionale)</fax>
+        <email> pg.taranto@giustizia.it segramm.pg.taranto@giustizia.it (ufficio personale e amministrativo) segresecpenali.pg.taranto@giustizia.it (ufficio esecuzioni penali) segr.penale.pg.taranto@giustizia.it (ufficio affari giurisdizionali) segrcontab.pg.taranto@giustizia.it (ufficio contabilità e funzionario delegato spese giustizia) </email>
+        <pec>prot.pg.taranto@giustiziacert.it (affari amministrativi e contabilità) esecuzione.pg.taranto@giustiziacert.it (esecuzioni penali) giurisdizione.pg.taranto@giustiziacert.it (affari giurisdizionali)</pec>
+        <codicefiscale>90037800738</codicefiscale>
+        <sitoweb>www.pg.taranto.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 maggio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di MESSINA">
+        <altronome/>
+        <indirizzo> Via Tommaso Cannizzaro</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98100</cap>
+        <telefono> 090 - 77661 (centralino)</telefono>
+        <fax> 090 - 663016</fax>
+        <email> pg.messina@giustizia.it </email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.pg.messina.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 giugno</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di MILANO">
+        <altronome/>
+        <indirizzo> Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20122</cap>
+        <telefono> 02 - 5436 (centralino)</telefono>
+        <fax> 02 - 55195857</fax>
+        <email> pg.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di NAPOLI">
+        <altronome/>
+        <indirizzo> Piazza Cenni - Nuovo Palazzo di Giustizia</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80143</cap>
+        <telefono> 081 - 2237111 (centralino)</telefono>
+        <fax> 081 - 2234449</fax>
+        <email> pg.napoli@giustizia.it affaripenali.pg.napoli@giustizia.it affaricivili.protocolloeconsegnatar.pg.napoli@giustizia.it demolizioni.pg.napoli@giustizia.it ufficiogestionepersonale.pg.napoli@giustizia.it segreteriaaffaririservati.pg.napoli@giustizia.it ufficioimpugnazioni.pg.napoli@giustizia.it ufficioesecuzione.pg.napoli@giustizia.it ufficiocontabilita.pg.napoli@giustizia.it</email>
+        <pec>dirigente.pg.napoli@giustiziacert.it prot.pg.napoli@giustiziacert.it procuratoregenerale.pg.napoli@giustiziacert.it	affaripenali.pg.napoli@giustiziacert.it impugnazioni.pg.napoli@giustiziacert.it esecuzioni.pg.napoli@giustiziacert.it	affaricivili.pg.napoli@giustiziacert.it contabilita.pg.napoli@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di PALERMO">
+        <altronome/>
+        <indirizzo> Piazza Vittorio Emanuele Orlando</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono> 091 - 7421111 (centralino) 091 - 322431(Dirigente amministrativo) 091 - 589633 (segreteria particolare Procuratore Generale) 091 - 6112542 (ufficio personale) 091 - 581363 (ufficio esecuzione)</telefono>
+        <fax> 091 - 584334 (segreteria particolare) 091 - 6116669 (ufficio personale)</fax>
+        <email> pg.palermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.pg.palermo.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di PERUGIA">
+        <altronome/>
+        <indirizzo> Piazza Matteotti, 22</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06100</cap>
+        <telefono> 075 - 54051075 - 5405500</telefono>
+        <fax> 075 - 5727951</fax>
+        <email> pg.perugia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di POTENZA">
+        <altronome/>
+        <indirizzo> Via Nazario Sauro - Palazzo di Giustizia</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono> 0971 - 491650 / 491940 (segreteria del Procuratore Generale ed amministrativa)0971 - 491648 (contabilità e risorse)0971 - 491789 (affari civili e penali)0971 - 491652 (esecuzione penale)</telefono>
+        <fax> 0971 - 471825 (segreteria del Procuratore Generale ed amministrativa)0971 - 594287 (contabilità e risorse)0971 - 491654 (esecuzione penale)</fax>
+        <email> pg.potenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006460762</codicefiscale>
+        <sitoweb>www.pg.potenza.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 maggio</patrono>
+        <infoaggiuntive>Orari di apertura al pubblico: dal lunedì al sabato dalle 8,30 alle 13,30il martedì ed il giovedì anche dalle 15,30 alle 16,30Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo> Via Cimino, 2</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89100</cap>
+        <telefono> 0965 - 21593</telefono>
+        <fax> 0965 - 25572</fax>
+        <email> pg.reggiocalabria@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di ROMA">
+        <altronome/>
+        <indirizzo> Piazza Adriana, 2</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00193</cap>
+        <telefono> 06 - 684849 (centralino)</telefono>
+        <fax> 06 - 6872209 (ufficio esecuzione) 06 - 6871642 06 - 68308663</fax>
+        <email> pg.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di SALERNO">
+        <altronome/>
+        <indirizzo> Corso Garibaldi - Palazzo di Giustizia</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono> 089 - 5645111 (centralino)089 - 5645212 (segreteria del procuratore generale)</telefono>
+        <fax> 089 - 231711 (segreteria amministrativa)089 - 221181 (segreteria procuratore generale)</fax>
+        <email> pg.salerno@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di TORINO">
+        <altronome/>
+        <indirizzo> Corso Vittorio Emanuele II, 130</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10138</cap>
+        <telefono> 011 - 4327111 (centralino)</telefono>
+        <fax> 011 - 4329056</fax>
+        <email> pg.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>96553380013</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive>www.giustizia.piemonte.it, tutte le informazioni sulla Procura GeneraleLiquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di TRENTO">
+        <altronome/>
+        <indirizzo> Largo Pigarelli, 1</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono> 0461 - 200111 (centralino) 0461 - 200210 (ufficio informazioni) 0461 - 200310 (anticamera Procuratore generale) 0461 - 200292 / 248 (Rosanna Aievola resp. segreteria generale) 0461 - 200209 (Carla Zorer resp. resp. segreteria contabile) 0461 - 200431 (Massimo Fuiano resp. segreteria penale) 0461 - 200291 (Lorenza Caramel resp. segreteria civile) 0461 - 200224 (Vincenzo Spezzano consegnatario e servizio traduzioni)</telefono>
+        <fax> 0461 - 839746 - segreteria generale 0461 - 200293 - segreteria penale</fax>
+        <email> pg.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80017170228</codicefiscale>
+        <sitoweb>www.procuragenerale.trento.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 giugno</patrono>
+        <infoaggiuntive>apertura al pubblico dalle 8.30 alle 13.30 tutti i giorni feriali.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di TRENTO - Sezione distaccata di BOLZANO">
+        <altronome/>
+        <indirizzo> Corso Libertà, 23</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono> 0471 - 226111 (centralino) 0471 - 226450 (Angela Moresco - segreteria generale) 0471 - 226405 (Sonya Beretta - segreteria penale) 0471 - 226445 (Susanna Nagler - segreteria civile)</telefono>
+        <fax> 0471 - 226452</fax>
+        <email> pg.bolzano@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94054740215</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive>Apertura al pubblico dalle 8.30 alle 13.30 tutti i giorni feriali</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di TRIESTE">
+        <altronome/>
+        <indirizzo> Via Foro Ulpiano, 1</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34100</cap>
+        <telefono> 040 - 7792251</telefono>
+        <fax> 040 - 635064</fax>
+        <email> pg.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura Generale della Repubblica presso la Corte d'Appello di VENEZIA">
+        <altronome/>
+        <indirizzo> San Marco, 4041</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30124</cap>
+        <telefono> 041 - 5217724 (centralino)</telefono>
+        <fax> 041 - 5237649</fax>
+        <email> pg.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+</root>
