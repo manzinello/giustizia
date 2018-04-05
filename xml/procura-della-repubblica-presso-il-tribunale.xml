@@ -1,0 +1,3924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Procura della Repubblica presso il Tribunale-->
+<root>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di AGRIGENTO">
+        <altronome/>
+        <indirizzo>Via Mazzini 179</indirizzo>
+        <comune>AGRIGENTO</comune>
+        <codiceistat>19084001</codiceistat>
+        <cap>92100</cap>
+        <telefono>0922527111</telefono>
+        <fax> 0922 - 6038830922 - 619397 (segreteria Procuratore)0922 - 603626 (segreteria amministrativa Dirigente)</fax>
+        <email>procura.agrigento@giustizia.it</email>
+        <pec>prot.procura.agrigento@giustiziacert.it</pec>
+        <codicefiscale>80005060845</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.agrigento.it</sito>
+        </urp>
+        <altresedi>Sede di via Scimè n. 2 Agrigento - 92100 - tel 0922527711 - dove sono allocate Le seguenti aliquote della Polizia Giudiziaria: Polizia di Stato, Guardia di Finanza, Vigili Urbani, Corpo Forestale dello Stato e della Regione Sicilia, Guardia Costiera.Giorno di chiusura: 25/04 chiusura per Festa patronale.procura.agrigento@giustizia.it</altresedi>
+        <patrono>25/04</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.agrigento@giustizia.it</email>
+            <pec/>
+            <fax>0922 527422</fax>
+            <telefono>0922/527417-21</telefono>
+            <ricevimento>lun-sab 9-11 /13-13.45</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ALESSANDRIA">
+        <altronome/>
+        <indirizzo>CORSO CRIMEA 81</indirizzo>
+        <comune>ALESSANDRIA</comune>
+        <codiceistat>01006003</codiceistat>
+        <cap>15121</cap>
+        <telefono>0131284311</telefono>
+        <fax> 0131 - 252463 (segreteria affari generali)0131 - 52297 (segreteria penale)0131 - 284127 (segreteria dibattimento)0131 - 284406 (esecuzioni penale)0131 - 284545 (casellario giudiziario)</fax>
+        <email>procura.alessandria@giustizia.it</email>
+        <pec>dirigente.procura.alessandria@giustiziacert.it</pec>
+        <codicefiscale>80051790063</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>Attività inquirente</altresedi>
+        <patrono>10/11</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.alessandria@giustizia.it</email>
+            <pec/>
+            <fax>0131 - 284545</fax>
+            <telefono>0131 - 284300</telefono>
+            <ricevimento>dal lunedì al sabato dalle ore 8.30 alle ore 13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ANCONA">
+        <altronome/>
+        <indirizzo>CORSO MAZZINI 95</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60121</cap>
+        <telefono>0715061</telefono>
+        <fax> 071 - 5062357</fax>
+        <email>procura.ancona@giustizia.it</email>
+        <pec>procuratore.ancona@giustiziacert.it</pec>
+        <codicefiscale>80021220423</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>04/05</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.ancona@giustizia.it</email>
+            <pec/>
+            <fax>071 - 202782</fax>
+            <telefono>071 - 5062316</telefono>
+            <ricevimento>lun-ven 9-13.00, mar 15.00-17.00, sabato chiuso</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di AOSTA">
+        <altronome/>
+        <indirizzo>Via Ollietti, 1</indirizzo>
+        <comune>AOSTA</comune>
+        <codiceistat>02007003</codiceistat>
+        <cap>11100</cap>
+        <telefono>0165306202</telefono>
+        <fax> 0165 - 363890</fax>
+        <email>procura.aosta@giustizia.it</email>
+        <pec>prot.procura.aosta@giustiziacert.it</pec>
+        <codicefiscale>80007950076</codicefiscale>
+        <sitoweb>www.procura.aosta.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.aosta@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0165/306206-241</telefono>
+            <ricevimento>lun-sab 8.30-13.30 mar e gio 14.30-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di AREZZO">
+        <altronome/>
+        <indirizzo>PIAZZA FALCONE E BORSELLINO 1</indirizzo>
+        <comune>AREZZO</comune>
+        <codiceistat>09051002</codiceistat>
+        <cap>52100</cap>
+        <telefono>057517381</telefono>
+        <fax> 0575 - 1738309 (segreteria amministrativa)0575 - 1738365 (ricezione atti)0575 - 1738369 (casellario giudiziale)0575 - 1738354 (esecuzioni penali)0575 - 1738358 (ufficio del dibattimento)</fax>
+        <email>procura.arezzo@giustizia.it</email>
+        <pec>dirigente.procura.arezzo@giustiziacert.it</pec>
+        <codicefiscale>92008370519</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>PIAZZA FALCONE E BORSELLINO</indirizzo>
+            <cap>52100</cap>
+            <email>procura.arezzo@giustizia.it</email>
+            <telefono>057517381</telefono>
+            <sito>www.procura.arezzo.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>07/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.arezzo@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0575/1738366</telefono>
+            <ricevimento>lun-ven 8.45-13 mar e gio 15-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ASCOLI PICENO">
+        <altronome/>
+        <indirizzo>PIAZZA SERAFINO ORLINI N.1</indirizzo>
+        <comune>ASCOLI PICENO</comune>
+        <codiceistat>11044007</codiceistat>
+        <cap>63100</cap>
+        <telefono>07362711</telefono>
+        <fax> 0736 - 257234</fax>
+        <email>procura.ascolipiceno@giustizia.it</email>
+        <pec>procuratore.procura.ascolipiceno@giustiziacert.it</pec>
+        <codicefiscale>80006730446</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.ascolipiceno@giustizia.it</email>
+            <pec/>
+            <fax>0736/271314</fax>
+            <telefono>0736/2712-46-33</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ASTI">
+        <altronome/>
+        <indirizzo>Via Govone 9</indirizzo>
+        <comune>ASTI</comune>
+        <codiceistat>01005005</codiceistat>
+        <cap>14100</cap>
+        <telefono>0141388309</telefono>
+        <fax> 0141 - 388350</fax>
+        <email>procura.asti@giustizia.it</email>
+        <pec>dirigente.procura.asti@giustizacert.it</pec>
+        <codicefiscale>80015350053</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Govone</indirizzo>
+            <cap>14100</cap>
+            <email>urp.procura.asti@giustizia.it</email>
+            <telefono>0141388309</telefono>
+            <sito>www.procuraasti.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.asti@giustizia.it</email>
+            <pec/>
+            <fax>0141/388319</fax>
+            <telefono>0141/388301</telefono>
+            <ricevimento>lun-sab 830 - 13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di AVELLINO">
+        <altronome/>
+        <indirizzo>Piazza Aldo Moro - Palazzo di Giustizia senza</indirizzo>
+        <comune>AVELLINO</comune>
+        <codiceistat>15064008</codiceistat>
+        <cap>83100</cap>
+        <telefono>08257971</telefono>
+        <fax> 0825 - 38201</fax>
+        <email>procura.avellino@giustizia.it</email>
+        <pec>prot.procura.avellino@giustiziacert.it</pec>
+        <codicefiscale>80013550647</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.avellino@giustizia.it</email>
+            <pec/>
+            <fax>0825/780108</fax>
+            <telefono>0825/797291</telefono>
+            <ricevimento>lun-ven 9-13.15 mar e gio 14.15-5.157</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di AVEZZANO">
+        <altronome/>
+        <indirizzo>Via Corradini 144</indirizzo>
+        <comune>AVEZZANO</comune>
+        <codiceistat>13066006</codiceistat>
+        <cap>67051</cap>
+        <telefono>086343181</telefono>
+        <fax>0863 - 4318308</fax>
+        <email>procura.avezzano@giustizia.it</email>
+        <pec>dirigente.procura.avezzano@giustiziacert.it</pec>
+        <codicefiscale>81004370664</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Corradini</indirizzo>
+            <cap>67051</cap>
+            <email>procura.avezzano@giustizia.it</email>
+            <telefono>08634318321</telefono>
+            <sito>www.procura.avezzano@giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>27/04</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.avezzano@giustizia.it</email>
+            <pec/>
+            <fax>0863/4318308</fax>
+            <telefono>0863/4318321</telefono>
+            <ricevimento>lun-ven 9-13 mar gio 15/17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BARCELLONA POZZO DI GOTTO">
+        <altronome/>
+        <indirizzo>Via Camarda 48</indirizzo>
+        <comune>BARCELLONA POZZO DI GOTTO</comune>
+        <codiceistat>19083005</codiceistat>
+        <cap>98051</cap>
+        <telefono>09097921</telefono>
+        <fax> 090 - 9791481 / 9792332</fax>
+        <email>procura.barcellonapozzodigotto@giustizia.it</email>
+        <pec>prot.procura.barcellonapozzodigotto@giustiziacert.it</pec>
+        <codicefiscale>90004280831</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Camarda</indirizzo>
+            <cap>98051</cap>
+            <email>silvana.raimondo@giustizia.it</email>
+            <telefono>0909792309</telefono>
+            <sito>http://www.procura.barcellonapozzodigotto.giustizia.it/</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.barcellonapozzodigotto@giustizia.it</email>
+            <pec>casellario.procura.barcellonapozzodigotto@giustiziacert.it</pec>
+            <fax>090 9792317</fax>
+            <telefono>090 9792320</telefono>
+            <ricevimento>lun-sab 8.30 - 13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BARI">
+        <altronome/>
+        <indirizzo>via Nazariantz 1</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70123</cap>
+        <telefono>0805270111</telefono>
+        <fax> 080 - 5277287</fax>
+        <email>procura.bari@giustizia.it</email>
+        <pec>dirigente.procura.bari@giustiziacert.it</pec>
+        <codicefiscale>80018810723</codicefiscale>
+        <sitoweb>www.procura.bari.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.bari@giustizia.it</email>
+            <pec/>
+            <fax>080/5298170</fax>
+            <telefono>080/5298168-295</telefono>
+            <ricevimento>lun-sab 8.30-12.30 mar e gio 14-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BELLUNO">
+        <altronome/>
+        <indirizzo>Via Segato 2</indirizzo>
+        <comune>BELLUNO</comune>
+        <codiceistat>05025006</codiceistat>
+        <cap>32100</cap>
+        <telefono>0437947111</telefono>
+        <fax> 0437 - 940670</fax>
+        <email>procura.belluno@giustizia.it</email>
+        <pec>dirigente.procura.belluno@giustiziacert.it</pec>
+        <codicefiscale>80002300251</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.belluno@giustizia.it</email>
+            <pec/>
+            <fax>0437/948952</fax>
+            <telefono/>
+            <ricevimento>lun-ven 8-12 mer 14-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BENEVENTO">
+        <altronome/>
+        <indirizzo>VIA R. DE CARO 7</indirizzo>
+        <comune>BENEVENTO</comune>
+        <codiceistat>15062008</codiceistat>
+        <cap>82100</cap>
+        <telefono>0824309111</telefono>
+        <fax> 0824 - 312889</fax>
+        <email>procura.benevento@giustizia.it</email>
+        <pec>prot.procura.benevento@giustiziacert.it</pec>
+        <codicefiscale>80001430620</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.benevento@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0824/309236-235</telefono>
+            <ricevimento>lun-ven 9-13 mar e gio 14.30-15.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BERGAMO">
+        <altronome/>
+        <indirizzo>PIAZZA DANTE 2</indirizzo>
+        <comune>BERGAMO</comune>
+        <codiceistat>03016024</codiceistat>
+        <cap>20121</cap>
+        <telefono>035390111</telefono>
+        <fax> 035 - 247433035-390365 (Segreteria del Procuratore e amministrativa)035-390372 (Dirigente)035-247433 (Ricezione atti)035-225553 (Casellario)035-219553 (Esecuzioni penali)</fax>
+        <email>procura.bergamo@giustizia.it</email>
+        <pec>procuratore.bergamo@giustiziacert.it</pec>
+        <codicefiscale>80029190164</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.bergamo@giustizia.it</email>
+            <pec/>
+            <fax>035/225553</fax>
+            <telefono>035/390353</telefono>
+            <ricevimento>lun-ven 8.30-13 mer 15.30-17.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BIELLA">
+        <altronome/>
+        <indirizzo>via marconi 28</indirizzo>
+        <comune>BIELLA</comune>
+        <codiceistat>01096004</codiceistat>
+        <cap>13900</cap>
+        <telefono>0152452500</telefono>
+        <fax> 015 - 2452558 / 576</fax>
+        <email>procura.biella@giustizia.it</email>
+        <pec>prot.procura.biella@giustiziacert.it</pec>
+        <codicefiscale>81068630029</codicefiscale>
+        <sitoweb>http://www.procura.biella.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.biella@giustiazia.it</email>
+            <pec/>
+            <fax>015/2452506</fax>
+            <telefono>015/2452502</telefono>
+            <ricevimento>lun-sab 8.30-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BOLOGNA">
+        <altronome/>
+        <indirizzo>Via Garibaldi 6</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40124</cap>
+        <telefono>051 - 201111</telefono>
+        <fax> 051 - 201647 (direzione)051 - 201883 (segreteria amministrativa)051 - 201904 (segreteria DDA)051 - 201333 (segreteria civile)051 - 201906 (ufficio esecuzioni penali)051 - 201649 / 201950 (ufficio casellario giudiziario)051 - 201900 (ufficio carichi pendenti)051 - 201948 (segreterie magistrati)</fax>
+        <email>procura.bologna@giustizia.it</email>
+        <pec>casellario.procura.bologna@giustiziacert.it</pec>
+        <codicefiscale>80081870372</codicefiscale>
+        <sitoweb>www.procura.bologna.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi>Sede distaccata: Giudice di Pace - Unità operativa dibattimento e fase istruttoria - Via Barontini, 16 40138 Bologna -Tel.:051-4203204/207 Fax:051-4203200 - e-mail:franze.vincenzo@giustizia.it - festa patronale: 4 ottobre - Attività svolta: fase istruttoria e dibattimentale dei procedimenti di competenza del giudice di pace</altresedi>
+        <patrono>Capodanno, Epifania, Lunedì di Pasqua, Festa della liberazione, Festa dei lavoratori, festa della Repubblica, Ferragosto, Festa del Patrono (4 ottobre - è previsto un presidio), Ognisanti, festa dell'Immacolata, Natale, Santo Stefano ,</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.bologna@giustiziacert.it</email>
+            <pec/>
+            <fax>051 - 201649</fax>
+            <telefono>051 - 201952-201897</telefono>
+            <ricevimento>lun-ven 8.30-12.30 mar e gio 15.30-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BOLZANO">
+        <altronome/>
+        <indirizzo>Piazza Tribunale, 1</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono>0471 - 226111 (Centralino) 0471 - 226281 /365 (anticamera Procuratore della Repubblica) 0471 - 226634 /681 (segreteria amministrativa) 0471 - 226289 (segreteria penale) 0471 - 226224 (amministrazione del personale) 0471 - 226330 (affari civili ed economato) 0471 - 226360 (spese di giustizia) 0471 - 226213 (esecuzioni penali) 0471 - 226205 (casellario)</telefono>
+        <fax> 0471 - 226654 (segreteria amministrativa) 0471-226618 (segreteria penale)</fax>
+        <email>procura.bz@giustizia.it</email>
+        <pec>prot.procura.bolzano@giustiziacert.it</pec>
+        <codicefiscale>80002240218</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive>Apertura al pubblico dalle 8.30 alle 13.30 tutti i giorni feriali.</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.bolzano@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono/>
+            <ricevimento/>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BRESCIA">
+        <altronome/>
+        <indirizzo> Via Lattanzio Gambara, 40</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25122</cap>
+        <telefono> 030 - 7675111 (centralino)030 - 7675281 (casellario giudiziale)030 - 7675238 / 7675217 / 7675306 / 7675209 / 7675219 (esecuzioni penali)030 - 7675247 (segreteria centrale DDA)030 - 7675280 (segreteria amministrativa civile)</telefono>
+        <fax> 030 - 7675022 (centralino)030 - 7675122 (casellario giudiziale)030 - 7675195 / 7675120 (esecuzioni penali)030 - 7675191 (segreteria centrale DDA)030 - 7675133 (segreteria amministrativa civile)</fax>
+        <email> procura.brescia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.brescia@giustizia.it</email>
+            <pec/>
+            <fax>030/7675122</fax>
+            <telefono>030/7675245-282-320</telefono>
+            <ricevimento>lun-sab 8.15-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BRINDISI">
+        <altronome/>
+        <indirizzo>via lanzillotti 3</indirizzo>
+        <comune>BRINDISI</comune>
+        <codiceistat>16074001</codiceistat>
+        <cap>72100</cap>
+        <telefono>0831534111</telefono>
+        <fax> 0831 - 511889 (segreteria amministrativa)0831 - 516387 (registro generale)0831 - 511729 (commessi)0831 - 585964 (segreteria procuratore)</fax>
+        <email>procura.brindisi@giustizia.it</email>
+        <pec>prot.procura.brindisi@giustiziacert.it</pec>
+        <codicefiscale>80006910741</codicefiscale>
+        <sitoweb>http://www.procura.brindisi.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.brindisi.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.brindisi@giustizia.it</email>
+            <pec/>
+            <fax>0831/581867</fax>
+            <telefono>0831/534817</telefono>
+            <ricevimento>lun-sab 8.30-13 14-15</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di BUSTO ARSIZIO">
+        <altronome/>
+        <indirizzo>LARGO G 4</indirizzo>
+        <comune>BUSTO ARSIZIO</comune>
+        <codiceistat>03012026</codiceistat>
+        <cap>21052</cap>
+        <telefono>0331650011</telefono>
+        <fax> 0331 - 632983 / 634002</fax>
+        <email>procura.bustoarsizio@giustizia.it</email>
+        <pec>procuratore.procura.bustoarsizio@giustiziacert.it</pec>
+        <codicefiscale>81010070126</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.bustoarsizio@giustizia.it</email>
+            <pec>casellario.procura.bustoarsizio@giustiziacert.it</pec>
+            <fax>0331/621925</fax>
+            <telefono>0331 - 650206</telefono>
+            <ricevimento>lun-ven 8.30 - 13.00 e 14.00 - 15.00</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CAGLIARI">
+        <altronome/>
+        <indirizzo>Piazza della Repubblica, 18</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09100</cap>
+        <telefono>070 - 60221</telefono>
+        <fax> 070 - 6022845 / 548</fax>
+        <email>procura.cagliari@giustizia.it</email>
+        <pec>prot.procura.cagliari@giustiziacert.it</pec>
+        <codicefiscale>80008920920</codicefiscale>
+        <sitoweb>www.procura.ca.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>PIAZZA DELLA REPUBBLICA</indirizzo>
+            <cap>09047</cap>
+            <email>procura.cagliari@giustizia.it</email>
+            <telefono>07060221</telefono>
+            <sito>http://www.procura.ca.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>30/10</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.cagliari@giustizia.it</email>
+            <pec/>
+            <fax>070/60222227</fax>
+            <telefono>070/70232206</telefono>
+            <ricevimento>lun-ven 9-11.45 da lun a gio 15.30-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CALTAGIRONE">
+        <altronome/>
+        <indirizzo>viale mario milazzo 218</indirizzo>
+        <comune>CALTAGIRONE</comune>
+        <codiceistat>19087011</codiceistat>
+        <cap>95041</cap>
+        <telefono>0933369111</telefono>
+        <fax> 0933-21221 (dirigente segreteria) - 0933/369308 (segreteria amministrativa)</fax>
+        <email>procura.caltagirone@giustizia.it</email>
+        <pec>prot.procura.caltagirone@giustiziacert.it</pec>
+        <codicefiscale>82002870879</codicefiscale>
+        <sitoweb>http://www.procuracaltagirone.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>viale mario milazzo</indirizzo>
+            <cap>95041</cap>
+            <email>procura.caltagirone@giustizia.it</email>
+            <telefono>0933 369300</telefono>
+            <sito>http://www.procuracaltagirone.it/</sito>
+        </urp>
+        <altresedi>Festività Santo Patrono 24 luglio 2014</altresedi>
+        <patrono>24/07</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.caltagirone@giustizia.it</email>
+            <pec/>
+            <fax>0933/25720</fax>
+            <telefono>0933/369113-110-350-108</telefono>
+            <ricevimento>lun-sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>VIA LIBERTA' 1</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>093471111</telefono>
+        <fax> 0934 - 555385 / 5554802 / 553394 (via Libertà)0934 - 596517 (piazza Iacono)</fax>
+        <email>procura.caltanissetta@giustizia.it</email>
+        <pec>procuratore.procura.caltanissetta@giustiziacert.it</pec>
+        <codicefiscale>80003970854</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>VIA LIBERTA'</indirizzo>
+            <cap>93100</cap>
+            <email>urp.ca.caltanissetta@giustizia.it</email>
+            <telefono>093471348</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.caltanissetta@giustizia.it</email>
+            <pec/>
+            <fax>0934/71243</fax>
+            <telefono>0934/71776-71360</telefono>
+            <ricevimento>lun - mer - ven: 9-11.15 - 12.45-13.30; mar e gio: mattina 9.00 - 12.00 e dalle 15.00 alle 16.30 - sabato chiuso</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CAMPOBASSO">
+        <altronome/>
+        <indirizzo>piazza vittorio emanuele II 26</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono>08744001</telefono>
+        <fax> 0874 - 92757</fax>
+        <email>procura.campobasso@giustizia.it</email>
+        <pec>dirigente.procura.campobasso@giustiziacert.it</pec>
+        <codicefiscale>80008040703</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.giustiziamolise.it</sito>
+        </urp>
+        <altresedi>via d'amato 86100 campobasso telefono centralino 0874/4001sezioni di polizia giudiziaria</altresedi>
+        <patrono>23/04</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.campobasso@giustizia.it</email>
+            <pec/>
+            <fax>0874/92757</fax>
+            <telefono>0874/400335</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CASSINO">
+        <altronome/>
+        <indirizzo>Piazza Labriola, 1</indirizzo>
+        <comune>CASSINO</comune>
+        <codiceistat>12060019</codiceistat>
+        <cap>03043</cap>
+        <telefono>0776 - 3209317</telefono>
+        <fax> 0776 - 21457</fax>
+        <email>procura.cassino@giustizia.it</email>
+        <pec>prot.procura.cassino@giustiziacert.it</pec>
+        <codicefiscale>81005530605</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>piazza labriola</indirizzo>
+            <cap>03043</cap>
+            <email>procura.cassino@giustizia.it</email>
+            <telefono>07763209317</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>21/03</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.cassino@giustizia.it</email>
+            <pec/>
+            <fax>0776 - 3209249</fax>
+            <telefono>0776 - 3209312</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CASTROVILLARI">
+        <altronome/>
+        <indirizzo> Via XX Settembre</indirizzo>
+        <comune>CASTROVILLARI</comune>
+        <codiceistat>18078033</codiceistat>
+        <cap>87012</cap>
+        <telefono> 0981 - 2326411 (centralino)0981 - 26910</telefono>
+        <fax> 0981 - 26441</fax>
+        <email> procura.castrovillari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.castrovillari@giustizia.it</email>
+            <pec/>
+            <fax>0981/486486</fax>
+            <telefono>0981/486441-427-424</telefono>
+            <ricevimento>lun-ven 8 -14</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CATANIA">
+        <altronome/>
+        <indirizzo>Piazza Giovanni Verga 15</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95129</cap>
+        <telefono>095366111</telefono>
+        <fax> 095 - 438214 / 45</fax>
+        <email>procura.catania@giustizia.it</email>
+        <pec>prot.procura.catania@giustiziacert.it</pec>
+        <codicefiscale>80012250876</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Piazza Verga - Sportello Unico stanza n. 35 piano terra</indirizzo>
+            <cap>95129</cap>
+            <email/>
+            <telefono>095366288</telefono>
+            <sito>www.procuracatania.it</sito>
+        </urp>
+        <altresedi>Via Crispi n. 268, Catania, tel.0957342420 : Segreterie P.M.; Sezione Affari Semplici (SAS); Segreterie Dibattimento Monocratico, Spese di Giustizia.Viale XX Settembre n. 51 Catania, tel. 095366371 : CIT . Via F. Riso n. 5 Catania, tel 0957516815 tel. 0957516808 : Esecuzione Penale; Misure di Prevenzione; Mod. 42; Segreteria Civile; Informatica.via Firenze n. 133 e via Fichera n.2, Catania, tel. 095441434 : Archivi.</altresedi>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.casellario.catania@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>095/366415</telefono>
+            <ricevimento>lun-sab 8.45-11.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CATANZARO">
+        <altronome/>
+        <indirizzo>Piazza Falcone e Borsellino snc</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961885111</telefono>
+        <fax> 0961 - 709672 / 458</fax>
+        <email>procura.catanzaro@giustizia.it</email>
+        <pec>dirigente.procura.catanzaro@giustiziacert.it</pec>
+        <codicefiscale>80003100791</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>16/07</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.catanzaro@giustizia.it</email>
+            <pec/>
+            <fax>0961/885401</fax>
+            <telefono>0961/885403-404</telefono>
+            <ricevimento>lun-ven 8.30-13.30 mar e gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CHIETI">
+        <altronome/>
+        <indirizzo>Via Spaventa, 4</indirizzo>
+        <comune>CHIETI</comune>
+        <codiceistat>13069022</codiceistat>
+        <cap>66100</cap>
+        <telefono>0871 - 42381</telefono>
+        <fax> 0871 - 4238301 / 4238361</fax>
+        <email>procura.chieti@giustizia.it</email>
+        <pec>dirigente.procura.cheti@giustiziacert.it</pec>
+        <codicefiscale>80002280693</codicefiscale>
+        <sitoweb>www.procura.chieti.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>VIA SPAVENTA</indirizzo>
+            <cap>66100</cap>
+            <email>procura.chieti@giustizia.it</email>
+            <telefono>087142381</telefono>
+            <sito/>
+        </urp>
+        <altresedi>non esiste altra sede oltre quella su indicata, ove è svolta l'attività giurisdizionale nella sua interezza</altresedi>
+        <patrono>giorni festivi (il giorno del Santo patrono è comunque aperto al pubblico)</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.chieti@giustizia.it</email>
+            <pec/>
+            <fax>0871/41620</fax>
+            <telefono>0871/4238343</telefono>
+            <ricevimento>lun-me - ven 8-13 mar e gio 8-12 15-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CIVITAVECCHIA">
+        <altronome/>
+        <indirizzo>VIA TERME DI TRAIANO N. 56</indirizzo>
+        <comune>CIVITAVECCHIA</comune>
+        <codiceistat>12058032</codiceistat>
+        <cap>00053</cap>
+        <telefono>0766215201</telefono>
+        <fax> 0766 - 3602237 / 355 / 581295</fax>
+        <email>procura.civitavecchia@giustizia.it</email>
+        <pec>procuratore.procura.civitavecchia@giustiziacert.it</pec>
+        <codicefiscale>83005330580</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>28/04</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.civitavecchia@giustizia.it</email>
+            <pec/>
+            <fax>0766/360332</fax>
+            <telefono>0766/215207</telefono>
+            <ricevimento>lun-ven 9-12,30 sab solo urgenze</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di COMO">
+        <altronome/>
+        <indirizzo> Viale Spallino, 6</indirizzo>
+        <comune>COMO</comune>
+        <codiceistat>03013075</codiceistat>
+        <cap>22100</cap>
+        <telefono> 031 - 231111</telefono>
+        <fax> 031 - 271370</fax>
+        <email> procura.como@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.procura.como.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.como@giustizia.it</email>
+            <pec/>
+            <fax>031/231410</fax>
+            <telefono>031/231283</telefono>
+            <ricevimento>lun sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di COSENZA">
+        <altronome/>
+        <indirizzo>piazza Fausto e Luigi Gullo snc</indirizzo>
+        <comune>COSENZA</comune>
+        <codiceistat>18078045</codiceistat>
+        <cap>87100</cap>
+        <telefono>0984487111</telefono>
+        <fax> 0984 - 392933</fax>
+        <email>procura.cosenza@giustizia.it</email>
+        <pec>dirigente.procura.cosenza@giustiziacert.it</pec>
+        <codicefiscale>80007490784</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>piazza Fausto e Luigi Gullo</indirizzo>
+            <cap>87100</cap>
+            <email>urp.procura.cosenza@giustizia.it</email>
+            <telefono>0984487232</telefono>
+            <sito>www.procuracosenza.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.cosenza@giustizoa.it</email>
+            <pec>casellario.procura.cosenza@giustiziacer.it</pec>
+            <fax>0984/392593</fax>
+            <telefono>0984/487356-487397</telefono>
+            <ricevimento>lun-ven 9-13 lun-mer 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CREMONA">
+        <altronome/>
+        <indirizzo>Via Jacini 6/A</indirizzo>
+        <comune>CREMONA</comune>
+        <codiceistat>03019036</codiceistat>
+        <cap>26100</cap>
+        <telefono>0372548233</telefono>
+        <fax> 0372 - 548219</fax>
+        <email>procura.cremona@giustizia.it</email>
+        <pec>dirigente.procura.cremona@giustiziacert.it</pec>
+        <codicefiscale>80005420197</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via dei tribunali</indirizzo>
+            <cap>26100</cap>
+            <email>tribunalecr.urp@pec.it</email>
+            <telefono>0372548527</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>13/11</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.cremona@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0372/548224</telefono>
+            <ricevimento>lun sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CROTONE">
+        <altronome/>
+        <indirizzo>Piazza Luigi Calabresi snc</indirizzo>
+        <comune>CROTONE</comune>
+        <codiceistat>18101010</codiceistat>
+        <cap>88900</cap>
+        <telefono>0962920111</telefono>
+        <fax> 0962 - 21826</fax>
+        <email>procura.crotone@giustizia.it</email>
+        <pec>prot.procura.crotone@giustiziacert.it</pec>
+        <codicefiscale>81007800790</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.crotone@giustizia.it</email>
+            <pec/>
+            <fax>0962/920263</fax>
+            <telefono>0962/920262</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di CUNEO">
+        <altronome/>
+        <indirizzo>Piazza Galimberti 7</indirizzo>
+        <comune>CUNEO</comune>
+        <codiceistat>01004078</codiceistat>
+        <cap>12100</cap>
+        <telefono>0171607737</telefono>
+        <fax> 0171 - 607750 / 751</fax>
+        <email>procura.cuneo@giustizia.it</email>
+        <pec>prot.procura.cuneo@giustiziacert.it</pec>
+        <codicefiscale>80025980048</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.cuneo@giustizia.it</email>
+            <pec/>
+            <fax>0171/607735</fax>
+            <telefono>0171/607779</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ENNA">
+        <altronome/>
+        <indirizzo>VIALE ARMANDO DIAZ 80</indirizzo>
+        <comune>ENNA</comune>
+        <codiceistat>19086009</codiceistat>
+        <cap>94100</cap>
+        <telefono>0935529111</telefono>
+        <fax> 0935 - 500567 / 420</fax>
+        <email>procura.enna@giustizia.it</email>
+        <pec>prot.procura.enna@giustiziacert.it</pec>
+        <codicefiscale>80005210861</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.enna@giustizia.it</email>
+            <pec/>
+            <fax>0935/529213</fax>
+            <telefono>0935/529274</telefono>
+            <ricevimento>lun-ve 8.30-13.30 lun e mer 15-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di FERMO">
+        <altronome/>
+        <indirizzo>CORSO CAVOUR 51</indirizzo>
+        <comune>FERMO</comune>
+        <codiceistat>11109006</codiceistat>
+        <cap>63900</cap>
+        <telefono>07342821</telefono>
+        <fax> 0734 - 229854</fax>
+        <email>procura.fermo@giustizia.it</email>
+        <pec>prot.procura.fermo@giustiziacert.it</pec>
+        <codicefiscale>81008520447</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>CORSO CAVOUR</indirizzo>
+            <cap>63900</cap>
+            <email>procura.fermo@giustizia.it</email>
+            <telefono>0734/282211</telefono>
+            <sito>www.procura.fermo.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.fermo@giustizia.it</email>
+            <pec/>
+            <fax>0734/229854</fax>
+            <telefono>0734/282208</telefono>
+            <ricevimento>lun-sa 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di FERRARA">
+        <altronome/>
+        <indirizzo>via mentessi 9</indirizzo>
+        <comune>FERRARA</comune>
+        <codiceistat>08038008</codiceistat>
+        <cap>44121</cap>
+        <telefono>0532232700</telefono>
+        <fax> 0532 - 2477750532 - 232715 (casellario)</fax>
+        <email>procura.ferrara@giustizia.it</email>
+        <pec>prot.procura.ferrara@giustiziacert.it</pec>
+        <codicefiscale>80016290381</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.ferrara@giustizia.it</email>
+            <pec/>
+            <fax>0532/232715</fax>
+            <telefono>0532/232 713-714</telefono>
+            <ricevimento>lun-ven 8-11.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di FIRENZE">
+        <altronome/>
+        <indirizzo>Viale Guidoni, 61</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono>05579941</telefono>
+        <fax> 055 -4226900 - Registro generale055 - 7994275 - Ufficio esecuzioni penali055 - 7994534 - Segreterie P.M.</fax>
+        <email>procura.firenze@giustizia.it</email>
+        <pec>prot.procura.firenze@giustiziacert.it</pec>
+        <codicefiscale>80042190480</codicefiscale>
+        <sitoweb>http://www.giustizia.toscana.it/giustizia.toscana/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>viale Guidoni</indirizzo>
+            <cap>50127</cap>
+            <email>urp.ca.firenze@giustizia.it</email>
+            <telefono>0557995341</telefono>
+            <sito>www.giustizia.toscana.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>24/06</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.firenze@giustizia.it</email>
+            <pec/>
+            <fax>055/7996360</fax>
+            <telefono>055/799 4497-6342-6357</telefono>
+            <ricevimento>lun-ven 9-11.30 13-13.30 gio 14.30-16.30 17-17.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di FOGGIA">
+        <altronome/>
+        <indirizzo>VIALE PRIMO MAGGIO SN</indirizzo>
+        <comune>FOGGIA</comune>
+        <codiceistat>16071024</codiceistat>
+        <cap>71121</cap>
+        <telefono>08816601</telefono>
+        <fax> 0881 - 661262</fax>
+        <email>procura.foggia@giustizia.it</email>
+        <pec>prot.procura.foggia@giustiziacert.it</pec>
+        <codicefiscale>80003680719</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.foggia@giustizia.it</email>
+            <pec/>
+            <fax>0881/660318</fax>
+            <telefono>0881/660337</telefono>
+            <ricevimento>lun-ven 8.30-13.30 mar e gio 15.30-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di FORLÌ">
+        <altronome/>
+        <indirizzo>Piazza Cesare Beccaria 1</indirizzo>
+        <comune>FORLÌ</comune>
+        <codiceistat>08040012</codiceistat>
+        <cap>47121</cap>
+        <telefono>0543717111</telefono>
+        <fax> 0543 - 717273</fax>
+        <email>procura.forli@giustizia.it</email>
+        <pec>prot.procura.forli@giustiziacert.it</pec>
+        <codicefiscale>80014050407</codicefiscale>
+        <sitoweb>http://www.procura.forli.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Piazza Cesare Beccaria</indirizzo>
+            <cap>47121</cap>
+            <email>urpufficigiudiziari.tribunale.procura.forli@giustizia.it</email>
+            <telefono>0543 717125</telefono>
+            <sito>www.procura.forli.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.forli@giustizia.it</email>
+            <pec/>
+            <fax>0543/717261</fax>
+            <telefono>0543/717262</telefono>
+            <ricevimento>lun-sab 8.30-12.30 mer 15-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di FROSINONE">
+        <altronome/>
+        <indirizzo>VIA FEDELE CALVOSA snc</indirizzo>
+        <comune>FROSINONE</comune>
+        <codiceistat>12060038</codiceistat>
+        <cap>03100</cap>
+        <telefono>07753601</telefono>
+        <fax> 0775 - 290510 Casellario Giudiziale0775 - 290631 Segreteria Udienze Dibattimentali0775 - 360432 Segreteria per i procedimenti di competenza del Giudice di Pace0775 - 360438 Segreteria Spese di Giustizia0775 - 360442 Segreteria Penale del Sostituto Procuratore della Repubblica dr. Adolfo Coletta0775 - 200792 Segreteria Penale del Sostituto Procuratore della Repubblica dr. Tonino Di Bona0775 - 201317 Segreteria Penale del Sostituto Procuratore della Repubblica dr. Vittorio Misiti0775 - 360464 Segreteria Penale del Sostituto Procuratore della Repubblica d.ssa Rita Caracuzzo0775 - 360444 Segreteria Penale del Sostituto Procuratore della Repubblica dr. Alessandro Di Cicco0775 - 360448 Segreteria Penale del Sostituto Procuratore della Repubblica d.ssa Barbara Trotta0775 - 360466 Segreteria Penale del Sostituto Procuratore della Repubblica d.ssa Monica Montemerani0775 - 360461 Ufficio Esecuzione Penale0775 - 292467 Segreteria Generale - Economato0775 - 201961 Sez. Polizia Giudiziaria - Carabinieri0775 - 290646 Sez. Polizia Giudiziaria - Polizia di Stato0775 - 290639 Sez. Polizia Giudiziaria - Guardia di Finanza0775 - 360462 Sez. Polizia Giudiziaria - Corpo Forestale dello Stato </fax>
+        <email>procura.frosinone@giustizia.it</email>
+        <pec>prot.procura.frosinone@giustiziacert.it</pec>
+        <codicefiscale>80005690609</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>20/06</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.frosinone@giustizia.it</email>
+            <pec/>
+            <fax>0775/290510</fax>
+            <telefono>0775/360456</telefono>
+            <ricevimento>lun-ven 9-13 mer e gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di GELA">
+        <altronome/>
+        <indirizzo>via Rosario Livatino sn</indirizzo>
+        <comune>GELA</comune>
+        <codiceistat>19085007</codiceistat>
+        <cap>93012</cap>
+        <telefono>0933812111</telefono>
+        <fax/>
+        <email>procura.gela@giustizia.it</email>
+        <pec>prot.procura.gela@giustiziacert.it</pec>
+        <codicefiscale>90005960852</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.gela.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>08/09</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.gela@giustizia.it</email>
+            <pec/>
+            <fax>0933/923309</fax>
+            <telefono>0933/812238</telefono>
+            <ricevimento>lun-sab 8-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di GENOVA">
+        <altronome/>
+        <indirizzo>Piazza Portoria 1</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16121</cap>
+        <telefono>0105691</telefono>
+        <fax> 010 - 584019010 - 583345 (Casellario)010 - 540991 (Esecuzione penale)</fax>
+        <email>procura.genova@giustizia.it</email>
+        <pec>dirigente.procura.genova@giustiziacert.it</pec>
+        <codicefiscale>80050850108</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Piazza Portoria</indirizzo>
+            <cap>16121</cap>
+            <email>urp.genova@giustizia.it</email>
+            <telefono>010 - 5692789</telefono>
+            <sito>www.urp.ufficigiudiziarigenova.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.genova@giutizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>010 - 5692922 / 2807</telefono>
+            <ricevimento>lun-ven 8.30-13 sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di GORIZIA">
+        <altronome/>
+        <indirizzo>Via Nazario Sauro, 1</indirizzo>
+        <comune>GORIZIA</comune>
+        <codiceistat>06031007</codiceistat>
+        <cap>34170</cap>
+        <telefono>0481 - 593916</telefono>
+        <fax> 0481 - 593902 / 21</fax>
+        <email>procura.gorizia@giustizia.it</email>
+        <pec>prot.procura.gorizia@giustiziacert.it</pec>
+        <codicefiscale>80007150313</codicefiscale>
+        <sitoweb>www.procura.gorizia.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>16 marzo</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.gorizia@giustizia.it</email>
+            <pec/>
+            <fax>0481 - 593921</fax>
+            <telefono>0481 - 5939 12-10</telefono>
+            <ricevimento>lun-sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di GROSSETO">
+        <altronome/>
+        <indirizzo>via monterosa 47</indirizzo>
+        <comune>GROSSETO</comune>
+        <codiceistat>09053011</codiceistat>
+        <cap>58100</cap>
+        <telefono>0564477111</telefono>
+        <fax> 0564/477366 - 477300 </fax>
+        <email>procura.grosseto@giustizia.it</email>
+        <pec>dirigente.procura.grosseto@giustiziacert.it</pec>
+        <codicefiscale>80009640535</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.grosseto@giustizia.it</email>
+            <pec>casellario.procura.grosseto@giustizia.cert.it</pec>
+            <fax>0564/477360</fax>
+            <telefono>0564/477330</telefono>
+            <ricevimento>lun-sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di IMPERIA">
+        <altronome/>
+        <indirizzo>VIA XXV APRILE 67</indirizzo>
+        <comune>IMPERIA</comune>
+        <codiceistat>07008031</codiceistat>
+        <cap>18100</cap>
+        <telefono>01832771</telefono>
+        <fax> 0183 - 277408</fax>
+        <email>procura.imperia@giustizia.it</email>
+        <pec>dirigente.procura.imperia@giustizia.it</pec>
+        <codicefiscale>80003530088</codicefiscale>
+        <sitoweb>http://procura.provincia.imperia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26/11</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.imperia@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0183/277 416-417</telefono>
+            <ricevimento>lun-ven 8-13 lun e mer 14.30-17.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ISERNIA">
+        <altronome/>
+        <indirizzo>PIAZZA TULLIO TEDESCHI 50</indirizzo>
+        <comune>ISERNIA</comune>
+        <codiceistat>14094023</codiceistat>
+        <cap>86170</cap>
+        <telefono>086547111</telefono>
+        <fax> 0865 - 414747</fax>
+        <email>procura.isernia@giustizia.it</email>
+        <pec>prot.procura.isernia@giustiziacert.it</pec>
+        <codicefiscale>80050570946</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.giustiziacampania.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.isernia@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0865/4711244</telefono>
+            <ricevimento>lun-ven 8.30-13.30 mar e gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di IVREA">
+        <altronome/>
+        <indirizzo> Via Cesare Pavese, 4 scala B</indirizzo>
+        <comune>IVREA</comune>
+        <codiceistat>01001125</codiceistat>
+        <cap>10015</cap>
+        <telefono> 0125 - 416215 / 234 / 255 (URP) 0125 - 416218 (Dott. Ferrando Giuseppe) 416219 (segreteria) 0125 - 416222 (Dott. Crupi Ruggero Mauro) 416238 (segreteria) 0125 - 416220 (Dott. Boscagli Lorenzo) 416221 (segreteria) 0125 - 416217 (Dott. Drammis Giuseppe) 416252 (segreteria) 0125 - 284306 (Dott.ssa Molinari Chiara) 4162225 (segreteria) 0125 - 284310 / 311 (VPO) 0125 - 284322 (ufficio spese) 0125 - 416262 (segreteria esecuzioni e protocollo) 0125 - 416239 / 284284 (segreteria dibattimentale tribunale) 0125 - 416237 (segreteria Giudice di pace) 0125 - 416250 (ufficio iscrizioni)</telefono>
+        <fax> 0125 - 425001 (segreteria Giudice di pace) 0125 - 23000 (Procuratore) 0125 - 45870 (ricezione notizia di reato) 0125 - 284247 (Sostituti) 0125 - 4264202 (ufficio spese) 0125 - 416260 (segreteria dibattimentale tribunale) 0125 - 45808 (URP)</fax>
+        <email> procura.ivrea@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.ivrea@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0125/416234</telefono>
+            <ricevimento>lun-sab 8.30-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di L'AQUILA">
+        <altronome/>
+        <indirizzo>Via XX Settembre, 66</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 6321</telefono>
+        <fax> 0862 - 632221</fax>
+        <email>procura.laquila@giustizia.it</email>
+        <pec>dirigente.procura.laquila@giustiziacert.it</pec>
+        <codicefiscale>80010220665</codicefiscale>
+        <sitoweb>www.procura.laquila.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via XX Settembre, 66</indirizzo>
+            <cap>67100</cap>
+            <email/>
+            <telefono>0862 - 632347 / 632419</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>10/06</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.laquila@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0862 - 632347</telefono>
+            <ricevimento>dal lunedì al venerdì dalle ore 08,30 alle ore 13,30; il sabato solo ricevimento richieste stesso orario; per richieste urgenti dal lunedì al venerdì dalle ore 08,30 alle ore 10,00.</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LA SPEZIA">
+        <altronome/>
+        <indirizzo>Viale Italia 142</indirizzo>
+        <comune>LA SPEZIA</comune>
+        <codiceistat>07011015</codiceistat>
+        <cap>19124</cap>
+        <telefono>0187595111</telefono>
+        <fax> 0187 - 5955110187 - 595524 (ufficio esecuzione penale)</fax>
+        <email>procura.laspezia@giustizia.it</email>
+        <pec>prot.procura.laspezia@giustiziacert.it</pec>
+        <codicefiscale>80010980110</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>Nessuna altra sede</altresedi>
+        <patrono>19/03</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.laspezia@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0187/7595 525 526</telefono>
+            <ricevimento>lun-ven 8.30-13 lun e gio 14.30-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LAGONEGRO">
+        <altronome/>
+        <indirizzo>via napoli 7</indirizzo>
+        <comune>LAGONEGRO</comune>
+        <codiceistat>17076039</codiceistat>
+        <cap>85042</cap>
+        <telefono>09732333253</telefono>
+        <fax> 0973 - 41355</fax>
+        <email>procura.lagonegro@giustizia.it</email>
+        <pec>dirigente.procura.lagonegro@giustiziacert.it</pec>
+        <codicefiscale>83001310768</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via napoli</indirizzo>
+            <cap>85042</cap>
+            <email>floriana.orofino@giustizia.it</email>
+            <telefono>09432333221</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.lagonegro@giustizia.it</email>
+            <pec/>
+            <fax>0973/2333282</fax>
+            <telefono>0973/2333 221 216</telefono>
+            <ricevimento>lun-ven-sab 8.30-14.30 mar - mer - gio 8.30-15</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LAMEZIA TERME">
+        <altronome/>
+        <indirizzo>PIAZZA DELLA REPUBBLICA 1</indirizzo>
+        <comune>LAMEZIA TERME</comune>
+        <codiceistat>18079160</codiceistat>
+        <cap>88046</cap>
+        <telefono>0968498111</telefono>
+        <fax> 0968 - 23075</fax>
+        <email>procura.lameziaterme@giustizia.it</email>
+        <pec>prot.procura.lameziaterme@giustiziacert.it</pec>
+        <codicefiscale>82007140799</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>PIAZZA DELLA REPUBBLICA</indirizzo>
+            <cap>88046</cap>
+            <email>urp.procura.lameziaterme@giustizia.it</email>
+            <telefono>0968498419</telefono>
+            <sito>http://www.procuralameziaterme.it/index.php</sito>
+        </urp>
+        <altresedi/>
+        <patrono>29/06</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.lameziaterme@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0968/498278</telefono>
+            <ricevimento>lun-sab 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LANCIANO">
+        <altronome/>
+        <indirizzo>via fiume 14</indirizzo>
+        <comune>LANCIANO</comune>
+        <codiceistat>13069046</codiceistat>
+        <cap>66034</cap>
+        <telefono>08724686203</telefono>
+        <fax>0872 - 713968</fax>
+        <email>procura.lanciano@giustizia.it</email>
+        <pec>dirigente.procura.lanciano@giustiziacert.it</pec>
+        <codicefiscale>81005850698</codicefiscale>
+        <sitoweb>http://www.procura.lanciano.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.lanciano@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0872/24686201</telefono>
+            <ricevimento>lun-ven 8.30-12.30 gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LANUSEI">
+        <altronome/>
+        <indirizzo>Via Marconi, 95</indirizzo>
+        <comune>LANUSEI</comune>
+        <codiceistat>20105010</codiceistat>
+        <cap>08045</cap>
+        <telefono>0782 - 473402</telefono>
+        <fax> 0782 - 41543</fax>
+        <email>procura.lanusei@giustizia.it</email>
+        <pec>dirigente.procura.lanusei@giustiziacert.it</pec>
+        <codicefiscale>82000420917</codicefiscale>
+        <sitoweb>www.procura.lanusei.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via marconi</indirizzo>
+            <cap>08045</cap>
+            <email/>
+            <telefono/>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.lanusei@giustizia.it</email>
+            <pec/>
+            <fax>0782/415443</fax>
+            <telefono>0782/4734 66-75</telefono>
+            <ricevimento>lun sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LARINO">
+        <altronome/>
+        <indirizzo>PIAZZA DEL POPOLO 1</indirizzo>
+        <comune>LARINO</comune>
+        <codiceistat>14070031</codiceistat>
+        <cap>86035</cap>
+        <telefono>0874821250</telefono>
+        <fax> 0874 - 824110</fax>
+        <email>procura.larino@giustizia.it</email>
+        <pec>prot.procura.larino@giustiziacert.it</pec>
+        <codicefiscale>90000840703</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.larino@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0874/821243 - 821229</telefono>
+            <ricevimento>lun-sab 8.30-13.30 mar e gio 15.30-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LATINA">
+        <altronome/>
+        <indirizzo> Via Ezio, s.n.c.</indirizzo>
+        <comune>LATINA</comune>
+        <codiceistat>12059011</codiceistat>
+        <cap>04100</cap>
+        <telefono> 0773 - 4471</telefono>
+        <fax> 0773 - 447348</fax>
+        <email> procura.latina@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006330593</codicefiscale>
+        <sitoweb>http://www.procuralatina.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 luglio</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.latina@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0773/3447 272 271 317</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LECCE">
+        <altronome/>
+        <indirizzo>Viale Michele De Pietro s.n.c.</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono> 0832 - 660111 (centralino) 0832 - 660223 (segreteria) 0832 - 244524/660204 (registro generale) 0832 - 308368/244524 (casellario giudiziale) 0832 - 660311 (ufficio personale) 0832 - 245931 (ufficio esecuzione penale) 0832 - 279812/279258 (ufficio dibattimento) 0832 - 660345 (ufficio spese di giustizia)</telefono>
+        <fax> 0832 - 334976 (segreteria) 0832 - 246743 (registro generale) 0832 - 246743 (casellario giudiziale) 0832 - 334985 (ufficio personale) 0832 - 244024 (ufficio esecuzione penale) 0832 - 279271 (ufficio dibattimento) 0832 - 301334 (ufficio spese di giustizia)</fax>
+        <email> procura.lecce@giustizia.it casellario.procura.lecce@giustizia.it esecuzione.procura.lecce@giustizia.it dibattimento.procura.lecce@giustizia.it contabilita.procura.lecce@giustizia.it</email>
+        <pec> prot.procura.lecce@giustiziacert.it dirigente.procura.lecce@giustiziacert.it casellario.procura.lecce@giustiziacert.it esecuzioni.procura.lecce@giustiziacert.it</pec>
+        <codicefiscale>80011410752</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Viale Michele De Pietro</indirizzo>
+            <cap>73100</cap>
+            <email>procura.lecce@giustizia.it</email>
+            <telefono>0832244524</telefono>
+            <sito>www.procura.lecce.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>26/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.lecce@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0832/244521-308368</telefono>
+            <ricevimento>lun-sab 8.30-13 mar e gio 15-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LECCO">
+        <altronome/>
+        <indirizzo>corso promessi sposi 27/f</indirizzo>
+        <comune>LECCO</comune>
+        <codiceistat>03097042</codiceistat>
+        <cap>23900</cap>
+        <telefono>0341379111</telefono>
+        <fax> 0341 - 364960</fax>
+        <email>procura.lecco@giustizia.it</email>
+        <pec>prot.procura.lecco@giustiziacert.it</pec>
+        <codicefiscale>83011920135</codicefiscale>
+        <sitoweb>http://www.procura.lecco.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono>0341379420</telefono>
+            <sito>www.procura.lecco.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.lecco@giustizia.it</email>
+            <pec/>
+            <fax>0341/379560</fax>
+            <telefono>0341/379 559-420</telefono>
+            <ricevimento>lun-sab 8.30-12.45 mar e gio 15- 17.15</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LIVORNO">
+        <altronome/>
+        <indirizzo>via Falcone e Borsellino 1</indirizzo>
+        <comune>LIVORNO</comune>
+        <codiceistat>09049009</codiceistat>
+        <cap>57123</cap>
+        <telefono>0586252111</telefono>
+        <fax> 0586 - 889026</fax>
+        <email>procura.livorno@giustizia.it</email>
+        <pec>dirigente.procura.livorno@giustiziacert.it</pec>
+        <codicefiscale>80007400494</codicefiscale>
+        <sitoweb> www.procura.livorno.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22/05</patrono>
+        <infoaggiuntive>apertura al pubblico dal lunedì al sabato dalle 9 alle 13.</infoaggiuntive>
+        <casellario>
+            <email>procura.livorno@giustizia.it</email>
+            <pec/>
+            <fax>0586/252524</fax>
+            <telefono>0586/252524</telefono>
+            <ricevimento>lun-sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LOCRI">
+        <altronome/>
+        <indirizzo>Piazza Francesco Fortugno 10</indirizzo>
+        <comune>LOCRI</comune>
+        <codiceistat>18080043</codiceistat>
+        <cap>89044</cap>
+        <telefono>0964398395</telefono>
+        <fax> 0964 - 22385</fax>
+        <email>procura.locri@giustizia.it</email>
+        <pec>prot.procura.locri.@giustizia.it</pec>
+        <codicefiscale>81004010807</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Piazza F. Fortugno</indirizzo>
+            <cap>89047</cap>
+            <email>procura.locri@giustizia.it</email>
+            <telefono>0964/398247; 0964/398248</telefono>
+            <sito>www.procuralocri.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>25/11</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.locri@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono/>
+            <ricevimento/>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LODI">
+        <altronome/>
+        <indirizzo>Viale Milano, 2</indirizzo>
+        <comune>LODI</comune>
+        <codiceistat>03098031</codiceistat>
+        <cap>26900</cap>
+        <telefono>0371 - 4991</telefono>
+        <fax> 0371 - 499324</fax>
+        <email>procura.lodi@giustizia.it</email>
+        <pec>prot.procura.lodi.@giustiziacert.it</pec>
+        <codicefiscale>84506500150</codicefiscale>
+        <sitoweb>www.procura.lodi.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19/01</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.lodi@giustizia.it</email>
+            <pec/>
+            <fax>0371 - 499355</fax>
+            <telefono>0371 - 499514 / 354</telefono>
+            <ricevimento>lunedì-mercoledì-venerdì 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di LUCCA">
+        <altronome/>
+        <indirizzo>VIA GALLI TASSI 61</indirizzo>
+        <comune>LUCCA</comune>
+        <codiceistat>09046017</codiceistat>
+        <cap>55100</cap>
+        <telefono>05835221</telefono>
+        <fax> 0583 - 522205 (centralino)</fax>
+        <email>procura.lucca@giustizia.it</email>
+        <pec>prot.procura.lucca@giustiziacert.it</pec>
+        <codicefiscale>80008020465</codicefiscale>
+        <sitoweb> www.procura.lucca.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.lucca@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0583/522329</telefono>
+            <ricevimento>lun-sab 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MACERATA">
+        <altronome/>
+        <indirizzo>Via Pesaro 6</indirizzo>
+        <comune>MACERATA</comune>
+        <codiceistat>11043023</codiceistat>
+        <cap>62100</cap>
+        <telefono>07332521</telefono>
+        <fax> 0733 - 252274</fax>
+        <email>procura.macerata@giustizia.it</email>
+        <pec>prot.procura.macerata@giustiziacert.it</pec>
+        <codicefiscale>80011940436</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.macerata.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.macerata@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0733/252205-43</telefono>
+            <ricevimento>lun-sab 8.30-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MANTOVA">
+        <altronome/>
+        <indirizzo>CARLO POMA 11</indirizzo>
+        <comune>MANTOVA</comune>
+        <codiceistat>03020030</codiceistat>
+        <cap>46100</cap>
+        <telefono>03763391</telefono>
+        <fax> 0376 - 328268</fax>
+        <email>procura.mantova@giustizia.it</email>
+        <pec>prot.procura.mantova@giustiziacert.it</pec>
+        <codicefiscale>80029250208</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.mantova@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0376/339465</telefono>
+            <ricevimento>lun-ven 9-13 sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MARSALA">
+        <altronome/>
+        <indirizzo>piazza borsellino 1</indirizzo>
+        <comune>MARSALA</comune>
+        <codiceistat>19081011</codiceistat>
+        <cap>91025</cap>
+        <telefono>0923765111</telefono>
+        <fax> 0923 - 717419</fax>
+        <email>procura.marsala@giustizia.it</email>
+        <pec>prot.procura.marsala@giustiziacert.it</pec>
+        <codicefiscale>82007060815</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19/01</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.marsala@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0923/765 451-452-4432</telefono>
+            <ricevimento>lun-sab 8-13 mar e gio 15-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MASSA">
+        <altronome/>
+        <indirizzo>Piazza De Gasperi 1</indirizzo>
+        <comune>MASSA</comune>
+        <codiceistat>09045010</codiceistat>
+        <cap>54100</cap>
+        <telefono>0585818222</telefono>
+        <fax> 0585 - 818264 / 5</fax>
+        <email>procura.massa@giustizia.it</email>
+        <pec>dirigente.procura.massa@giustiziacert.it</pec>
+        <codicefiscale>80002290452</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>04/10</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.massa@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0585/818227-234</telefono>
+            <ricevimento>lun-sab 9.30-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MATERA">
+        <altronome/>
+        <indirizzo>VIALE ALDO MORO 26</indirizzo>
+        <comune>MATERA</comune>
+        <codiceistat>17077014</codiceistat>
+        <cap>75100</cap>
+        <telefono>0835343111</telefono>
+        <fax> 0835 - 334662</fax>
+        <email>procura.matera@giustizia.it</email>
+        <pec>prot.procura.matera@giustiziacert.it</pec>
+        <codicefiscale>80004870772</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 luglio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.matera@giustizia.it</email>
+            <pec/>
+            <fax>0835/343418</fax>
+            <telefono>0835/343414</telefono>
+            <ricevimento>lun - 8.30-13.30 mar e gio 15.30-17.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MESSINA">
+        <altronome/>
+        <indirizzo>Piazza Maurolico sn</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98122</cap>
+        <telefono>090 - 77661</telefono>
+        <fax> 090 - 662004 (registro generale)090 - 719119 (ufficio locale del casellario)090 - 7766474 (segreteria amministrativa e affari civili)</fax>
+        <email>procura.messina@giustizia.it segreteriadelprocuratore.procura.messina@giustizia.it ricezioneatti.procura.messina@giustizia.it dda.procura.messina@giustizia.it centroassistenzamagistrati.procura.messina@giustizia.it cam.procura.messina@giustizia.it camsegreteria1.procura.messina@giustizia.it camsegreteria2.procura.messina@giustizia.it camsegreteria3.procura.messina@giustizia.it cam.aggiunti.procura.messina@g:iustizia.it udas.procura.messina@giustizia.it dibattimento.procura.messina@giustizia.it esecuzionepenale.procura.messina@giustizia.it funzionariodelegato.procura.messina@giustizia.it spesedigiustizia.procura.messina@giustizia.it</email>
+        <pec>prot.procura.messina@giustiziacert.it procuratore.procura.messina@giustiziacert.it	dirigente.procura.messina@giustiziacert.it	dda.procura.messina@giustiziacert.it cam.procura.messina@giustiziacert.it	intercettazioni.procura.messina@giustiziacert.it	affaricivili.procura.messina@giustiziacert.it	affarisemplici.procura.messina@giustiziacert.it dibattimento.procura.messina@giustiziacert.it	esecuzionepenale.procura.messina@giustiziacert.it ricezioneatti.procura.messina@giustiziacert.it registrogenerale.procura.messina@giustiziacert.it spesedigiustizia.procura.messina@giustiziacert.it gdf.pg.procura.messina@giustiziacert.it</pec>
+        <codicefiscale>80006730834</codicefiscale>
+        <sitoweb> www.giustizia.messina.it</sitoweb>
+        <cartaservizi/>
+        <altresedi>per gli atti urgenti fax 090 - 662004</altresedi>
+        <patrono>03/06</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>ufficiolocale.procura.messina@giustizia.it</email>
+            <pec>casellario.procura.messina@giustiziacert.it</pec>
+            <fax/>
+            <telefono>090/7766 245 -998-596</telefono>
+            <ricevimento>lun-ven 8.30-11 12-13.15 mar e gio 15-16.40 sab 9-11</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MILANO">
+        <altronome/>
+        <indirizzo>via freguglia 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20122</cap>
+        <telefono>0254331</telefono>
+        <fax> 02 - 5457068</fax>
+        <email>procura.milano@giustizia.it</email>
+        <pec>prot.procura.milano@giustiziacert.it</pec>
+        <codicefiscale>80157390156</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>07/12</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.milano@giustizia.it</email>
+            <pec>casellario.procura.milano@giustiziacert.it</pec>
+            <fax/>
+            <telefono>02/54333875</telefono>
+            <ricevimento>lun-sab 9-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MODENA">
+        <altronome/>
+        <indirizzo>Corso Canalgrande, 81</indirizzo>
+        <comune>MODENA</comune>
+        <codiceistat>08036023</codiceistat>
+        <cap>41121</cap>
+        <telefono>0592131111</telefono>
+        <fax/>
+        <email>procura.modena@giustizia.it</email>
+        <pec>dirigente.procura.modena@giustiziacert.it</pec>
+        <codicefiscale>80013630365</codicefiscale>
+        <sitoweb>www.procura.modena.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi>Attività svolte presso la sede principale - centralino passante 0592131700: • Ufficio certificazioni e casellario giudiziale - piano terra stanza 020 Indirizzo e-mail: casellario.procura.modena@giustizia.it tel. 0592131546 / 64 fax. 0592131547 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Ufficio ricezione atti e ignoti - piano primo stanza 107 Indirizzo e-mail: penale.procura.modena@giustizia.it tel. 0592131565 / 45 fax. 0592131563 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Ufficio ricezione informative - piano secondo stanze 224, 225, 226 Indirizzo e-mail: penale.procura.modena@giustizia.it tel. 0592131562 / 61 / 75 fax 0592131568 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. Sabato dalle 9 alle 12. • Unità operative di supporto all’attività dei PM segreteria unità operativa 1 - piano secondo stanza 222 Indirizzo e-mail: uo1.procura.modena@giustizia.it tel. 0592131581 / 79 / 77 fax 0592131580 segreteria unità operativa 2 - piano terzo stanza 322 e 324 Indirizzo e-mail: uo2.procura.modena@giustizia.it tel. 0592131566 / 74 / 78 fax 0592131573 segreteria unità operativa 3 - piano terzo stanza 325 Indirizzo e-mail: uo3.procura.modena@giustizia.it tel. 0592131533 / 84 / 1491 fax 0592131582 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. Sabato dalle 9 alle 12. • Ufficio conclusioni indagini preliminari - piano primo stanza 113 Indirizzo e-mail: ucip.procura.modena@giustizia.it tel. 0592131557 / 48 fax 0592131548 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Ufficio udienze rito monocratico e Giudice di Pace -piano primo stanze 110 112 Indirizzo e-mail: dib.procura.modena@giustizia.it tel. 0592131551 / 49 / 90 fax 0592131553 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Ufficio esecuzioni penali - piano primo stanza 103 / 104 Indirizzo e-mail: espen.procura.modena@giustizia.it tel. 0592131531/ 54 / 55 / 56 fax 0592131558 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Ufficio spese di giustizia - piano terzo stanza 324 Indirizzo e-mail: procura.modena@giustizia.it tel. 0592131576 fax 0592131582 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. • Segreteria amministrativa e di direzione - piano secondo stanza 211 Indirizzo e-mail: procura.modena@giustizia.it tel. 0592131570 / 83 / 98 fax 0592131569 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Ufficio del consegnatario e del funzionario delegato-piano secondo stanza 219 Indirizzo e-mail: procura.modena@giustizia.it tel. 0592131493 fax 0592131569 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. • Centro intercettazioni telefoniche - piano quarto stanza 408 Indirizzo e-mail: cit.procura.modena@giustizia.it tel. 0592131542 fax 0592131550 apertura al pubblico dal lunedì al venerdì dalle 9 alle 12.30. Giovedì dalle 14.30 alle 16.30. Sabato dalle 9 alle 12. Punto informativo presso Palazzo di Giustizia sede del Tribunale di Modena Corso Canalgrande 77 - Atrio principale tel. 0592131074 apertura al pubblico dal lunedì al venerdì dalle 7.30 alle 13 e dalle 14.30 alle 17. Sabato dalle 8 alle 12.</altresedi>
+        <patrono>31 gennaio</patrono>
+        <infoaggiuntive>Punto informativo cui fare richieste di certificatitel. 059 - 2131074 apertura al pubblico dal lunedì al venerdì dalle 7.30 alle 13 e dalle 14.30 alle 17.Sabato dalle 8 alle 12. Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.modena@giustizia.it</email>
+            <pec>casellario.procura.modena@giustiziacert.it</pec>
+            <fax>059/3131547</fax>
+            <telefono>059/2131564</telefono>
+            <ricevimento>lun-ven 9-12.30 gio 14.30 -16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di MONZA">
+        <altronome/>
+        <indirizzo>PIAZZA GARIBALDI 10</indirizzo>
+        <comune>MONZA</comune>
+        <codiceistat>03108033</codiceistat>
+        <cap>20900</cap>
+        <telefono>03923721</telefono>
+        <fax/>
+        <email>procura.monza@giustizia.it</email>
+        <pec>prot.procura.monza@giustiziacert.it</pec>
+        <codicefiscale>85031710156</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.monza.it</sito>
+        </urp>
+        <altresedi>VIALE ROMAGNA 42 - 20900 MONZA - tel. centralino 03920851 Nella sede di piazza Garibaldi sono presenti1) CASELLARIO GIUDIZIALE2) UFFICIO SEGRETERIA CENTRALE (ricezione e registrazione CNR, sportello utenza)3) UFFICIO SPESE DI GIUSTIZIA4) UFFICI DEL PROCURATORE E DEL PROCURATORE AGGIUNTO5) UFFICI DEI SOSTITUTI PROCURATORE6) SEGRETERIA DEI MAGISTRATI7) UFFICIO S.D.A.S. (che tratta i reati di competenza del Giudice di Pace)8) UFFICIO MISURE DI PREVENZIONENella sede di via Romagna si trovano:1) UFFICIO CONCLUSIONE INDAGINI PRELIMINARI2) UFFICIO GIUDIZIO3) UFFICIO ESECUZIONE PENALE4) SEZIONE DI POLIZIA GIUDIZIARIA</altresedi>
+        <patrono/>
+        <infoaggiuntive>ORARIO di APERTURA al PUBBLICOlunedì - 8.30-13.30martedì - 8.30-13.30 - 15.00-16.00 mercoledì - 8.30-13.30 giovedì - 9.00-14.30 “giornata del cittadino” (trattasi di giornata con apertura simultanea di diversi uffici pubblici della città di Monza - progetto del Comune di Monza)venerdì - 8.30-13.00 sabato - 8.30-13.00 Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.monza@giustizia.it</email>
+            <pec/>
+            <fax>039/2372824</fax>
+            <telefono>039/2372 826 - 868</telefono>
+            <ricevimento>lun-mar-ven 8.30-12.30 mar 14.30-15 gio 9-14.30 sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di NAPOLI">
+        <altronome/>
+        <indirizzo>Via Grimaldi E/5</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80143</cap>
+        <telefono>0812236111</telefono>
+        <fax> 081 - 2233380</fax>
+        <email>procura.napoli@giustizia.it</email>
+        <pec>prot.procura.napoli@giustiziacert.it</pec>
+        <codicefiscale>80016560635</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>http://www.giustiziacampania.it/</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.napoli@giustizia.it</email>
+            <pec/>
+            <fax>081/2236053</fax>
+            <telefono>081/2234179</telefono>
+            <ricevimento>lun-ven 8.30-14.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di NOCERA INFERIORE">
+        <altronome/>
+        <indirizzo>via Falcone, 10</indirizzo>
+        <comune>NOCERA INFERIORE</comune>
+        <codiceistat>15065078</codiceistat>
+        <cap>84014</cap>
+        <telefono>081 - 3239333</telefono>
+        <fax> 081 - 5174282</fax>
+        <email>procura.nocerainferiore@giustizia.it</email>
+        <pec>prot.procura.nocerainferiore@giustiziacert.it</pec>
+        <codicefiscale>94012610638</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>09/05</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.nocerainferiore@giustizia.it</email>
+            <pec>casellario.procura.nocerainferiore@giustiziacert.it</pec>
+            <fax>081 - 5174282 / 3239306</fax>
+            <telefono/>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di NOLA">
+        <altronome/>
+        <indirizzo>Palazzo Orsini, Piazza Giordano Bruno s.n.</indirizzo>
+        <comune>NOLA</comune>
+        <codiceistat>15063050</codiceistat>
+        <cap>80035</cap>
+        <telefono>081 - 5119111</telefono>
+        <fax> 081 - 5125388 (segreteria del Procuratore)081 - 5125777 (ricezione atti)081 - 5122429 (ufficio esecuzione)</fax>
+        <email>procura.nola@giustizia.it</email>
+        <pec>prot.procura.nola@giustiziacert.it</pec>
+        <codicefiscale>92008890631</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>Palazzo dell'Università, Piazza Giordano Bruno, 2, Nola (80035)Uffici della sede principale (Palazzo Orsini)Procuratore, Dirigente Amministrativo, Segreteria amministrativa, Segreteria magistrati ed affari civili, Ufficio unico di contabilità, Ufficio Ricezione atti, Casellario ed Archivio, Registro generale, Ufficio esecuzione e misure di prevenzione, Sportello T.i.a.p., Segreterie del Procuratore, del Procuratore aggiunto e dei Sostituti procuratori Onorati, Curatoli, Barela e Capasso.Uffici della sede secondaria (Palazzo dell'Università)Segreterie dei Sostituti procuratori Renzulli, Bianco, De Franchis, Visone, Amoroso, Vitagliano, Cangiano e Valvo. Ufficio del Dibattimento penale.</altresedi>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.nola@giustizia.it</email>
+            <pec/>
+            <fax>081/5125777</fax>
+            <telefono/>
+            <ricevimento>lun-ven 8.30-12 p 14.15-14.45</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di NOVARA">
+        <altronome/>
+        <indirizzo>Via Brusati 8</indirizzo>
+        <comune>NOVARA</comune>
+        <codiceistat>01003106</codiceistat>
+        <cap>28100</cap>
+        <telefono>0321675811</telefono>
+        <fax> 0321 - 675839</fax>
+        <email>procura.novara@giustizia.it</email>
+        <pec>prot.procura.novara@giustiziacert.it</pec>
+        <codicefiscale>94004170034</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Brusati</indirizzo>
+            <cap>28100</cap>
+            <email>urp.procura.novara@giustizia.it</email>
+            <telefono>0321/675840</telefono>
+            <sito>www.procura.novara.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>22/01</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.novara@giustizia.it</email>
+            <pec/>
+            <fax>0321-6758 05-39</fax>
+            <telefono>0321/6758 44 -40</telefono>
+            <ricevimento>lun-ven 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di NUORO">
+        <altronome/>
+        <indirizzo>via Leonardo Da Vinci 17</indirizzo>
+        <comune>NUORO</comune>
+        <codiceistat>20091051</codiceistat>
+        <cap>08100</cap>
+        <telefono>0784216200</telefono>
+        <fax> 0784 - 30195</fax>
+        <email>procura.nuoro@giustizia.it</email>
+        <pec>prot.procura.nuoro@giustiziacert.it</pec>
+        <codicefiscale>80007890918</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.nuoro.it</sito>
+        </urp>
+        <altresedi>Non vi sono altre sedi</altresedi>
+        <patrono>05/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.nuoro@giustizia.it</email>
+            <pec>casellario.procura.nuoro@giustiziacert.it</pec>
+            <fax>0784/216216</fax>
+            <telefono>0784/216216</telefono>
+            <ricevimento>lun-sab 9.15-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di Napoli nord in Aversa">
+        <altronome/>
+        <indirizzo/>
+        <comune>AVERSA</comune>
+        <codiceistat>15061005</codiceistat>
+        <cap/>
+        <telefono>081 - 9794115</telefono>
+        <fax>081 - 9794353</fax>
+        <email>procura.napolinord@giustizia.it</email>
+        <pec>procuratore.procura.napolinord@giustiziacert.itdirigente.procura.napolinord@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb>www.procura.napolinord.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.napolinord@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>081/9794109</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ORISTANO">
+        <altronome/>
+        <indirizzo> Piazza Aldo Moro, s.n.c.</indirizzo>
+        <comune>ORISTANO</comune>
+        <codiceistat>20095038</codiceistat>
+        <cap>09170</cap>
+        <telefono> 0783 - 792399 (centralino)</telefono>
+        <fax> 0783 - 792831</fax>
+        <email> procura.oristano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>urp.procura.oristano@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0783/792320</telefono>
+            <ricevimento>9-11.45</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PADOVA">
+        <altronome/>
+        <indirizzo>VIA NICOLO' TOMMASEO 55</indirizzo>
+        <comune>PADOVA</comune>
+        <codiceistat>05028060</codiceistat>
+        <cap>35131</cap>
+        <telefono>0498236111</telefono>
+        <fax> 049 - 8784616</fax>
+        <email>procura.padova@giustizia.it</email>
+        <pec>prot.procura.padova@giustiziacert.it</pec>
+        <codicefiscale>80024800288</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.padova@giustizia.it</email>
+            <pec>casellario.procura.padova@giustiziacert.it</pec>
+            <fax/>
+            <telefono>049/8236131-136-137</telefono>
+            <ricevimento>lun-sab 9-12.30 gio 15- 17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PALERMO">
+        <altronome/>
+        <indirizzo>P.zza V. E. Orlando, 1</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono>091 - 7421111</telefono>
+        <fax> 091 - 321355</fax>
+        <email>procura.palermo@giustizia.it</email>
+        <pec>procuratore.procura.palermo@giustiziacert.it</pec>
+        <codicefiscale>80026600827</codicefiscale>
+        <sitoweb>www.procura.palermo.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi>Uffici del Dirigente Amministrativovia dell'Altare, 90138 PALERMOtel. 091- 7426714 - fax 091 - 321355 email: segreteriadirigente.procura.palermo@giustizia.it PEC: dirigente.procura.palermo@giustiziacert.it</altresedi>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.palermo@giustizia.it</email>
+            <pec/>
+            <fax>091 - 7426904</fax>
+            <telefono>091 - 7426759 / 868 / 860 / 947</telefono>
+            <ricevimento>lun-ven 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PALMI">
+        <altronome/>
+        <indirizzo>Piazza Amendola s.n.c.</indirizzo>
+        <comune>PALMI</comune>
+        <codiceistat>18080057</codiceistat>
+        <cap>89015</cap>
+        <telefono>09664161</telefono>
+        <fax> 0966 - 416481</fax>
+        <email>procura.palmi@giustizia.it</email>
+        <pec>dirigente.procura.palmi@giustiziacert.it</pec>
+        <codicefiscale>82001720802</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>06/12</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.palmi@giustizia.it</email>
+            <pec/>
+            <fax>0966/416450</fax>
+            <telefono>0966/416565</telefono>
+            <ricevimento>lun-ven 8.30-13.30 14-14.45</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PAOLA">
+        <altronome/>
+        <indirizzo>Via Falcone e Borsellino 11</indirizzo>
+        <comune>PAOLA</comune>
+        <codiceistat>18078091</codiceistat>
+        <cap>87027</cap>
+        <telefono>0982 - 622111</telefono>
+        <fax> 0982 - 583168</fax>
+        <email>procura.paola@giustizia.it</email>
+        <pec>procuratore.procura.paola@giustiziacert.it prot.procura.paola@giustiziacert.it cnr.procura.paola@giustiziacert.it dibattimento.procura.paola@giustiziacert.it esecuzioni.procura.paola@giustiziacert.it casellario.procura.paola@giustiziacert.it spesedigiustizia.procura.paola@giustiziacert.it</pec>
+        <codicefiscale>86002050788</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Falcone e Borsellino</indirizzo>
+            <cap>87027</cap>
+            <email>procura.paola@giustizia.it</email>
+            <telefono>09826221327</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.paola@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0982/6221327</telefono>
+            <ricevimento/>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PARMA">
+        <altronome/>
+        <indirizzo>Vicolo San Marcellino, 5</indirizzo>
+        <comune>PARMA</comune>
+        <codiceistat>08034027</codiceistat>
+        <cap>43121</cap>
+        <telefono>0521031400</telefono>
+        <fax> 0521 - 031408 (segreteria amministrativa)0521 - 031450 / 492 (segreteria penale)0521 - 031493 (sportello penale)0521 - 031542 (segreteria affari dibattimentali)0521 - 031492 (segreteria civile)0521 - 031451 (casellario e carichi pendenti)0521 - 031466 (ufficio esecuzioni penali)</fax>
+        <email>procura.parma@giustizia.it</email>
+        <pec>dirigente.procura.parma@giustiziacert.it</pec>
+        <codicefiscale>80015790340</codicefiscale>
+        <sitoweb>www.procura.parma.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Vicolo San Marcellino</indirizzo>
+            <cap>43121</cap>
+            <email>procura.parma@giustizia.it</email>
+            <telefono>0521031445</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>13/01</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.parma@giustizia.it</email>
+            <pec/>
+            <fax>0521/031451</fax>
+            <telefono>0521/031413</telefono>
+            <ricevimento>lun-ven 9-12 gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PATTI">
+        <altronome/>
+        <indirizzo>via Molino Croce 1</indirizzo>
+        <comune>PATTI</comune>
+        <codiceistat>19083066</codiceistat>
+        <cap>98066</cap>
+        <telefono>0941245111</telefono>
+        <fax> 0941 - 21103</fax>
+        <email>procura.patti@giustizia.it</email>
+        <pec>prot.procura.patti@giustizia.it</pec>
+        <codicefiscale>94000470834</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.patti@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0941/245256-255</telefono>
+            <ricevimento>lun-ven 8-10.30 12-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PAVIA">
+        <altronome/>
+        <indirizzo> Piazza del Tribunale, 1</indirizzo>
+        <comune>PAVIA</comune>
+        <codiceistat>03018110</codiceistat>
+        <cap>27100</cap>
+        <telefono> 0382 - 3981 (centralino)0382 - 398284 (segreteria amministrativa)0382 - 398206 (segreteria penale)0382 - 398264 (segreteria dibattimento)0382 - 398248 (casellario giudiziale - carichi pendenti)0382 - 398233 (esecuzioni penali e segreteria giudice di pace)</telefono>
+        <fax> 0382 - 335020382 - 398252 (segreteria amministrativa)0382 - 304586 (segreteria penale)0382 - 398264 (segreteria dibattimento)0382 - 398409 (casellario giudiziale - carichi pendenti)0382 - 33502 (esecuzioni penali e segreteria giudice di pace)</fax>
+        <email> procura.pavia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80016670186</codicefiscale>
+        <sitoweb>http://www.procura.pavia.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>9 dicembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.pavia@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0382/398248</telefono>
+            <ricevimento>lun-ven 8.30-13.30 sab 9-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PERUGIA">
+        <altronome/>
+        <indirizzo>Via F. Di Lorenzo, 22-24</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06100</cap>
+        <telefono>075 - 540501</telefono>
+        <fax> 075 - 5720658</fax>
+        <email>procura.perugia@giustizia.it</email>
+        <pec>prot.procura.perugia@giustiziacert.it</pec>
+        <codicefiscale>80010080549</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via f. di lorenzo</indirizzo>
+            <cap>06100</cap>
+            <email>procura.perugia@giustizia.it</email>
+            <telefono>0755405007-0755405071</telefono>
+            <sito>www.procura.perugia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>29 gennaio</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.perugia@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono/>
+            <ricevimento>lun-ven 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PESARO">
+        <altronome/>
+        <indirizzo>piazzale carducci 12</indirizzo>
+        <comune>PESARO</comune>
+        <codiceistat>11041044</codiceistat>
+        <cap>61121</cap>
+        <telefono>07216971</telefono>
+        <fax> 0721 - 31510 (cancelleria)0721 - 64276 (segreteria amministrativa)</fax>
+        <email>procura.pesaro@giustizia.it</email>
+        <pec>dirigente.procura.pesaro@giustizia.it</pec>
+        <codicefiscale>80033380413</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.pesaro@giustizia.it</email>
+            <pec>casellario.procura.pesaro@giustiziacert.it</pec>
+            <fax/>
+            <telefono>0721/697344-697270</telefono>
+            <ricevimento>lun-sab 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PESCARA">
+        <altronome/>
+        <indirizzo>via Antonio Lo Feudo 1</indirizzo>
+        <comune>PESCARA</comune>
+        <codiceistat>13068028</codiceistat>
+        <cap>65129</cap>
+        <telefono>08545321</telefono>
+        <fax> 085 - 4503483</fax>
+        <email>procura.pescara@giustizia.it</email>
+        <pec>procuratore.procura.pescara@giustiziacert.it</pec>
+        <codicefiscale>80010710681</codicefiscale>
+        <sitoweb>http://www.procura.pescara.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Antonio Lo Feudo</indirizzo>
+            <cap>65129</cap>
+            <email>procura.pescara@giustizia.it</email>
+            <telefono>08545321</telefono>
+            <sito>www.procura.pescara.gov.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.pescara@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono/>
+            <ricevimento/>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PIACENZA">
+        <altronome/>
+        <indirizzo>via del Consiglio 15</indirizzo>
+        <comune>PIACENZA</comune>
+        <codiceistat>08033032</codiceistat>
+        <cap>29121</cap>
+        <telefono>0523347611</telefono>
+        <fax> 0523 - 347651 (segreteria centrale)0523 - 347630 (segreteria del dibattimento)0523 - 347631 (esecuzioni penali)0523 - 308043 (casellario giudiziario)</fax>
+        <email>procura.piacenza@giustizia.it</email>
+        <pec>dirigente.procura.piacenza@giustiziacert.it</pec>
+        <codicefiscale>80012390334</codicefiscale>
+        <sitoweb>http://www.procura.piacenza.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via del Consiglio</indirizzo>
+            <cap>29121</cap>
+            <email>procura.piacenza@giustizia.it</email>
+            <telefono>0523347633</telefono>
+            <sito>www.procura.piacenza.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>04/07</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.piacenza@giustizia.it</email>
+            <pec>casellario.procura.piacenza@giustiziacert.it</pec>
+            <fax/>
+            <telefono>0523/322866</telefono>
+            <ricevimento>Lun-sab 8.30-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PISA">
+        <altronome/>
+        <indirizzo>via Cesare Beccaria 18</indirizzo>
+        <comune>PISA</comune>
+        <codiceistat>09050026</codiceistat>
+        <cap>56121</cap>
+        <telefono>0509710411</telefono>
+        <fax> 050 - 9710445</fax>
+        <email>procura.pisa@giustizia.it</email>
+        <pec>dirigente.procura.pisa@giustiziacert.it</pec>
+        <codicefiscale>80008310502</codicefiscale>
+        <sitoweb>http://www.procura.pisa.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via beccaria</indirizzo>
+            <cap>56121</cap>
+            <email>procura.pisa@giustizia.it</email>
+            <telefono>0509710410</telefono>
+            <sito>www.procura.pisa.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>17/06</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.pisa@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>050/9710 428 - 427</telefono>
+            <ricevimento>lun-ven 8.30-13.30 mar e gio 14.30- 17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PISTOIA">
+        <altronome/>
+        <indirizzo>Piazza Duomo 6</indirizzo>
+        <comune>PISTOIA</comune>
+        <codiceistat>09047014</codiceistat>
+        <cap>51100</cap>
+        <telefono>057335711</telefono>
+        <fax> 0573 - 20242</fax>
+        <email>procura.pistoia@giustizia.it</email>
+        <pec>prot.procura.pistoia@giustiziacert.it</pec>
+        <codicefiscale>80012870475</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.pistoia.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.pistoia@giustizia.it</email>
+            <pec/>
+            <fax>0573/24890</fax>
+            <telefono>0573/3571201-202</telefono>
+            <ricevimento>lun - sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PORDENONE">
+        <altronome/>
+        <indirizzo>piazza giustiniano 7</indirizzo>
+        <comune>PORDENONE</comune>
+        <codiceistat>06093033</codiceistat>
+        <cap>33170</cap>
+        <telefono>0434501511</telefono>
+        <fax> 0434 - 521593 / 520082</fax>
+        <email>procura.pordenone@giustizia.it</email>
+        <pec>dirigente.procura.pordenone@giustiziacert.it</pec>
+        <codicefiscale>80012000933</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>Non vi sono altre sedi</altresedi>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.pordenone@giuistizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0434/501525-15</telefono>
+            <ricevimento>lun-sab 9.30-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di POTENZA">
+        <altronome/>
+        <indirizzo>Via Nazario Sauro 74</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971491111</telefono>
+        <fax> 0971 - 4713280971 - 491802 (registro generale)0971 - 491802 (segreteria amministrativa)0971 - 491802 (spese di giustizia)0971 - 472603 (ufficio esecuzioni</fax>
+        <email>procura.potenza@giustizia.it</email>
+        <pec>prot.procura.potenza@giustiziacert.it</pec>
+        <codicefiscale>80005620762</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Via Nazario Sauro</indirizzo>
+            <cap>85100</cap>
+            <email>procura.potenza@giustizia.it</email>
+            <telefono>0971491882</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.potenza@giustizia.it</email>
+            <pec/>
+            <fax>0971/491825</fax>
+            <telefono>0971/491825</telefono>
+            <ricevimento>lun-ven 8.30-13.30 sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di PRATO">
+        <altronome/>
+        <indirizzo>p.le Falcone e Borsellino 8</indirizzo>
+        <comune>PRATO</comune>
+        <codiceistat>09100005</codiceistat>
+        <cap>59100</cap>
+        <telefono>05745791</telefono>
+        <fax> 0574.5792690574.579308-309 (segreteria amministrativa)0574.5936280574.579316 (ufficio esecuzione)0574.5936280574.579309 (segreteria del procuratore della Repubblica)0574.593628</fax>
+        <email>procura.prato@giustizia.it</email>
+        <pec>procuratore.procura.prato@giustiziacert.it</pec>
+        <codicefiscale>84033650486</codicefiscale>
+        <sitoweb> www.procura.prato.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.prato@giustizia.it</email>
+            <pec/>
+            <fax>0574/579269</fax>
+            <telefono>0574/579358</telefono>
+            <ricevimento>lun-ven 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di RAGUSA">
+        <altronome/>
+        <indirizzo>Via Natalelli 1</indirizzo>
+        <comune>RAGUSA</comune>
+        <codiceistat>19088009</codiceistat>
+        <cap>97100</cap>
+        <telefono>0932678111</telefono>
+        <fax> 0932 - 229427</fax>
+        <email>procura.ragusa@giustizia.it</email>
+        <pec>prot.procura.ragusa@giustiziacert.it</pec>
+        <codicefiscale>92007200881</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.ragusa@giustizia.it</email>
+            <pec/>
+            <fax>0932/678356</fax>
+            <telefono>0932/678325</telefono>
+            <ricevimento>lun-sab 8.30 -13.30 mar e gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di RAVENNA">
+        <altronome/>
+        <indirizzo>VIALE GIOVANNI FALCONE 67</indirizzo>
+        <comune>RAVENNA</comune>
+        <codiceistat>08039014</codiceistat>
+        <cap>48124</cap>
+        <telefono>0544511611</telefono>
+        <fax> 0544 - 404050</fax>
+        <email>procura.ravenna@giustizia.it</email>
+        <pec>prot.procura.ravenna@giustiziacert.it</pec>
+        <codicefiscale>92001640397</codicefiscale>
+        <sitoweb>http://www.procura.ravenna.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>viale giovanni Falcone</indirizzo>
+            <cap>48124</cap>
+            <email>dirigente.procura.ravenna@giustiziacert.it</email>
+            <telefono>0544511763</telefono>
+            <sito>www.procura.ravenna.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>23/07</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.ravenna@giustizia.it</email>
+            <pec/>
+            <fax>0544/511940</fax>
+            <telefono>0544/511868</telefono>
+            <ricevimento>lun-ven 9-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via II Tronco S. Anna - Pal. Ce.Dir. - Reggio Calabria snc</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89128</cap>
+        <telefono>0965 - 857111</telefono>
+        <fax> 0965 - 8577336</fax>
+        <email>procura.reggiocalabria@giustizia.it</email>
+        <pec>procuratore.procura.reggiocalabria@giustiziacert.it prot.procura.reggiocalabria@giustiziacert.it dirigente.procura.reggiocalabria@giustiziacert.it casellario.procura.reggiocalabria@giustiziacert.it registrogenerale.procura.reggiocalabria@giustiziacert.it esecuzioni.procura.reggiocalabria@giustiziacert.it dibattimento.procura.reggiocalabria@giustiziacert.it misurediprevenzione.procura.reggiocalabria@giustiziacert.it civile.procura.reggiocalabria@giustiziacert.it</pec>
+        <codicefiscale>800066550800</codicefiscale>
+        <sitoweb>www.procura.reggiocalabria.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.reggiocalabria@giustizia.it</email>
+            <pec/>
+            <fax>0965/857256</fax>
+            <telefono>0965/857257</telefono>
+            <ricevimento>lun-ven 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di REGGIO EMILIA">
+        <altronome/>
+        <indirizzo>Via Paterlini, 1</indirizzo>
+        <comune>REGGIO EMILIA</comune>
+        <codiceistat>08035033</codiceistat>
+        <cap>42123</cap>
+        <telefono>0522 - 510611</telefono>
+        <fax> 0522 - 510769 (segreteria Procuratore dirigenza)0522 - 510767 (ufficio casellario)0522 - 510799 / 648 (segreterie pubblici ministeri)0522 - 510768 (ufficio esecuzione penale)</fax>
+        <email>procura.reggioemilia@giustizia.it</email>
+        <pec>procuratore.procura.reggioemilia@giustiziacert.it</pec>
+        <codicefiscale>80011930353</codicefiscale>
+        <sitoweb>www.procura.reggioemilia.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.reggioemilia@giustizia.it</email>
+            <pec>casellario.procura.reggioemilia@giustiziacert.it</pec>
+            <fax>0522/510645</fax>
+            <telefono>0522/510891-510649</telefono>
+            <ricevimento>lun-ven 10-13 mar 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di RIETI">
+        <altronome/>
+        <indirizzo> Largo Bachelet</indirizzo>
+        <comune>RIETI</comune>
+        <codiceistat>12057059</codiceistat>
+        <cap>02100</cap>
+        <telefono> 0746 - 2081</telefono>
+        <fax> 0746 - 200732</fax>
+        <email> procura.rieti@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.rieti@giustizia.it</email>
+            <pec/>
+            <fax>0746/296911</fax>
+            <telefono>0746/208338-208222</telefono>
+            <ricevimento>lun-sab 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di RIMINI">
+        <altronome/>
+        <indirizzo>VIA C. A. DALLA CHIESA 11</indirizzo>
+        <comune>RIMINI</comune>
+        <codiceistat>08099014</codiceistat>
+        <cap>47900</cap>
+        <telefono>0541763411</telefono>
+        <fax> 0541 - 7634840541 - 763409 (esecuzioni penali)</fax>
+        <email>procura.rimini@giustizia.it</email>
+        <pec>dirigente.procura.rimini@giustiziacert.it</pec>
+        <codicefiscale>91002310406</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14/10</patrono>
+        <infoaggiuntive>apertura al pubblico dell'ufficio esecuzioni penali dalle 8,30 alle 13,30.Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.rimini@giustizia.it</email>
+            <pec>casellario.procura.rimini@giustiziacert.it</pec>
+            <fax/>
+            <telefono>0541/763426</telefono>
+            <ricevimento>lun-sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ROMA">
+        <altronome/>
+        <indirizzo>Piazzale Clodio - Via Golametto 12</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>000195</cap>
+        <telefono>0638701</telefono>
+        <fax/>
+        <email>procura.roma@giustizia.it</email>
+        <pec>prot.procura.roma@giustiziacert.it</pec>
+        <codicefiscale>80404940589</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>Sezione Reati di competenza del Giudice di Pace di RomaVia Gregorio VII, 122 - 00166 RomaTel.: 06 399751e-mail: gdppenale.procura.roma@giustizia.it</altresedi>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.roma@giustizia.it</email>
+            <pec>casellario.procura.roma@giustiziacert.it</pec>
+            <fax/>
+            <telefono/>
+            <ricevimento>lun e gio 9-15 mar, mer e ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ROVERETO">
+        <altronome/>
+        <indirizzo>Corso Antonio Rosmini, 65</indirizzo>
+        <comune>ROVERETO</comune>
+        <codiceistat>04022161</codiceistat>
+        <cap>38068</cap>
+        <telefono>0464 - 437331 / 451685</telefono>
+        <fax> 0464 - 451661 / 660</fax>
+        <email>procura.rovereto@giustizia.it</email>
+        <pec>prot.procura.rovereto@giustiziacert.it</pec>
+        <codicefiscale>85005500229</codicefiscale>
+        <sitoweb>www.procura.rovereto.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.rovereto.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>5 agosto</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.rovereto@giustizia.it</email>
+            <pec/>
+            <fax>0464 - 451664</fax>
+            <telefono>0464 - 451 / 622 / 621</telefono>
+            <ricevimento>dal lunedì al sabato dalle 8.30-13.00</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di ROVIGO">
+        <altronome/>
+        <indirizzo>via verdi 2</indirizzo>
+        <comune>ROVIGO</comune>
+        <codiceistat>05029041</codiceistat>
+        <cap>45100</cap>
+        <telefono>0425428207</telefono>
+        <fax> 0425 - 21422</fax>
+        <email>procura.rovigo@giustizia.it</email>
+        <pec>dirigente.procura.rovigo@giustiziacert.it</pec>
+        <codicefiscale>93000870290</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.rovigo@giustizia.it</email>
+            <pec/>
+            <fax>0425/428244</fax>
+            <telefono>0425/428218-217-156</telefono>
+            <ricevimento>lun-ven 8.30-12 mer 15-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SALERNO">
+        <altronome/>
+        <indirizzo>corso garibaldi 183</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84123</cap>
+        <telefono>0895645428</telefono>
+        <fax> 089 - 241484089 - 5645262</fax>
+        <email>procura.salerno@giustizia.it</email>
+        <pec>prot.procura.salerno@giustiziacert.it</pec>
+        <codicefiscale>80027190653</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>corso garibaldi</indirizzo>
+            <cap>84123</cap>
+            <email>anna.vicinanza@giustizia.it</email>
+            <telefono>0895646446</telefono>
+            <sito>procura.salerno@giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>21/09</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.salerno@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>089/ 5646350</telefono>
+            <ricevimento>lun-ven9-12.30 mar e gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SANTA MARIA CAPUA VETERE">
+        <altronome/>
+        <indirizzo>PIAZZA DELLA RESISTENZA 1</indirizzo>
+        <comune>SANTA MARIA CAPUA VETERE</comune>
+        <codiceistat>15061083</codiceistat>
+        <cap>81055</cap>
+        <telefono>0823792111</telefono>
+        <fax> 0823 - 847008</fax>
+        <email>procura.santamariacapuavetere@giustizia.it</email>
+        <pec>prot.procura.santamariacapuavetere@giustiziacert.it</pec>
+        <codicefiscale>80009280613</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Piazza della Resistenza</indirizzo>
+            <cap>81055</cap>
+            <email>urp.procura.santamariacapuavetere@giustizia.it</email>
+            <telefono>0823792244</telefono>
+            <sito>www.giustiziacampania.it</sito>
+        </urp>
+        <altresedi>Sede di Via Mario Fiore, 81055 Santa Maria Capua Vetere, tel. 0823.792111.Uffici presenti: Funzionario delegato, Liquidazioni, Economato, Esecuzioni Penali, Modello 42, Registro Generale per i reati di competenza del Giudice di Pace, V.P.O.Sede di Via Spartaco, 81055 Santa Maria Capua Vetere, tel 0823.792111.Uffici presenti: Decreti di Citazione rito monocratico.</altresedi>
+        <patrono>22/10</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.santamariacapuavetere@giustizia.it</email>
+            <pec/>
+            <fax>0823/849473</fax>
+            <telefono>0823/792402</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SASSARI">
+        <altronome/>
+        <indirizzo>via Roma 49</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>079204500</telefono>
+        <fax> 079 - 238576 (segreteria penale) 079 - 238278 (segreteria amministrativa)</fax>
+        <email>procura.sassari@giustizia.it</email>
+        <pec>prot.procura.sassari@giustiziacert.it</pec>
+        <codicefiscale>80002360909</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>06/12</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.sassari@giustizia.it</email>
+            <pec/>
+            <fax>079/204778</fax>
+            <telefono>079/204783</telefono>
+            <ricevimento>lun-ven 8.30-13.30 mer e gio 15-16.45 sab 8.30-11.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SAVONA">
+        <altronome/>
+        <indirizzo>PIAZZA BARILE 1</indirizzo>
+        <comune>SAVONA</comune>
+        <codiceistat>07009056</codiceistat>
+        <cap>17100</cap>
+        <telefono>01983161</telefono>
+        <fax> 019 - 851645</fax>
+        <email>procura.savona@giustizia.it</email>
+        <pec>prot.procura.savona@giustiziacert.it</pec>
+        <codicefiscale>80015470091</codicefiscale>
+        <sitoweb>http://www.procura.savona.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.savona@giustizia.it</email>
+            <pec/>
+            <fax>019/8316261</fax>
+            <telefono>019/8316204</telefono>
+            <ricevimento>lun-sab 9.30-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SCIACCA">
+        <altronome/>
+        <indirizzo>VIA QUASIMODO 1</indirizzo>
+        <comune>SCIACCA</comune>
+        <codiceistat>19084041</codiceistat>
+        <cap>92019</cap>
+        <telefono>0925964111</telefono>
+        <fax> 0925 - 83113</fax>
+        <email>procura.sciacca@giustizia.it</email>
+        <pec>dirigente.procura.sciacca@giustiziacert.it</pec>
+        <codicefiscale>83004000846</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>02/02</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.sciacca@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0925/964327</telefono>
+            <ricevimento>lun-sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SIENA">
+        <altronome/>
+        <indirizzo>VIALE RINALDO FRANCI 26</indirizzo>
+        <comune>SIENA</comune>
+        <codiceistat>09052032</codiceistat>
+        <cap>53100</cap>
+        <telefono>0577 - 21341</telefono>
+        <fax> 0577 - 41632</fax>
+        <email>procura.siena@giustizia.it</email>
+        <pec>prot.procura.siena@giustiziacert.it</pec>
+        <codicefiscale>80004660520</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>01/12</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email/>
+            <pec>casellario.procura.siena@giustiziacert.it</pec>
+            <fax>0577 - 213729</fax>
+            <telefono>0577 - 213645-213600</telefono>
+            <ricevimento>lun-ven 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SIRACUSA">
+        <altronome/>
+        <indirizzo>viale Santa Panagia 109</indirizzo>
+        <comune>SIRACUSA</comune>
+        <codiceistat>19089017</codiceistat>
+        <cap>96100</cap>
+        <telefono>0931752111</telefono>
+        <fax> 0931 - 494418</fax>
+        <email>procura.siracusa@giustizia.it</email>
+        <pec>prot.procura.siracusa@giustiziacert.it</pec>
+        <codicefiscale>80003810894</codicefiscale>
+        <sitoweb>http://www.procura.siracusa.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>viale Santa Panagia</indirizzo>
+            <cap>96100</cap>
+            <email>procura.siracusa@giustizia.it</email>
+            <telefono>0931752731</telefono>
+            <sito>www.procurasiracusa.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.siracusa@giustizia.it</email>
+            <pec/>
+            <fax>0931/752788</fax>
+            <telefono/>
+            <ricevimento>lun-sab 8.30-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SONDRIO">
+        <altronome/>
+        <indirizzo>VIA MAZZINI 34</indirizzo>
+        <comune>SONDRIO</comune>
+        <codiceistat>03014061</codiceistat>
+        <cap>23100</cap>
+        <telefono>0342529111</telefono>
+        <fax> 0342 - 512375</fax>
+        <email>procura.sondrio@giustizia.it</email>
+        <pec>prot.procura.sondrio@giustiziacert.it</pec>
+        <codicefiscale>80001600149</codicefiscale>
+        <sitoweb>http://www.procura.sondrio.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.sondrio@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0342/529208</telefono>
+            <ricevimento>lun-sab 8-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SPOLETO">
+        <altronome/>
+        <indirizzo>Corso Mazzini 14</indirizzo>
+        <comune>SPOLETO</comune>
+        <codiceistat>10054051</codiceistat>
+        <cap>06049</cap>
+        <telefono>0743219511</telefono>
+        <fax> 0743 - 48226</fax>
+        <email>procura.spoleto@giustizia.it</email>
+        <pec>dirigente.procura.spoleto@giustiziacert.it</pec>
+        <codicefiscale>93001740542</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Corso Mazzini</indirizzo>
+            <cap>06049</cap>
+            <email>angelo.greco@giustizia.it</email>
+            <telefono>0743219511</telefono>
+            <sito/>
+        </urp>
+        <altresedi>Sede Unica, non chiusa</altresedi>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.spoleto@giustizia.it</email>
+            <pec/>
+            <fax>0743/220469</fax>
+            <telefono>0743/219511</telefono>
+            <ricevimento>lun-ven 10-13.30 mar e gio 15.30-17.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di SULMONA">
+        <altronome/>
+        <indirizzo>PIAZZA GIUSEPPE CAPOGRASSI 1</indirizzo>
+        <comune>SULMONA</comune>
+        <codiceistat>13066098</codiceistat>
+        <cap>67039</cap>
+        <telefono>086424531</telefono>
+        <fax>0864 - 53750</fax>
+        <email>procura.sulmona@giustizia.it</email>
+        <pec>prot.procura.sulmona@giustiziacert.it</pec>
+        <codicefiscale>83000200663</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.sulmona@giustisia.it</email>
+            <pec/>
+            <fax>0864/53750</fax>
+            <telefono/>
+            <ricevimento>lun-ven 9-13.30 lun e mar 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TARANTO">
+        <altronome/>
+        <indirizzo>Marche s.n.c.</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74121</cap>
+        <telefono>0997343111</telefono>
+        <fax> 099 - 7343417</fax>
+        <email>procura.taranto@giustizia.it</email>
+        <pec>prot.procura.taranto@giustiziacert.it</pec>
+        <codicefiscale>80011030733</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10/05</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.taranto@giustizia.it</email>
+            <pec/>
+            <fax>099/7390851</fax>
+            <telefono>099/7443428</telefono>
+            <ricevimento>lun-ven 9-12 14-15</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TEMPIO PAUSANIA">
+        <altronome/>
+        <indirizzo>via angioj 1</indirizzo>
+        <comune>TEMPIO PAUSANIA</comune>
+        <codiceistat>20104025</codiceistat>
+        <cap>07029</cap>
+        <telefono>079678900</telefono>
+        <fax> 079 - 670381</fax>
+        <email>procura.tempiopausania@iustizia.it</email>
+        <pec>dirigente.procura.tempiopausania@giustiziacert.it</pec>
+        <codicefiscale>91031670903</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.tempiopausania@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>079/678900 centr</telefono>
+            <ricevimento>lun-ven 8.30-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TERAMO">
+        <altronome/>
+        <indirizzo>via Cesare Beccaria 1</indirizzo>
+        <comune>TERAMO</comune>
+        <codiceistat>13067041</codiceistat>
+        <cap>64100</cap>
+        <telefono>0861 - 3261 (centralino) 0861 - 326603 (segreteria amministrativa)</telefono>
+        <fax> 0861 - 326606</fax>
+        <email>procura.teramo@giustizia.it</email>
+        <pec>prot.procura.teramo@giustiziacert.it</pec>
+        <codicefiscale>80005530672</codicefiscale>
+        <sitoweb>www.procura.teramo.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>via Cesare Beccaria</indirizzo>
+            <cap>64100</cap>
+            <email/>
+            <telefono>0861 - 326692 / 693 / 694</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>19 dicembre</patrono>
+        <infoaggiuntive>Carta dei servizi</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.teramo@giustizia.it</email>
+            <pec>casellario.procura.teramo@giustiziacert.it</pec>
+            <fax>0861 - 326695</fax>
+            <telefono>0861 - 326692 / 693 / 694</telefono>
+            <ricevimento>lun-ven 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TERMINI IMERESE">
+        <altronome/>
+        <indirizzo>Piazza F.U. Di Blasi 1</indirizzo>
+        <comune>TERMINI IMERESE</comune>
+        <codiceistat>19082070</codiceistat>
+        <cap>90018</cap>
+        <telefono>091 - 8152111</telefono>
+        <fax> 091 - 8113039</fax>
+        <email>procura.terminiimerese@giustizia.it</email>
+        <pec>prot.procura.terminiimerese@giustiziacert.it</pec>
+        <codicefiscale>87002000823</codicefiscale>
+        <sitoweb> www.procuraterminiimerese.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19/05</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.terminiimerese@giustizia.it</email>
+            <pec/>
+            <fax>091/8113039</fax>
+            <telefono/>
+            <ricevimento/>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TERNI">
+        <altronome/>
+        <indirizzo>corso del popolo 40</indirizzo>
+        <comune>TERNI</comune>
+        <codiceistat>10055032</codiceistat>
+        <cap>05100</cap>
+        <telefono>07443981</telefono>
+        <fax> 0744 - 305612</fax>
+        <email>procura.terni@giustizia.it</email>
+        <pec>prot.procura.terni@giustiziacert.it</pec>
+        <codicefiscale>80005790557</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14/02</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.terni@giustizia.it</email>
+            <pec/>
+            <fax>0744/305612</fax>
+            <telefono>0744/398228-229</telefono>
+            <ricevimento>lun-ven 10-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TIVOLI">
+        <altronome/>
+        <indirizzo>Via Antonio del Re, 24</indirizzo>
+        <comune>TIVOLI</comune>
+        <codiceistat>12058104</codiceistat>
+        <cap>00019</cap>
+        <telefono>0774 - 4141 (centralino) 0774 - 414255 / 292 (segreteria procuratore) 0774 - 414265 / 286 / 277 / 327 / 338 / 347 / 321 (segreteria n. 1, 2, 3, 4, 5, 6, 7) 0774 - 451649 / 651 (segreteria giudice di pace) 0774 - 414316 / 354 (ufficio esecuzioni penali) 0774 - 414350 / 316 (ufficio personale, consegnatario e ragioneria) 0774 - 414215 (registro generale, primi atti e dibattimento) 0774 - 414378 / 377 (casellario giudiziario, affari civili e legalizzazioni) 0774 - 414226 / 215 (ufficio liquidazioni) 0774 - 451803 (sezione polizia giudiziaria)</telefono>
+        <fax> 0774 - 414296 (segreteria procuratore)</fax>
+        <email>procura.tivoli@giustizia.it casellario.procura.tivoli@giustizia.it</email>
+        <pec>prot.procura.tivoli@giustiziacert.it procuratore.procura.tivoli@giustiziacert.it segreteria.procuratore.procura.tivoli@giustiziacert.it segreteria1.procura.tivoli@giustiziacert.it segreteria2.procura.tivoli@giustiziacert.it segreteria3.procura.tivoli@giustiziacert.it segreteria4.procura.tivoli@giustiziacert.it segreteria5.procura.tivoli@giustiziacert.it segreteria6.procura.tivoli@giustiziacert.it segreteria7.procura.tivoli@giustiziacert.it gdp.procura.tivoli@giustiziacert.it esecuzioni.procura.tivoli@giustiziacert.it dirigente.procura.tivoli@giustiziacert.it dibattimento.procura.tivoli@giustiziacert.it spesedigiustizia.procura.tivoli@giustiziacert.it </pec>
+        <codicefiscale>94035190589</codicefiscale>
+        <sitoweb>www.procura.tivoli.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email/>
+            <pec>casellario.procura.tivoli@giustiziacert.it</pec>
+            <fax/>
+            <telefono/>
+            <ricevimento>lun-ven 9.00-11.45 mar e gio 13.30-15.00</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TORINO">
+        <altronome/>
+        <indirizzo>corso Vittorio Emanuele II 130</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10138</cap>
+        <telefono>0114327111</telefono>
+        <fax> 011 - 4327206</fax>
+        <email>procura.torino@giustizia.it</email>
+        <pec>prot.procura.torino@giustiziacert.it</pec>
+        <codicefiscale>80098450010</codicefiscale>
+        <sitoweb>http://www.procura.torino.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.torino.it</sito>
+        </urp>
+        <altresedi>sede "Le Nuove", Torino corso Vittorio Emanuele II n. 127, cap. 10138, telefono 0114327111, email: procura.torino@giustizia.it.Questa sede è dedicata esclusivamente ad attività di Polizia Giudiziaria.</altresedi>
+        <patrono>24/06</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.torino@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>011/4327413-7414</telefono>
+            <ricevimento>lun-ven 8.30-13 sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TORRE ANNUNZIATA">
+        <altronome/>
+        <indirizzo>Corso Umberto I, 437</indirizzo>
+        <comune>TORRE ANNUNZIATA</comune>
+        <codiceistat>15063083</codiceistat>
+        <cap>80058</cap>
+        <telefono>081 - 5370111</telefono>
+        <fax> 081 - 8613462</fax>
+        <email>procura.torreannunziata@giustizia.it</email>
+        <pec>prot.procura.torreannunziata@giustiziacert.it</pec>
+        <codicefiscale>90026800632</codicefiscale>
+        <sitoweb>www.procura.torreannunziata.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>festivi da calendario</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.torreannunziata@giustizia.it</email>
+            <pec>casellario.procura.torreannunziata@giustiziacert.it</pec>
+            <fax>081/8613294</fax>
+            <telefono>081/8573240</telefono>
+            <ricevimento>lun-mer- ven 9-13 mar e gio 9-12 14-15</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TRANI">
+        <altronome/>
+        <indirizzo>Piazza Duomo 10</indirizzo>
+        <comune>TRANI</comune>
+        <codiceistat>16110009</codiceistat>
+        <cap>76125</cap>
+        <telefono>0883505111</telefono>
+        <fax> 0883 - 583471 (segreteria amministrativa)0883 - 584755 (ufficio registro generale affari penali)0883 - 509904 (ufficio esecuzione penale)0883 - 505401 (casellario giudiziale)0883 - 582366 (ufficio dibattimento)</fax>
+        <email>procura.trani@giustizia.it</email>
+        <pec>prot.procura.trani@giustiziacert.it</pec>
+        <codicefiscale>83002280721</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Piazza Duomo</indirizzo>
+            <cap>76125</cap>
+            <email>procura.trani@giustizia.it</email>
+            <telefono>0883505111</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.trani@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0883/505400-401-402</telefono>
+            <ricevimento>lun-sab 8.30-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TRAPANI">
+        <altronome/>
+        <indirizzo>via xxx gennaio 1</indirizzo>
+        <comune>TRAPANI</comune>
+        <codiceistat>19081021</codiceistat>
+        <cap>91100</cap>
+        <telefono>0923802111</telefono>
+        <fax> 0923 - 546550 (personale)0923 - 820046 (registro generale)0923 - 872428 (esecuzione penale)0923 - 802230 (casellario)</fax>
+        <email>procura.trapani@giustizia.it</email>
+        <pec>prot.procura.trapani@giustiziacert.it</pec>
+        <codicefiscale>80006510814</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.trapani.it</sito>
+        </urp>
+        <altresedi>La Procura della Repubblica è un ufficio giudiziario di primo grado il cui mandato istituzionale, definito dalla norma, consiste nella pronta e regolare amministrazione della giustizia attraverso la cura di indagini finalizzate all’accertamento dei reati, l’esercizio della azione penale per la repressione degli stessi, l’esecuzione dei giudicati e di ogni altro provvedimento del giudice, l’applicazione di misure di sicurezza e la tutela delle persone giuridiche e degli incapaci.</altresedi>
+        <patrono>07/08</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.trapani@giustizia.it</email>
+            <pec/>
+            <fax>0923/7802230</fax>
+            <telefono>0923/802582-802325</telefono>
+            <ricevimento>lun-sab 8.30-12.30 lun e gio 14.30-15.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TRENTO">
+        <altronome/>
+        <indirizzo>Largo L. Pigarelli, 1</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono>0461 - 200111 (centralino)</telefono>
+        <fax> 0461 - 200352 (segreteria amministrativa)0461 - 839732 (segreteria notizie di reato)</fax>
+        <email>procura.trento@giustizia.it</email>
+        <pec>prot.procura.trento@giustiziacert.it</pec>
+        <codicefiscale>80016780225</codicefiscale>
+        <sitoweb>www.procura.trento.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Largo Pigarelli</indirizzo>
+            <cap>38122</cap>
+            <email>urp.procura.trento@giustizia.it</email>
+            <telefono>0461-200429</telefono>
+            <sito>www.procura.trento.giustizia.it</sito>
+        </urp>
+        <altresedi>Sede secondaria:Via Jacopo Aconcio n. 2 38122 Trentotelefono centralino: 0461 - 213333</altresedi>
+        <patrono/>
+        <infoaggiuntive>Attività svolta nella sede secondaria: uffici della Sezione polizia giudiziaria (Carabinieri, Guardia di Finanza, Polizia di Stato, Corpo Forestale dello Stato, Ispettori Ambiente e Lavoro) Apertura al pubblico dalle 08.30 alle 13.30 tutti i giorni feriali</infoaggiuntive>
+        <casellario>
+            <email>ufficio.casellario.procura.trento@giustizia.it</email>
+            <pec>casellario.procura.trento@giustiziacert.it</pec>
+            <fax/>
+            <telefono>0461 - 200217 / 200429</telefono>
+            <ricevimento>lun-ven 8.30 -13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TREVISO">
+        <altronome/>
+        <indirizzo>via Verdi 18</indirizzo>
+        <comune>TREVISO</comune>
+        <codiceistat>05026086</codiceistat>
+        <cap>31100</cap>
+        <telefono>0422418111</telefono>
+        <fax> 0422 - 418414 (settore amministrativo) 0422 - 418408 / 418441 (settore penale) 0422 - 418417 (ufficio dibattimento)0422 - 418419 (ufficio esecuzioni penali)</fax>
+        <email>procura.treviso@giustizia.it</email>
+        <pec>prot.procura.treviso@giustiziacert.it</pec>
+        <codicefiscale>80028580266</codicefiscale>
+        <sitoweb>http://www.procura.treviso.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.treviso.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.treviso@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0422/418409</telefono>
+            <ricevimento>lun-ven 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di TRIESTE">
+        <altronome/>
+        <indirizzo>Foro Ulpiano 1</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34133</cap>
+        <telefono>0407792111</telefono>
+        <fax> 040 - 7792526 (segreteria amministrativa)040 - 7792547 (ricezione atti)040 - 7792552 (casellario giudiziale)</fax>
+        <email>procura.trieste@giustizia.it</email>
+        <pec>prot.procura.trieste@giustiziacert.it</pec>
+        <codicefiscale>80025000326</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.trieste.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono>03/11</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.trieste@giustizia.ir</email>
+            <pec/>
+            <fax/>
+            <telefono>040/7792488</telefono>
+            <ricevimento>lun - sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di UDINE">
+        <altronome/>
+        <indirizzo>Via Lovaria 8</indirizzo>
+        <comune>UDINE</comune>
+        <codiceistat>06030129</codiceistat>
+        <cap>33100</cap>
+        <telefono>0432517911</telefono>
+        <fax> 0432 - 517700 (Ufficio ricezione atti )0432 - 517604 (Ufficio Casellario Giudiziario)0432 - 517755 (Segreteria Amministrativa)</fax>
+        <email>procura.udine@giustizia.it</email>
+        <pec>prot.procura.udine@giustiziacert.it</pec>
+        <codicefiscale>80018460305</codicefiscale>
+        <sitoweb>www.procura.udine.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>domeniche e festivi</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.udine@giustizia.it</email>
+            <pec/>
+            <fax>0432/517604</fax>
+            <telefono/>
+            <ricevimento>lun-ven 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di URBINO">
+        <altronome/>
+        <indirizzo>Via Raffaello 28</indirizzo>
+        <comune>URBINO</comune>
+        <codiceistat>11041067</codiceistat>
+        <cap>61029</cap>
+        <telefono>07223769201</telefono>
+        <fax> 0722 - 350563</fax>
+        <email>procura.urbino@giustizia.it</email>
+        <pec>prot.procura.urbino@giustiziacert.it</pec>
+        <codicefiscale>82009690411</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.tribunaleurbino.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.urbino@giustizia.it</email>
+            <pec/>
+            <fax>0722/350563</fax>
+            <telefono>0722/3769206 07</telefono>
+            <ricevimento>lun-sab 9-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VALLO DELLA LUCANIA">
+        <altronome/>
+        <indirizzo>VIA DE HIPPOLYTIS SNC</indirizzo>
+        <comune>VALLO DELLA LUCANIA</comune>
+        <codiceistat>15065154</codiceistat>
+        <cap>84078</cap>
+        <telefono>0974713111</telefono>
+        <fax> 0974 - 713393</fax>
+        <email>procura.vallodellalucania@giustizia.it</email>
+        <pec>prot.procura.vallodellalucania@giustiziacert.it</pec>
+        <codicefiscale>84003020652</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.vallodellalucania@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0974/713226-229</telefono>
+            <ricevimento>lun - ven 8-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VARESE">
+        <altronome/>
+        <indirizzo>piazza cacciatori delle alpi 4</indirizzo>
+        <comune>VARESE</comune>
+        <codiceistat>03012133</codiceistat>
+        <cap>21100</cap>
+        <telefono>0332804311</telefono>
+        <fax> 0332 - 236331</fax>
+        <email>procura.varese@giustizia.it</email>
+        <pec>prot.procura.varese@giustiziacert.it</pec>
+        <codicefiscale>80100460122</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>NEGATIVO</altresedi>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.varese@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0332/804358-359</telefono>
+            <ricevimento>lun-ven 8.30-12.30 sab 8.30-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VASTO">
+        <altronome/>
+        <indirizzo>via Bachelet s.n.</indirizzo>
+        <comune>VASTO</comune>
+        <codiceistat>13069099</codiceistat>
+        <cap>66054</cap>
+        <telefono>087330701</telefono>
+        <fax>0873 - 363466</fax>
+        <email>procura.vasto@giustizia.it</email>
+        <pec>dirigente.procura.vasto@giustiziacert.it</pec>
+        <codicefiscale>83002390694</codicefiscale>
+        <sitoweb>http://www.procura.vasto.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.vasto@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0873/3070 206-213</telefono>
+            <ricevimento>lun-ven 8.30-13 mar e gio 15-17</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VELLETRI">
+        <altronome/>
+        <indirizzo>Piazza Giovanni Falcone snc</indirizzo>
+        <comune>VELLETRI</comune>
+        <codiceistat>12058111</codiceistat>
+        <cap>00040</cap>
+        <telefono>069615021</telefono>
+        <fax> 06 - 961502270 (registro generale)06 - 961502295 (segreteria amministrativa)06 - 961502352 (casellario giudiziale)</fax>
+        <email>procura.velletri@giustizia.it</email>
+        <pec>prot.procura.velletri@giustiziacert.it</pec>
+        <codicefiscale>87005370587</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>http://www.giustizia.lazio.it/appello.it/proc_velletri/base.php</sito>
+        </urp>
+        <altresedi/>
+        <patrono>23/11</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura@velletri.it</email>
+            <pec/>
+            <fax>06/961502352</fax>
+            <telefono>06/961502 350-201</telefono>
+            <ricevimento>lun-ven 9-13</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VENEZIA">
+        <altronome/>
+        <indirizzo>santa croce 430</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30135</cap>
+        <telefono>0419653115</telefono>
+        <fax> 041 - 9653373</fax>
+        <email>procura.venezia@giustizia.it</email>
+        <pec>prot.procura.venezia@giustiziacert.it</pec>
+        <codicefiscale>94059800279</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21/11</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>casellario.procura.venezia@giustizia.it</email>
+            <pec/>
+            <fax>041/9653352</fax>
+            <telefono>041/9653020</telefono>
+            <ricevimento>lun-ven 8.30-12.30 sab 8.30-12</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VERBANIA">
+        <altronome/>
+        <indirizzo>Corso Europa 3</indirizzo>
+        <comune>VERBANIA</comune>
+        <codiceistat>01103072</codiceistat>
+        <cap>28922</cap>
+        <telefono>0323555711</telefono>
+        <fax> 0323 - 555809 / 49</fax>
+        <email>procura.verbania@giustizia.it</email>
+        <pec>dirigente.procura.verbania@giustiziacert.it</pec>
+        <codicefiscale>93027160030</codicefiscale>
+        <sitoweb>http://www.procura.verbania.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>Corso Europa</indirizzo>
+            <cap>28922</cap>
+            <email>procura.verbania@giustizia.it</email>
+            <telefono>0323555873</telefono>
+            <sito>www.procura.verbania.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.verbania@giustizia.it</email>
+            <pec/>
+            <fax>0323/555860</fax>
+            <telefono/>
+            <ricevimento>lun-sab 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VERCELLI">
+        <altronome/>
+        <indirizzo> Piazza Amedeo IX, 2</indirizzo>
+        <comune>VERCELLI</comune>
+        <codiceistat>01002158</codiceistat>
+        <cap>13100</cap>
+        <telefono> 0161 - 269011 (centralino)0161 - 269017 (esecuzioni penali)0161 - 269002 (segreteria procuratore)0161 - 269021 (segreteria amministrativa)</telefono>
+        <fax> 0161 - 2530730161-212919 (esecuzioni penali)0161-600976 (procuratore)</fax>
+        <email> procura.vercelli@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94004540020</codicefiscale>
+        <sitoweb>http://www.procuravercelli.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1? agosto</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>casellario.procura.vercelli@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono/>
+            <ricevimento>lun-ven 8.30-13.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VERONA">
+        <altronome/>
+        <indirizzo>VIA DELLO ZAPPATORE 1</indirizzo>
+        <comune>VERONA</comune>
+        <codiceistat>05023091</codiceistat>
+        <cap>37128</cap>
+        <telefono>0458085599</telefono>
+        <fax> 045 - 8008378 (registro generale penale)045 - 8008378 (stato civile e volontaria giurisdizione)045 - 8085586 / 045 - 8008697 (ufficio dibattimento)045 - 8085589 (esecuzione penale)045 - 8085632 (segreteria del procuratore / segreteria generale)045 - 8085689 (casellario)045 - 8085630 (agenzia per il raccordo del giudice di pace)</fax>
+        <email>procura.verona@giustizia.it</email>
+        <pec>prot.procura.verona@giustiziacert.it</pec>
+        <codicefiscale>80023940234</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21/05</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.verona@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>045/8085599</telefono>
+            <ricevimento>lun-sab 8.30-12.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VIBO VALENTIA">
+        <altronome/>
+        <indirizzo>CORSO UMBERTO I SNC</indirizzo>
+        <comune>VIBO VALENTIA</comune>
+        <codiceistat>18102047</codiceistat>
+        <cap>89900</cap>
+        <telefono>0963473111</telefono>
+        <fax> 0963 - 41161</fax>
+        <email>procura.vibovalentia@giustizia.it</email>
+        <pec>procuratore.procura.vibovalentia@giustiziacert.it</pec>
+        <codicefiscale>86003280798</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.vibovalentia.giustizia.it</sito>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.vibovalentia@giustizia.it</email>
+            <pec/>
+            <fax>0963/547248</fax>
+            <telefono>0963/473229</telefono>
+            <ricevimento>lun-ven 8.15-13.45 mar e gio 14.45-17.15</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VICENZA">
+        <altronome/>
+        <indirizzo>via Ettore Gallo 24</indirizzo>
+        <comune>VICENZA</comune>
+        <codiceistat>05024116</codiceistat>
+        <cap>36100</cap>
+        <telefono>0444398111</telefono>
+        <fax> 0444 - 325702 (segreteria amministrativa)0444 - 235281 (registro generale)0444 - 398125 (casellario)0444 - 398125 (segreteria esecuzioni)</fax>
+        <email>procura.vicenza@giustizia.it</email>
+        <pec>prot.procura.vicenza@giustiziacert.it</pec>
+        <codicefiscale>80015630249</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito>www.procura.vicenza.it</sito>
+        </urp>
+        <altresedi>Attività requirente</altresedi>
+        <patrono>08/09</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <casellario>
+            <email>procura.vicenza@giustizia.it</email>
+            <pec/>
+            <fax>0444/398125</fax>
+            <telefono>0444/398108</telefono>
+            <ricevimento>lun-ven 9-12.30 mar 14.30-16.30</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Procura della Repubblica presso il Tribunale di VITERBO">
+        <altronome/>
+        <indirizzo>Via Falcone e Borsellino 41</indirizzo>
+        <comune>VITERBO</comune>
+        <codiceistat>12056059</codiceistat>
+        <cap>01100</cap>
+        <telefono>07613511</telefono>
+        <fax> 0761 - 354458 (segreteria)</fax>
+        <email>procura.viterbo@giustizia.it</email>
+        <pec>dirigente.procura.viterbo@giustiziacert.it</pec>
+        <codicefiscale>80018770562</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>04/09</patrono>
+        <infoaggiuntive/>
+        <casellario>
+            <email>procura.viterbo@giustizia.it</email>
+            <pec/>
+            <fax/>
+            <telefono>0761/351031-32</telefono>
+            <ricevimento>lun-ven 9-13 15-16</ricevimento>
+        </casellario>
+        <aggiornamento/>
+    </ufficio>
+</root>
