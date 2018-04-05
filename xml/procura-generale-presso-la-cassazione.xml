@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Procura Generale presso la Cassazione-->
+<root>
+    <ufficio nomeufficio="Procura Generale presso la Cassazione">
+        <altronome/>
+        <indirizzo> Piazza Cavour</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00193</cap>
+        <telefono> 06 - 68831 (centralino)</telefono>
+        <fax> 06 - 68832260</fax>
+        <email> pg.cassazione@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.procuracassazione.it/procura-generale/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
