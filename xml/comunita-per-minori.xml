@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Comunita per minori-->
+<root>
+    <ufficio nomeufficio="Comunità per minori di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>con centro diurno polifunzionaleVia Don Minzoni, 43</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 595744</telefono>
+        <fax>0934 - 595743</fax>
+        <email>comunita.caltanissetta.dgm@giustizia.it</email>
+        <pec>comunita.caltanissetta.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Comunità per minori di CATANZARO">
+        <altronome/>
+        <indirizzo>Via Paglia, 47</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961 - 517492 / 792981 0961 - 722767</telefono>
+        <fax>0961 - 701345</fax>
+        <email>cpa.catanzaro.dgm@giustizia.it</email>
+        <pec>cpa.catanzaro.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Comunità per minori di NISIDA (NA)">
+        <altronome/>
+        <indirizzo>con centro diurno polifunzionaleVia Salita La Farina</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80124</cap>
+        <telefono>081 - 7620148</telefono>
+        <fax>081 - 7620148</fax>
+        <email>comunita.nisida.dgm@giustizia.it</email>
+        <pec>comunita.nisida.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Comunità per minori di PALERMO">
+        <altronome/>
+        <indirizzo>con centro diurno polifunzionaleVia Cilea, 28/C e 28/D</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90145</cap>
+        <telefono>091 - 6822777</telefono>
+        <fax>091 - 6826936</fax>
+        <email>comunita.palermo.dgm@giustizia.it</email>
+        <pec>comunita.palermo.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Comunità per minori di SALERNO">
+        <altronome/>
+        <indirizzo>Via Fratelli Linguiti, 5</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84125</cap>
+        <telefono>089 - 241776</telefono>
+        <fax>089 - 241776</fax>
+        <email>comunita.salerno.dgm@giustizia.it</email>
+        <pec>comunita.salerno.dgm@giustiziacert.it</pec>
+        <codicefiscale>95081440653</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Comunità per minori di SANTA MARIA CAPUA VETERE">
+        <altronome/>
+        <indirizzo>con centro diurno polifunzionalePiazza Angiulli, 1</indirizzo>
+        <comune>SANTA MARIA CAPUA VETERE</comune>
+        <codiceistat>15061083</codiceistat>
+        <cap>81055</cap>
+        <telefono>0823 - 843492</telefono>
+        <fax>0823 - 842042</fax>
+        <email>comunita.smcv.dgm@giustizia.it</email>
+        <pec>comunita.smcv.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
