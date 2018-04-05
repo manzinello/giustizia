@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Ufficio di sorveglianza-->
+<root>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di AGRIGENTO">
+        <altronome/>
+        <indirizzo> Via Kennedy, 1</indirizzo>
+        <comune>AGRIGENTO</comune>
+        <codiceistat>19084001</codiceistat>
+        <cap>92100</cap>
+        <telefono> 0922 - 599011</telefono>
+        <fax> 0922 - 512417</fax>
+        <email> uffsorv.agrigento@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93001460844</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>25 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di ALESSANDRIA">
+        <altronome/>
+        <indirizzo> Via Gramsci, 59</indirizzo>
+        <comune>ALESSANDRIA</comune>
+        <codiceistat>01006003</codiceistat>
+        <cap>15121</cap>
+        <telefono> 0131 - 284520</telefono>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di ANCONA">
+        <altronome/>
+        <indirizzo> Viale della Vittoria, 22</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60123</cap>
+        <telefono> 071 - 5062416</telefono>
+        <fax> 071 - 2071343</fax>
+        <email> uffsorv.ancona@giustizia.it</email>
+        <pec> uffsorv.ancona@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di AVELLINO">
+        <altronome/>
+        <indirizzo>Piazza A. Moro c/o Palazzo di Giustizia</indirizzo>
+        <comune>AVELLINO</comune>
+        <codiceistat>15064008</codiceistat>
+        <cap>83100</cap>
+        <telefono>0825 - 7971</telefono>
+        <fax>0825 - 23481</fax>
+        <email> uffsorv.avellino@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di BARI">
+        <altronome/>
+        <indirizzo>Piazza E. De Nicola</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70100</cap>
+        <telefono>080 - 5749720</telefono>
+        <fax>080 - 5742432</fax>
+        <email> uffsorv.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di BOLOGNA">
+        <altronome/>
+        <indirizzo>Via Farini, 1</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40124</cap>
+        <telefono>051 - 201111</telefono>
+        <fax>051 - 21165</fax>
+        <email> uffsorv.bologna@giustizia.it</email>
+        <pec> prot.tribsorv.bologna@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di BOLZANO">
+        <altronome/>
+        <indirizzo> Via Manci, 6/A</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono> 0471 - 226100 / 12</telefono>
+        <fax> 0471 - 226110</fax>
+        <email> uffsorv.bolzano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di BRESCIA">
+        <altronome/>
+        <indirizzo>Via Lattanzio Gambara, 40</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25122</cap>
+        <telefono>030 - 7673811</telefono>
+        <fax>030 - 7673853 / 854</fax>
+        <email> uffsorv.brescia@giustizia.it</email>
+        <pec> uffsorv.brescia@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di CAGLIARI">
+        <altronome/>
+        <indirizzo> Piazza della Repubblica, 18</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09125</cap>
+        <telefono> 070 - 602221 (centralino)</telefono>
+        <fax> 070 - 60222536 / 679 </fax>
+        <email> uffsorv.cagliari@giustizia.it</email>
+        <pec> uffsorv.cagliari@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>Viale della Regione, traversa Istituto Mottura</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 71111 (centralino)</telefono>
+        <fax>0934 - 595233</fax>
+        <email> uffsorv.caltanissetta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di CAMPOBASSO">
+        <altronome/>
+        <indirizzo>Viale Cavour, 11/A</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono>0874 - 400613 / 618</telefono>
+        <fax>0874 - 311630</fax>
+        <email> uffsorv.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di CATANIA">
+        <altronome/>
+        <indirizzo> Via Roberto Giuffrida Castorina, 9</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95100</cap>
+        <telefono> 095 - 7194700</telefono>
+        <fax> 095 - 439164</fax>
+        <email> uffsorv.catania@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di CATANZARO">
+        <altronome/>
+        <indirizzo> Via Argento snc</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono> 0961 - 885111 (centralino)</telefono>
+        <fax> 0961 - 701383 / 386 / 395</fax>
+        <email> uffsorv.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di COSENZA">
+        <altronome/>
+        <indirizzo> Piazza Luigi e Fausto Gullo (c/o Palazzo di giustizia)</indirizzo>
+        <comune>COSENZA</comune>
+        <codiceistat>18078045</codiceistat>
+        <cap>87100</cap>
+        <telefono> 0984 - 487459 / 62</telefono>
+        <fax> 0984 - 481147 / 397</fax>
+        <email> penale.uffsorv.cosenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di CUNEO">
+        <altronome/>
+        <indirizzo>Piazza Galimberti, 7</indirizzo>
+        <comune>CUNEO</comune>
+        <codiceistat>01004078</codiceistat>
+        <cap>12100</cap>
+        <telefono>0171 - 607823</telefono>
+        <fax>0171 - 607820</fax>
+        <email>uffsorv.cuneo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di FIRENZE">
+        <altronome/>
+        <indirizzo> Viale Alessandro Guidoni, 61 - Palazzo di giustizia</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono> 055 - 7995401055 - 7995426 / 5427 - Ufficio informazioni</telefono>
+        <fax> 055 - 7995460</fax>
+        <email> uffsorv.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80035250481</codicefiscale>
+        <sitoweb> www.giustizia.toscana.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 Giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di FOGGIA">
+        <altronome/>
+        <indirizzo> Viale I Maggio</indirizzo>
+        <comune>FOGGIA</comune>
+        <codiceistat>16071024</codiceistat>
+        <cap>71100</cap>
+        <telefono> 0881 - 660111</telefono>
+        <fax> 0881 - 631360 / 684772</fax>
+        <email> penale.uffsorv.foggia@giustizia.it</email>
+        <pec>dirigente.uffsorv.foggia@giustiziacert.it segreteria.uffsorv.foggia@giustiziacert.it penale.uffsorv.foggia@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di FROSINONE">
+        <altronome/>
+        <indirizzo>Via Fedele Calvosa snc</indirizzo>
+        <comune>FROSINONE</comune>
+        <codiceistat>12060038</codiceistat>
+        <cap>03100</cap>
+        <telefono>0775 - 838053</telefono>
+        <fax>0775 - 290673</fax>
+        <email> uffsorv.frosinone@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di GENOVA">
+        <altronome/>
+        <indirizzo> Via XII Ottobre, 3</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16100</cap>
+        <telefono>010 - 5691 (centralino)010 - 5692788 / 89 / 90 (U.R.P.)</telefono>
+        <fax/>
+        <email>uffsorv.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb> www.urp.ufficigiudiziarigenova.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di L'AQUILA">
+        <altronome/>
+        <indirizzo> Via Pile, 7</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono> 0862 - 6321 ( Centralino )0862 - 632469 ( Segreteria Presidente, liquidazione spese di giustizia )0862 - 632443 ( Direttore Amministratvo - Segreteria amministrativa e magistrati )0862 - 632331 ( Cancelleria Magistrato di sorveglianza (lett. A-G))0862 - 632427 ( Cancelleria Magistrato di sorveglianza (lett. H-Z))0862 - 632448 ( Cancelleria Magistrato di sorveglianza di Pescara)0862 - 632446 ( Cancelleria centrale )</telefono>
+        <fax/>
+        <email> uffsorv.laquila@giustizia.it</email>
+        <pec>uffsorv.laquila@giustiziacert.it(Affari penali)</pec>
+        <codicefiscale>80003750660</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 giugno</patrono>
+        <infoaggiuntive>Orario di apertura al pubblico : lunedì - sabato 8.30 -13.30</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di LECCE">
+        <altronome/>
+        <indirizzo>Viale Michele De Pietro (Palazzo di Giustizia)</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono>0832 - 660111 (centralino)</telefono>
+        <fax>0832 - 308191</fax>
+        <email>posta.tribsorv.lecce@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di LIVORNO">
+        <altronome/>
+        <indirizzo> Via del Pallone, 1</indirizzo>
+        <comune>LIVORNO</comune>
+        <codiceistat>09049009</codiceistat>
+        <cap>57100</cap>
+        <telefono> 0586 - 204711</telefono>
+        <fax> 0586 - 894202 / 204734</fax>
+        <email> uffsorv.livorno@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80016590491</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22 maggio (Santa Giulia)</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di MACERATA">
+        <altronome/>
+        <indirizzo> Via Ancona, 61</indirizzo>
+        <comune>MACERATA</comune>
+        <codiceistat>11043023</codiceistat>
+        <cap>62100</cap>
+        <telefono> 0733 266755 - 408059 (cancelleria)0733 266762 (direzione)</telefono>
+        <fax> 0733 235315</fax>
+        <email> uffsorv.macerata@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80007890439</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>31 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di MANTOVA">
+        <altronome/>
+        <indirizzo> Via Chiassi, 61</indirizzo>
+        <comune>MANTOVA</comune>
+        <codiceistat>03020030</codiceistat>
+        <cap>46100</cap>
+        <telefono> 0376 - 339846</telefono>
+        <fax> 0376 - 339831</fax>
+        <email> uffsorv.mantova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di MASSA">
+        <altronome/>
+        <indirizzo> Piazza Alcide De Gasperi, 1</indirizzo>
+        <comune>MASSA</comune>
+        <codiceistat>09045010</codiceistat>
+        <cap>54100</cap>
+        <telefono> 0585 - 818444</telefono>
+        <fax> 0585 - 818426</fax>
+        <email> uffsorv.massa@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di MESSINA">
+        <altronome/>
+        <indirizzo> Via Centonze, 162</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98100</cap>
+        <telefono> 090 - 64021315 / 316 (cancelleria)</telefono>
+        <fax> 090 - 679887</fax>
+        <email> uffsorv.messina@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80004520831</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi> ricevimento del pubblico dal lunedì al sabato dalle 8 alle 13.</altresedi>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di MILANO">
+        <altronome/>
+        <indirizzo> Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20122</cap>
+        <telefono> 02 - 54334518</telefono>
+        <fax> 02 - 54108437</fax>
+        <email> tribsorv.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di MODENA">
+        <altronome/>
+        <indirizzo>Via San Pietro, 5</indirizzo>
+        <comune>MODENA</comune>
+        <codiceistat>08036023</codiceistat>
+        <cap>41121</cap>
+        <telefono> 059 - 2131902</telefono>
+        <fax> 059 - 2131912</fax>
+        <email> uffsorv.modena@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80024900369</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>31 gennaio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di NAPOLI">
+        <altronome/>
+        <indirizzo> Nuovo Palazzo di Giustizia Torre C Centro Direzionale, 8</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80143</cap>
+        <telefono> 081 - 2234954</telefono>
+        <fax> 081 - 2234257</fax>
+        <email> uffsorv.napoli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di NOVARA">
+        <altronome/>
+        <indirizzo>Via Azzario, 15</indirizzo>
+        <comune>NOVARA</comune>
+        <codiceistat>01003106</codiceistat>
+        <cap>28100</cap>
+        <telefono>0321 - 3703101</telefono>
+        <fax>0321 - 3703103</fax>
+        <email> uffsorv.novara@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di NUORO">
+        <altronome/>
+        <indirizzo>Via Manzoni c/o Tribunale</indirizzo>
+        <comune>NUORO</comune>
+        <codiceistat>20091051</codiceistat>
+        <cap>08100</cap>
+        <telefono>0784 - 216227</telefono>
+        <fax>0784 - 230073</fax>
+        <email> uffsorv.nuoro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di PADOVA">
+        <altronome/>
+        <indirizzo> Via Nicolò Tommaseo, 55</indirizzo>
+        <comune>PADOVA</comune>
+        <codiceistat>05028060</codiceistat>
+        <cap>35131</cap>
+        <telefono> 049 - 8236138</telefono>
+        <fax> 049 - 8236148</fax>
+        <email> uffsorv.padova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb> www.tribunaledisorveglianza.venezia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di PALERMO">
+        <altronome/>
+        <indirizzo> Piazza della Memoria, 1 - Palazzina L</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono> 091 - 742111</telefono>
+        <fax> 091 - 6117680 (Cancelleria registro generale ufficio)091 - 7426633 - 326642 (Cancelleria sezione istruzione)</fax>
+        <email> uffsorv.palermo@giustizia.it</email>
+        <pec>uffsorv.palermo@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive>Orari di apertura al pubblico: dal lunedì al venerdì dalle ore 8.30 alle 12.30 il martedì e il giovedì dalle ore 15.00 alle 17.00 il sabato dalle ore 8.30 alle 12.30 per il deposito di atti urgenti (tel 091 - 7426649)</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di PAVIA">
+        <altronome/>
+        <indirizzo> Piazza del Tribunale, 1</indirizzo>
+        <comune>PAVIA</comune>
+        <codiceistat>03018110</codiceistat>
+        <cap>27100</cap>
+        <telefono> 0382 - 3982700382 - 398254 / 398267</telefono>
+        <fax> 0382 - 304004 / 22537 / 22157</fax>
+        <email> uffsorv.pavia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>9 dicembre (San Siro)</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di PERUGIA">
+        <altronome/>
+        <indirizzo> Via Baglioni, 11 </indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06121</cap>
+        <telefono> 075 - 5405700 / 54051</telefono>
+        <fax> 075 - 5057563 / 5004557 </fax>
+        <email> uffsorv.perugia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di PESCARA">
+        <altronome/>
+        <indirizzo> Via Antonio Lo Feudo, 2 Blocco A, piano terra e Iº piano</indirizzo>
+        <comune>PESCARA</comune>
+        <codiceistat>13068028</codiceistat>
+        <cap>65129</cap>
+        <telefono> 085 - 45321 (centralino)</telefono>
+        <fax> 085 - 45327202</fax>
+        <email> uffsorv.pescara@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di PISA">
+        <altronome/>
+        <indirizzo> Lungarno Galilei, 24</indirizzo>
+        <comune>PISA</comune>
+        <codiceistat>09050026</codiceistat>
+        <cap>56100</cap>
+        <telefono> 050 - 500811</telefono>
+        <fax> 050 - 2206462</fax>
+        <email> uffsorv.pisa@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>apertura al pubblico dal lunedì al sabato dalle 9 alle 13.Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di POTENZA">
+        <altronome/>
+        <indirizzo> Via Nazario Sauro, 2</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono> 0971 - 4715740971 - 491833 (udienze)0971 - 491697 (permessi)0971 - 491830 (liberazioni anticipate)0971 - 491909 (esecuzione misure alternative)0971 - 491964 (ricoveri)</telefono>
+        <fax/>
+        <email> uffsorv.potenza@giustizia.it</email>
+        <pec>uffsorv.potenza@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via Fra G. Melacrino, 3/5</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89128</cap>
+        <telefono>0965 - 24123 / 24156 / 895083</telefono>
+        <fax>0965 - 20187</fax>
+        <email> uffsorv.reggiocalabria@giustizia.it</email>
+        <pec> uffsorv.reggiocalabria@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di REGGIO EMILIA">
+        <altronome/>
+        <indirizzo>Via Borsellino, 24</indirizzo>
+        <comune>REGGIO EMILIA</comune>
+        <codiceistat>08035033</codiceistat>
+        <cap>42100</cap>
+        <telefono>0522 - 510611</telefono>
+        <fax>0522 - 510623</fax>
+        <email> uffsorv.reggioemilia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di ROMA">
+        <altronome/>
+        <indirizzo> Via Triboniano, 5</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00193</cap>
+        <telefono> 06 - 98011203 (segreteria presidenza)06 - 98011200 (segreteria dirigenza)06 - 98011299 (ufficio personale)06 - 98011295 (ufficio del Consegnatario)06 - 98011280 / 285 (cancelleria centrale)</telefono>
+        <fax> 06 - 98011412 - 413 (cancelleria centrale)</fax>
+        <email> uffsorv.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 giugno</patrono>
+        <infoaggiuntive>Apertura al pubblico dal lunedì al venerdì dalle 9 alle 13,30. Sabato 09.00-13.00</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di SALERNO">
+        <altronome/>
+        <indirizzo> Piazza XXIV Maggio, 6</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono> 089 - 5645834 / 860 / 840 (cancelleria)</telefono>
+        <fax> 089 - 5645839</fax>
+        <email> uffsorv.salerno@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80028570655</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di SANTA MARIA CAPUA VETERE">
+        <altronome/>
+        <indirizzo>Via Albana</indirizzo>
+        <comune>SANTA MARIA CAPUA VETERE</comune>
+        <codiceistat>15061083</codiceistat>
+        <cap>81055</cap>
+        <telefono>0823 - 892111 / 512</telefono>
+        <fax>0823 - 798811</fax>
+        <email>uffsorv.santamariacapuavetere@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di SASSARI">
+        <altronome/>
+        <indirizzo>Via Budapest, 34</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>079 - 209202 / 216</telefono>
+        <fax>079 - 232710</fax>
+        <email> tribsorv.sassari@giustizia.it</email>
+        <pec>presidente.tribsorv.sassari@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di SIENA">
+        <altronome/>
+        <indirizzo> Via Rinaldo Franci, 26 (palazzo di Giustizia)</indirizzo>
+        <comune>SIENA</comune>
+        <codiceistat>09052032</codiceistat>
+        <cap>53100</cap>
+        <telefono> 0577 - 213727 (dirigente)0577 - 213697 (cancelleria misure sostitutive e di sicurezza, liberazione anticipata, liquidazioni onorari difensori)0577 - 213602 (cancelleria remissione del debito, espulsioni, ricoveri ospedali psichiatrici, visite, ratifiche e ricoveri ospedali civili, applicazioni provvisorie misure  alternative, differimento esecuzioni pena, reclami, visto censura, grazie)0577 - 213641 (cancelleria misure alternative, sospensione condizionata della pena legge 207/03)0577 - 213642 (cancelleria permessi detenuti)</telefono>
+        <fax> 0577 - 213722 (cancelleria penale)0577 - 213697 (cancelleria amministrativa)</fax>
+        <email> uffsorv.siena@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80007430525</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1 dicembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di SIRACUSA">
+        <altronome/>
+        <indirizzo> Viale S. Panagia, 109</indirizzo>
+        <comune>SIRACUSA</comune>
+        <codiceistat>19089017</codiceistat>
+        <cap>96100</cap>
+        <telefono> 0931 - 752111</telefono>
+        <fax> 0931 - 493444</fax>
+        <email> uffsorv.siracusa@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>13 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di SPOLETO">
+        <altronome/>
+        <indirizzo>Corso Mazzini, 14</indirizzo>
+        <comune>SPOLETO</comune>
+        <codiceistat>10054051</codiceistat>
+        <cap>06049</cap>
+        <telefono>0743 - 219301</telefono>
+        <fax>0743 - 223144</fax>
+        <email> uffsorv.spoleto@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di TARANTO">
+        <altronome/>
+        <indirizzo> Via per Montemesola - località Macchie - quartiere Paolo VI</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74100</cap>
+        <telefono> 099 - 7343111 (centralino uffici giudiziari)099 - 7343685 / 686</telefono>
+        <fax> 099 - 7343691 / 690</fax>
+        <email> uffsorv.taranto@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di TORINO">
+        <altronome/>
+        <indirizzo> Via Bologna, 47</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10152</cap>
+        <telefono> 011 - 4327823 011 - 4327811 (ufficio 1)011 - 4327858 (L.A. ufficio 1)011 - 4327808 (ufficio 2)011 - 4327830 (L.A. ufficio 2)011 - 4327859 (segreteria)</telefono>
+        <fax> 011 - 2483921(ufficio 1)011 - 4327848 (ufficio 2)</fax>
+        <email> uffsorv.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di TRAPANI">
+        <altronome/>
+        <indirizzo> Via XXX Gennaio snc</indirizzo>
+        <comune>TRAPANI</comune>
+        <codiceistat>19081021</codiceistat>
+        <cap>91100</cap>
+        <telefono> 0923 - 802111</telefono>
+        <fax> 0923 - 871859</fax>
+        <email> uffsorv.trapani@giustizia.it</email>
+        <pec> uffsorv.trapani@giustiziacert.it</pec>
+        <codicefiscale>80005700812</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di TRENTO">
+        <altronome/>
+        <indirizzo> Via Iacopo Aconcio, 2</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono> 0461 - 213333</telefono>
+        <fax> 0461 - 982675</fax>
+        <email> uffsorv.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di TRIESTE">
+        <altronome/>
+        <indirizzo> Via Zanetti, 2</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34133</cap>
+        <telefono> 040 - 7792750 / 754 / 756</telefono>
+        <fax> 040 - 362958</fax>
+        <email> uffsorv.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di UDINE">
+        <altronome/>
+        <indirizzo> Via della Prefettura, 15</indirizzo>
+        <comune>UDINE</comune>
+        <codiceistat>06030129</codiceistat>
+        <cap>33100</cap>
+        <telefono> 0432 - 814666 (centralino)</telefono>
+        <fax> 0432 - 814697 / 814698</fax>
+        <email> uffsorv.udine@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di VARESE">
+        <altronome/>
+        <indirizzo>Piazza Cacciatori delle Alpi, 1</indirizzo>
+        <comune>VARESE</comune>
+        <codiceistat>03012133</codiceistat>
+        <cap>21100</cap>
+        <telefono>0332 - 298511 / 804311</telefono>
+        <fax>0332 - 298764 / 298527</fax>
+        <email> uffsorv.varese@giustizia.it</email>
+        <pec> uffsorv.varese@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di VENEZIA">
+        <altronome/>
+        <indirizzo> Cittadella della Giustiza - Piazzale Roma - Santa Croce 430</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30135</cap>
+        <telefono> Segreteria: 041 - 9653631Udienze Ufficio: 041 - 9653630Misure Alternative: 041 - 9653626Permessi/esecuzione ufficio: 041 - 9653628/629Liberazioni Anticipate: 041 - 9653621Gratuito Patrocinio: 041 - 9653616</telefono>
+        <fax> Misure Alternative: 041 - 9653440Permessi/esecuzione ufficio: 041 - 9653441 Liberazioni Anticipate: 041 - 9653442Gratuito Patrocinio: 041 - 9653443</fax>
+        <email> uffsorv.venezia@giustizia.it</email>
+        <pec> dirigente.tribsorv.venezia@giustiziacert.it</pec>
+        <codicefiscale>80016480271</codicefiscale>
+        <sitoweb> www.tribunaledisorveglianza.venezia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di VERCELLI">
+        <altronome/>
+        <indirizzo> Via C. F. di Martiniana, 10  </indirizzo>
+        <comune>VERCELLI</comune>
+        <codiceistat>01002158</codiceistat>
+        <cap>13100</cap>
+        <telefono> 0161 - 288111</telefono>
+        <fax> 0161 - 288113 - 14</fax>
+        <email> uffsorv.vercelli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di VERONA">
+        <altronome/>
+        <indirizzo> Corte Giorgio Zanconati, 1</indirizzo>
+        <comune>VERONA</comune>
+        <codiceistat>05023091</codiceistat>
+        <cap>37100</cap>
+        <telefono> 045 - 8084011 / 305 / 306 / 8006802</telefono>
+        <fax> 045 - 8007140 / 595261 / 8084395</fax>
+        <email> uffsorv.verona@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb> www.tribunaledisorveglianza.venezia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio di Sorveglianza di VITERBO">
+        <altronome/>
+        <indirizzo> Via G. Falcone e P. Borsellino, 41</indirizzo>
+        <comune>VITERBO</comune>
+        <codiceistat>12056059</codiceistat>
+        <cap>01100</cap>
+        <telefono> 0761 - 3511 (centralino)</telefono>
+        <fax> 0761 - 352223</fax>
+        <email> penale.uffsorv.viterbo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
