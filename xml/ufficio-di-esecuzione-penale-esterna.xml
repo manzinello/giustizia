@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Ufficio di esecuzione penale esterna-->
+<root>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di AGRIGENTO - locale">
+        <altronome/>
+        <indirizzo>Via Mazzini, 177</indirizzo>
+        <comune>AGRIGENTO</comune>
+        <codiceistat>19084001</codiceistat>
+        <cap>92100</cap>
+        <telefono>0922 - 602885</telefono>
+        <fax>0922 - 602657</fax>
+        <email>uepe.agrigento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di ALESSANDRIA - locale">
+        <altronome/>
+        <indirizzo>Via Piacenza, 31</indirizzo>
+        <comune>ALESSANDRIA</comune>
+        <codiceistat>01006003</codiceistat>
+        <cap>15100</cap>
+        <telefono>0131 - 251777 / 252693</telefono>
+        <fax>0131 - 264786</fax>
+        <email>uepe.alessandria@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 novembre</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 31 marzo 2018.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di ANCONA - distrettuale">
+        <altronome/>
+        <indirizzo>Via Mamiani, 14</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60100</cap>
+        <telefono>071 - 2070431</telefono>
+        <fax>071 - 2070442</fax>
+        <email>uepe.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80012570422</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 maggio</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di AOSTA">
+        <altronome/>
+        <indirizzo>Piazza Manzetti, 2</indirizzo>
+        <comune>AOSTA</comune>
+        <codiceistat>02007003</codiceistat>
+        <cap>11100</cap>
+        <telefono>0165 - 236150</telefono>
+        <fax>0165 - 239268</fax>
+        <email>uepe.aosta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 settembre</patrono>
+        <infoaggiuntive>Sezione distaccata di TORINO</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di AREZZO">
+        <altronome/>
+        <indirizzo>Piazza S. Maria in Gradi, 4</indirizzo>
+        <comune>AREZZO</comune>
+        <codiceistat>09051002</codiceistat>
+        <cap>52100</cap>
+        <telefono>0575 - 298916</telefono>
+        <fax>0575 - 302786</fax>
+        <email>uepe.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di FIRENZE</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di AVELLINO - locale">
+        <altronome/>
+        <indirizzo>Via Verdi, 64</indirizzo>
+        <comune>AVELLINO</comune>
+        <codiceistat>15064008</codiceistat>
+        <cap>83100</cap>
+        <telefono>0825 - 24510 (centralino)</telefono>
+        <fax>0825 - 26752</fax>
+        <email>uepe.avellino@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BARI - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BENEVENTO - locale">
+        <altronome/>
+        <indirizzo>Via Colonnette, 14</indirizzo>
+        <comune>BENEVENTO</comune>
+        <codiceistat>15062008</codiceistat>
+        <cap>82100</cap>
+        <telefono>0824 - 482401 / 482402 / 482403</telefono>
+        <fax>0824 - 482410</fax>
+        <email>uepe.benevento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BERGAMO - locale">
+        <altronome/>
+        <indirizzo>Piazza della Libertà, 7</indirizzo>
+        <comune>BERGAMO</comune>
+        <codiceistat>03016024</codiceistat>
+        <cap>24100</cap>
+        <telefono>035 - 0860359 (centralino) 035 - 0860357 (direzione)</telefono>
+        <fax>035 - 0860358</fax>
+        <email>sedeserviziobergamo.uepe.brescia@giustizia.it uepe.bergamo@giustiziacert.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BOLOGNA - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BOLZANO - locale">
+        <altronome/>
+        <indirizzo>Via Macello, 50</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono>0471 - 983052</telefono>
+        <fax>0471 - 983086</fax>
+        <email>uepe.bolzano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BRESCIA - distrettuale">
+        <altronome/>
+        <indirizzo>Via S.Francesco d'Assisi, 11</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25122</cap>
+        <telefono>030 - 221319030 - 2420884 (direzione)</telefono>
+        <fax>030 - 2421886</fax>
+        <email>uepe.brescia@giustizia.ituepe.brescia@giustiziacert.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 febbraio</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 3 giugno 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di BRINDISI - locale">
+        <altronome/>
+        <indirizzo>Via Tor Pisana, 120</indirizzo>
+        <comune>BRINDISI</comune>
+        <codiceistat>16074001</codiceistat>
+        <cap>72100</cap>
+        <telefono>0831 - 548348 / 548034</telefono>
+        <fax>0831 - 557176</fax>
+        <email>uepe.brindisi@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 settembre</patrono>
+        <infoaggiuntive>orari di apertura al pubblico 9.00-12.30 dal lunedì al sabato 14.45-16.15 il martedì e giovedì</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CAGLIARI - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CALTANISSETTA - locale">
+        <altronome/>
+        <indirizzo>Viale Kennedy, 16</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 29390</telefono>
+        <fax>0934 - 583404</fax>
+        <email>uepe.caltanissetta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 settembre 2017</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 31 marzo 2018.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CAMPOBASSO - locale">
+        <altronome/>
+        <indirizzo>Via Luigi D'Amato, 3/F</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono>0874 - 69511 (centralino) 0874/69129 (centralino 2a linea) 0874/69782 (direzione)</telefono>
+        <fax>0874 - 69080</fax>
+        <email>uepe.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80002000703</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CASERTA - locale">
+        <altronome/>
+        <indirizzo>Via Tanucci, 55</indirizzo>
+        <comune>CASERTA</comune>
+        <codiceistat>15061022</codiceistat>
+        <cap>81100</cap>
+        <telefono>0823 - 443288 - 353937</telefono>
+        <fax>0823 - 443298</fax>
+        <email>uepe.caserta@giustizia.it</email>
+        <pec>uepe.caserta@giustiziacert.it</pec>
+        <codicefiscale>93058250619</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>20 gennaio</patrono>
+        <infoaggiuntive>L'ufficio sarà chiuso sabato 31 marzo 2018.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CATANIA - distrettuale">
+        <altronome/>
+        <indirizzo>Via Sant'Euplio, 74</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95124</cap>
+        <telefono>095 - 2506001</telefono>
+        <fax>095 - 2506021</fax>
+        <email>uepe.catania@giustizia.it</email>
+        <pec>uepe.catania@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CATANZARO - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di COMO - distrettuale">
+        <altronome/>
+        <indirizzo>Via Antonio Sant'Elia, 11</indirizzo>
+        <comune>COMO</comune>
+        <codiceistat>03013075</codiceistat>
+        <cap>22100</cap>
+        <telefono>031 - 4493011</telefono>
+        <fax>031 - 262869</fax>
+        <email>uepe.como@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>31 agosto</patrono>
+        <infoaggiuntive>Orario ricevimento pubblico lunedì 09.00 - 13.30 - su appuntamento 14.00 -16.30 martedì 09.00 - 13.00 e 14.00 - 16.30 mercoledì 09.00 - 13.30 - su appuntamento 14.00 -16.30 giovedì 09.00 - 13.30 - su appuntamento 14.00 -16.30 venerdì 09.00 - 13.30 - su appuntamento 14.00 -16.30 sabato 09.00 - 13.30 - su appuntamento 14.00 -15.30dal lunedì al sabato: dalle 08.00 alle 09.00 su appuntamento o per urgenze</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di COSENZA - locale">
+        <altronome/>
+        <indirizzo>Viale Giacomo Mancini, 320</indirizzo>
+        <comune>COSENZA</comune>
+        <codiceistat>18078045</codiceistat>
+        <cap>87100</cap>
+        <telefono>0984 - 408866</telefono>
+        <fax>0984 - 825010</fax>
+        <email>uepe.cosenza@giustizia.it segrservsoc.uepe.cosenza@giustizia.it contabilita.uepe.cosenza@giustizia.it</email>
+        <pec>uepe.cosenza@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso per tutti i sabati del mese di AGOSTO 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CROTONE - locale">
+        <altronome/>
+        <indirizzo>SS 107, loc. Passovecchio</indirizzo>
+        <comune>CROTONE</comune>
+        <codiceistat>18101010</codiceistat>
+        <cap>88900</cap>
+        <telefono>0962 - 938010</telefono>
+        <fax>0962 - 931697</fax>
+        <email>sedeserviziocrotone.uepe.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>9 ottobre 2017</patrono>
+        <infoaggiuntive>Sede distaccata L'ufficio rimarrà chiuso lunedì 9 ottobre 2017 per la ricorrenza della festività del Santo Patrono </infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di CUNEO - locale">
+        <altronome/>
+        <indirizzo>Via Giovanni Battista Bongioanni, 32</indirizzo>
+        <comune>CUNEO</comune>
+        <codiceistat>01004078</codiceistat>
+        <cap>12100</cap>
+        <telefono>0171 - 695777 / 631231</telefono>
+        <fax>0171 - 698707</fax>
+        <email>uepe.cuneo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di FIRENZE - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di FOGGIA - locale">
+        <altronome/>
+        <indirizzo>Via Isonzo, 23</indirizzo>
+        <comune>FOGGIA</comune>
+        <codiceistat>16071024</codiceistat>
+        <cap>71100</cap>
+        <telefono>0881 - 723378 / 725314 / 708618</telefono>
+        <fax>0881 720574</fax>
+        <email>uepe.foggia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di FORLÌ-CESENA - locale">
+        <altronome/>
+        <indirizzo>Via delle Torri, 6</indirizzo>
+        <comune>FORLÌ</comune>
+        <codiceistat>08040012</codiceistat>
+        <cap>47121</cap>
+        <telefono>0543 - 28201</telefono>
+        <fax/>
+        <email>uepe.forli@giustizia.it</email>
+        <pec>uepe.forli@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 febbraio</patrono>
+        <infoaggiuntive>L'ufficio rimarrà chiuso il 14 agosto 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di FROSINONE - locale">
+        <altronome/>
+        <indirizzo>Viale Volsci, 34</indirizzo>
+        <comune>FROSINONE</comune>
+        <codiceistat>12060038</codiceistat>
+        <cap>03100</cap>
+        <telefono>0775 - 82091 (centralino)</telefono>
+        <fax>0775 - 271040</fax>
+        <email>uepe.frosinone@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio sarà chiuso sabato 31 marzo 2018</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di GENOVA - distrettuale">
+        <altronome/>
+        <indirizzo>Viale Brigate Partigiane 92R</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16129</cap>
+        <telefono>010 - 5489701</telefono>
+        <fax>010 - 5489744</fax>
+        <email>uepe.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di GORIZIA">
+        <altronome/>
+        <indirizzo>Corso Verdi, 52</indirizzo>
+        <comune>GORIZIA</comune>
+        <codiceistat>06031007</codiceistat>
+        <cap>34170</cap>
+        <telefono>0481 - 547001</telefono>
+        <fax/>
+        <email>uepe.udine@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di TRIESTE</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di IMPERIA - locale">
+        <altronome/>
+        <indirizzo>Viale Matteotti, 50 ex Genio Civile, piano -1 </indirizzo>
+        <comune>IMPERIA</comune>
+        <codiceistat>07008031</codiceistat>
+        <cap>18100</cap>
+        <telefono>0183 - 509818</telefono>
+        <fax>0183 - 509817</fax>
+        <email>sedediservizioimperia.uepe.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di L'AQUILA - locale">
+        <altronome/>
+        <indirizzo>Via Pescara, 2</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 40041</telefono>
+        <fax>0862 - 400420</fax>
+        <email>uepe.laquila@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di LA SPEZIA">
+        <altronome/>
+        <indirizzo>Via Venezia, 80</indirizzo>
+        <comune>LA SPEZIA</comune>
+        <codiceistat>07011015</codiceistat>
+        <cap>19125</cap>
+        <telefono>0187 - 711470</telefono>
+        <fax>0187 - 700345</fax>
+        <email>uepe.laspezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di MASSA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di LATINA - locale">
+        <altronome/>
+        <indirizzo>Via Piscinara Destra, s.n.c.</indirizzo>
+        <comune>LATINA</comune>
+        <codiceistat>12059011</codiceistat>
+        <cap>04100</cap>
+        <telefono>0773 - 82051 (centralino) 0773 - 820520 (segreteria amministrativa) 0773 - 820521 /820522 (segreteria tecnica)</telefono>
+        <fax>0773 - 632783</fax>
+        <email>uepe.latina@giustizia.it uepe.latina@giustiziacert.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di LECCE - distrettuale">
+        <altronome/>
+        <indirizzo>Piazza Mazzini, 42</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono>0832 - 312147 / 311764 / 311897</telefono>
+        <fax/>
+        <email>uepe.lecce@giustizia.it</email>
+        <pec>uepe.lecce@giustiziacert.it</pec>
+        <codicefiscale>93138050757</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 agosto</patrono>
+        <infoaggiuntive>casella postale 1018 orari di apertura al pubblico dalle 9 alle 12.30 dal lunedì al sabato. Lunedì, martedì e giovedì dalle 15 alle 16.30. L'Ufficio resterà chiuso il 26 agosto per ricorrenza del Santo Patrono.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di LIVORNO - locale">
+        <altronome/>
+        <indirizzo>Via Meucci, 6</indirizzo>
+        <comune>LIVORNO</comune>
+        <codiceistat>09049009</codiceistat>
+        <cap>57124</cap>
+        <telefono>0586 - 408362 / 408307</telefono>
+        <fax>0586 - 404924</fax>
+        <email>uepe.livorno@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di LUCCA">
+        <altronome/>
+        <indirizzo>Via Guidiccioni, 99</indirizzo>
+        <comune>LUCCA</comune>
+        <codiceistat>09046017</codiceistat>
+        <cap>55100</cap>
+        <telefono>0583 - 55496</telefono>
+        <fax>0583 - 316615</fax>
+        <email>uepe.lucca@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93001980502</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>12 luglio</patrono>
+        <infoaggiuntive>Sezione distaccata di PISA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MACERATA - locale">
+        <altronome/>
+        <indirizzo>Via Weiden, 22</indirizzo>
+        <comune>MACERATA</comune>
+        <codiceistat>11043023</codiceistat>
+        <cap>62100</cap>
+        <telefono>0733 - 236616 / 232424 / 291322</telefono>
+        <fax>0733 - 239370</fax>
+        <email>uepe.macerata@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93042880430</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>31 agosto</patrono>
+        <infoaggiuntive>apertura al pubblico dal lunedi al sabato dalle 9 alle 13.30 - martedì e giovedì dalle 15 alle 17.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MANTOVA - locale">
+        <altronome/>
+        <indirizzo>Via Pomponazzo, 27</indirizzo>
+        <comune>MANTOVA</comune>
+        <codiceistat>03020030</codiceistat>
+        <cap>46100</cap>
+        <telefono>0376 - 360300 0376 329439</telefono>
+        <fax>0376 - 329681</fax>
+        <email>uepe.mantova@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93027240204</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>18 Marzo</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MASSA - locale">
+        <altronome/>
+        <indirizzo>Via Crispi, 11</indirizzo>
+        <comune>MASSA</comune>
+        <codiceistat>09045010</codiceistat>
+        <cap>54100</cap>
+        <telefono>0585 - 791562</telefono>
+        <fax>0585 - 790221</fax>
+        <email>uepe.massa@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso nella giornata del primo sabato di ogni mese per tutto il 2018. L'ufficio resterà chiuso sabato 31 marzo 2018.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MATERA - locale">
+        <altronome/>
+        <indirizzo>Via Cappelluti, 60/62</indirizzo>
+        <comune>MATERA</comune>
+        <codiceistat>17077014</codiceistat>
+        <cap>75100</cap>
+        <telefono>0835 - 334572</telefono>
+        <fax>0835 - 330400</fax>
+        <email>uepe.matera@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93043280770</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 luglio</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MESSINA - locale">
+        <altronome/>
+        <indirizzo>Via Consolare Valeria, 2 (c/o Casa circondariale "Gazzi")</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98123</cap>
+        <telefono>090 - 776961</telefono>
+        <fax>090 - 632993</fax>
+        <email>cc.messina@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso il sabato nei mesi di luglio e agosto 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MILANO - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di MODENA - locale">
+        <altronome/>
+        <indirizzo>Via C. Sigonio, 50/3</indirizzo>
+        <comune>MODENA</comune>
+        <codiceistat>08036023</codiceistat>
+        <cap>41100</cap>
+        <telefono>059 - 210973 / 212230</telefono>
+        <fax>059 - 214611</fax>
+        <email>uepe.modena@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio rimarrà chiuso tutti i sabati a partire dal 7 ottobre 2017 fino a nuova disposizione</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di NAPOLI - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di NOVARA - distrettuale">
+        <altronome/>
+        <indirizzo>Via dei Caccia, 11</indirizzo>
+        <comune>NOVARA</comune>
+        <codiceistat>01003106</codiceistat>
+        <cap>28100</cap>
+        <telefono>0321 - 36325 0321 - 611364 (direzione)</telefono>
+        <fax>0321 - 33286 0321 - 611364 (direzione)</fax>
+        <email>uepe.novara@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94007950036</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi>Sede di Servizio Sociale di VERBANIA Piazza Giovanni XXIII, 28 c/o S.F.A.P. 28922 VERBANIA tel: 0323 - 502429 (centralino) fax: 0323 - 505375</altresedi>
+        <patrono>22 gennaio</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 3 giugno 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di NUORO - locale">
+        <altronome/>
+        <indirizzo>Via Ugo Foscolo, 21</indirizzo>
+        <comune>NUORO</comune>
+        <codiceistat>20091051</codiceistat>
+        <cap>08100</cap>
+        <telefono>0784 - 36739</telefono>
+        <fax>0784 - 37954</fax>
+        <email>uepe.nuoro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di ORISTANO - locale">
+        <altronome/>
+        <indirizzo>Via Dorando Petri, 9</indirizzo>
+        <comune>ORISTANO</comune>
+        <codiceistat>20095038</codiceistat>
+        <cap>09170</cap>
+        <telefono>0783 - 78005 / 779015</telefono>
+        <fax>0783 - 772064</fax>
+        <email>uepe.cagliari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio sarà chiuso sabato 31 marzo 2018.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PADOVA - locale">
+        <altronome/>
+        <indirizzo>Viale della navigazione Interna 38/a</indirizzo>
+        <comune>PADOVA</comune>
+        <codiceistat>05028060</codiceistat>
+        <cap>35129</cap>
+        <telefono>049 - 7811911 / 8076909</telefono>
+        <fax>049 - 8076902</fax>
+        <email>uepe.padova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>13 giugno</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso per la festa del patrono L'ufficio sarà chiuso nelle giornate di sabato dei mesi di luglio e agosto 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PALERMO - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PAVIA - locale">
+        <altronome/>
+        <indirizzo>Viale Oberdan, 4</indirizzo>
+        <comune>PAVIA</comune>
+        <codiceistat>03018110</codiceistat>
+        <cap>27100</cap>
+        <telefono>0382 - 302730 / 303018</telefono>
+        <fax>0382 - 26340</fax>
+        <email>uepe.pavia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PERUGIA - distrettuale">
+        <altronome/>
+        <indirizzo>Via Mario Angeloni, 45</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06124</cap>
+        <telefono>075 - 5009923</telefono>
+        <fax>075 - 5055455</fax>
+        <email>uepe.perugia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Dal 1° ottobre 2017 l'ufficio avrà competenza territoriale sull'intera provincia L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PESCARA - distrettuale">
+        <altronome/>
+        <indirizzo>Via G. Chiarini, 126</indirizzo>
+        <comune>PESCARA</comune>
+        <codiceistat>13068028</codiceistat>
+        <cap>65100</cap>
+        <telefono>085 - 65388 085 - 4554016 085 - 4554377</telefono>
+        <fax>085 - 4516437</fax>
+        <email>uepe.pescara@giustizia.it uepe.pescara@giustiziacert.it ragioneria.uepe.pescara@giustizia.it segreteriatecnica.uepe.pescara@giustizia.it</email>
+        <pec/>
+        <codicefiscale>91064630683</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 ottobre</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 15 luglio e 12 agosto 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PISA - distrettuale">
+        <altronome/>
+        <indirizzo>Via D'Achiardi, 40</indirizzo>
+        <comune>PISA</comune>
+        <codiceistat>09050026</codiceistat>
+        <cap>56100</cap>
+        <telefono>050 - 579695 / 970920</telefono>
+        <fax>050 - 544297</fax>
+        <email>uepe.pisa@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93001980502</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>17 giugno</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PISTOIA - locale">
+        <altronome/>
+        <indirizzo>Via Giuseppe Gentile, 40/G</indirizzo>
+        <comune>PISTOIA</comune>
+        <codiceistat>09047014</codiceistat>
+        <cap>51100</cap>
+        <telefono>0573 - 964723</telefono>
+        <fax>0573 - 964724</fax>
+        <email>uepe.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di POTENZA - distrettuale">
+        <altronome/>
+        <indirizzo>Via dei Mille s.n.c.</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 411472 - 21949</telefono>
+        <fax>0971 - 410551</fax>
+        <email>uepe.potenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale>96057880765</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di PRATO - locale">
+        <altronome/>
+        <indirizzo>Viale della Repubblica, 235</indirizzo>
+        <comune>PRATO</comune>
+        <codiceistat>09100005</codiceistat>
+        <cap>50047</cap>
+        <telefono>0574 - 583781</telefono>
+        <fax>0574 - 597780</fax>
+        <email>uepe.prato@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di RAGUSA - locale">
+        <altronome/>
+        <indirizzo>Via Roma, 212</indirizzo>
+        <comune>RAGUSA</comune>
+        <codiceistat>19088009</codiceistat>
+        <cap>97100</cap>
+        <telefono>0932 - 686208 / 686509</telefono>
+        <fax>0932 - 686208</fax>
+        <email>uepe.ragusa@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 agosto</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso il sabato nei mesi di luglio e agosto 2017 ed il 29 agosto in occasione della festa del Santo Patrono.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di REGGIO CALABRIA - distrettuale">
+        <altronome/>
+        <indirizzo>Via Vico Vitetta, 26</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89133</cap>
+        <telefono>0965 - 590591 / 590409 / 593445 / 598931 / 590409</telefono>
+        <fax>0965 - 590478</fax>
+        <email>uepe.reggiocalabria@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di REGGIO EMILIA - distrettuale">
+        <altronome/>
+        <indirizzo>Via Terrachini, 18</indirizzo>
+        <comune>REGGIO EMILIA</comune>
+        <codiceistat>08035033</codiceistat>
+        <cap>42122</cap>
+        <telefono>0522 - 555543 / 557711 / 558855</telefono>
+        <fax>0522 - 332454 / 331587</fax>
+        <email>uepe.reggioemilia@giustizia.it</email>
+        <pec>uepe.reggioemilia@giustiziacert.it</pec>
+        <codicefiscale>91176410354</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 novembre</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di RIMINI">
+        <altronome/>
+        <indirizzo>Via Mentana, 36</indirizzo>
+        <comune>RIMINI</comune>
+        <codiceistat>08099014</codiceistat>
+        <cap>47037</cap>
+        <telefono>0541 - 57628</telefono>
+        <fax/>
+        <email>uepe.rimini@giustizia.it uepe.rimini@giustiziacert.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14 ottobre</patrono>
+        <infoaggiuntive>Sezione distaccata di FORLÌ-CESENA L'ufficio rimarrà chiuso il 14 agosto 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di ROMA - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di SALERNO - distrettuale">
+        <altronome/>
+        <indirizzo>Via Irno, 11</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono>089 - 7415111</telefono>
+        <fax>089 - 7415278</fax>
+        <email>uepe.salerno@giustizia.it</email>
+        <pec>uepe.salerno@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 31 marzo 2018</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di SASSARI - distrettuale">
+        <altronome/>
+        <indirizzo>Via Mazzini, 2/d</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>079 - 237052</telefono>
+        <fax>079 - 238630</fax>
+        <email>uepe.sassari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di SAVONA">
+        <altronome/>
+        <indirizzo>P.le Eroi dei Due Mondi, 2/3</indirizzo>
+        <comune>SAVONA</comune>
+        <codiceistat>07009056</codiceistat>
+        <cap>17100</cap>
+        <telefono>019 - 813195</telefono>
+        <fax>019 - 813195</fax>
+        <email>uepe.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di GENOVA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di SIENA - locale">
+        <altronome/>
+        <indirizzo>Via di Città, 65</indirizzo>
+        <comune>SIENA</comune>
+        <codiceistat>09052032</codiceistat>
+        <cap>53100</cap>
+        <telefono>0577 - 283150</telefono>
+        <fax>0577 - 284213</fax>
+        <email>uepe.siena@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1 dicembre</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di SIRACUSA - locale">
+        <altronome/>
+        <indirizzo>Via Scala Greca 181 scala A</indirizzo>
+        <comune>SIRACUSA</comune>
+        <codiceistat>19089017</codiceistat>
+        <cap>96100</cap>
+        <telefono>0931 - 491040</telefono>
+        <fax>0931 - 491548</fax>
+        <email>uepe.siracusa@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TARANTO - locale">
+        <altronome/>
+        <indirizzo>Via Cagliari, 124</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74100</cap>
+        <telefono>099 - 7328906 / 911</telefono>
+        <fax>099 - 7328928</fax>
+        <email>uepe.taranto@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TERAMO - locale">
+        <altronome/>
+        <indirizzo>Via dell'Orto Agrario, s.n.c.</indirizzo>
+        <comune>TERAMO</comune>
+        <codiceistat>13067041</codiceistat>
+        <cap>64100</cap>
+        <telefono>0861 - 249262</telefono>
+        <fax>0861 - 250845</fax>
+        <email>uepe.teramo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TERNI - locale">
+        <altronome/>
+        <indirizzo>Via Cerquiglia, 68</indirizzo>
+        <comune>SPOLETO</comune>
+        <codiceistat>10054051</codiceistat>
+        <cap>06049</cap>
+        <telefono>0743 - 222231</telefono>
+        <fax>0743 - 223398</fax>
+        <email>uepe.spoleto@giustizia.it</email>
+        <pec>uepe.spoleto@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Ai sensi del D.M. 23.2.2017 l’Ufficio locale di esecuzione penale esterna di Terni è attualmente presso la sede di Spoleto.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TORINO - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TRAPANI - locale">
+        <altronome/>
+        <indirizzo>Via Francesco Manzo, 8</indirizzo>
+        <comune>TRAPANI</comune>
+        <codiceistat>19081021</codiceistat>
+        <cap>91100</cap>
+        <telefono>0923 - 873476 / 21802</telefono>
+        <fax>0923 - 873023</fax>
+        <email>uepe.trapani@giustizia.it (per atti amministrativi) areatecnica.uepe.trapani@giustizia.it (per atti di servizio sociale)</email>
+        <pec>uepe.trapani@giustiziacert.it</pec>
+        <codicefiscale>93004750811</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>tel. 0923 - 548718</indirizzo>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>7 agosto</patrono>
+        <infoaggiuntive>L'ufficio sarà chiuso nelle giornate di sabato dei mesi di luglio e agosto 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TRENTO - locale">
+        <altronome/>
+        <indirizzo>Via Clementino Vannetti, 13 piano V - Palazzo degli Uffici Finanziari</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono>0461 - 230261 / 234572 / 237608 (Direttore)</telefono>
+        <fax>0461 - 263633</fax>
+        <email>uepe.trento@giustizia.it</email>
+        <pec>uepe.trento@giustiziacert.it</pec>
+        <codicefiscale>96071120222</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 giugno</patrono>
+        <infoaggiuntive>L'Uffico resterà chiuso sabato 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TREVISO">
+        <altronome/>
+        <indirizzo>Riviera S. Margherita, 62</indirizzo>
+        <comune>TREVISO</comune>
+        <codiceistat>05026086</codiceistat>
+        <cap>31100</cap>
+        <telefono>0422 - 541178</telefono>
+        <fax/>
+        <email>sedetreviso.uepe.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di VENEZIA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di TRIESTE - distrettuale">
+        <altronome/>
+        <indirizzo>Via Coroneo, 19</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34100</cap>
+        <telefono>040 - 7707811</telefono>
+        <fax>040 - 7707826</fax>
+        <email>uepe.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di UDINE - locale">
+        <altronome/>
+        <indirizzo>Via Trento, 67</indirizzo>
+        <comune>UDINE</comune>
+        <codiceistat>06030129</codiceistat>
+        <cap>33100</cap>
+        <telefono>0432 - 584611 0432 - 584643 (dirigente) 0432 - 584647 (capo area)</telefono>
+        <fax>0432 - 508847 (segreteria) 0432 - 295165 (dirigente)</fax>
+        <email>uepe.udine@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80001810300</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo>0432 - 584655</indirizzo>
+            <cap/>
+            <email/>
+            <telefono/>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono>12 luglio</patrono>
+        <infoaggiuntive>L'ufficio sarà chiuso sabato 31 marzo 2018</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VARESE - locale">
+        <altronome/>
+        <indirizzo>Viale Belforte, 134</indirizzo>
+        <comune>VARESE</comune>
+        <codiceistat>03012133</codiceistat>
+        <cap>21100</cap>
+        <telefono>0332 - 331409</telefono>
+        <fax>0332 - 331468</fax>
+        <email>uepe.varese@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VENEZIA - interdistrettuale">
+        <altronome/>
+        <indirizzo/>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap/>
+        <telefono/>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VERBANIA">
+        <altronome/>
+        <indirizzo>Piazza Giovanni XXIII, 28 c/o S.F.A.P. </indirizzo>
+        <comune>VERBANIA</comune>
+        <codiceistat>01103072</codiceistat>
+        <cap>28922</cap>
+        <telefono>0323 - 502429</telefono>
+        <fax>0323 - 505375</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di NOVARA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VERCELLI - locale">
+        <altronome/>
+        <indirizzo>Corso Libertà, 72</indirizzo>
+        <comune>VERCELLI</comune>
+        <codiceistat>01002158</codiceistat>
+        <cap>13100</cap>
+        <telefono>0161 - 502236 / 74</telefono>
+        <fax>0161 - 502195</fax>
+        <email>uepe.vercelli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VERONA - distrettuale">
+        <altronome/>
+        <indirizzo>Via Don Enrico Tazzoli, 3</indirizzo>
+        <comune>VERONA</comune>
+        <codiceistat>05023091</codiceistat>
+        <cap>37121</cap>
+        <telefono>045 - 8003831</telefono>
+        <fax>segreteria tecnica: 045 - 8030758 segreteria amministrativa: 045 - 8038592</fax>
+        <email>uepe.verona@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93036710239</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 Maggio</patrono>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 23 e 30 dicembre 2017</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VIBO VALENTIA">
+        <altronome/>
+        <indirizzo>Località Cocari</indirizzo>
+        <comune>VIBO VALENTIA</comune>
+        <codiceistat>18102047</codiceistat>
+        <cap>89900</cap>
+        <telefono>0963 - 472383</telefono>
+        <fax>0963 - 471006</fax>
+        <email>sedeserviziovibovalentia.uepe.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Sezione distaccata di REGGIO CALABRIA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VICENZA">
+        <altronome/>
+        <indirizzo>Via G. Bonollo, 17</indirizzo>
+        <comune>VICENZA</comune>
+        <codiceistat>05024116</codiceistat>
+        <cap>36100</cap>
+        <telefono>0444 - 965522</telefono>
+        <fax/>
+        <email>uepe.vicenza@giustizia.it</email>
+        <pec>uepe.vicenza@giustiziacert.it</pec>
+        <codicefiscale>93036710239</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>8 settembre</patrono>
+        <infoaggiuntive>Sezione distaccata di VERONA</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Ufficio esecuzione penale esterna di VITERBO - distrettuale">
+        <altronome/>
+        <indirizzo>Via A. Gargana, 40</indirizzo>
+        <comune>VITERBO</comune>
+        <codiceistat>12056059</codiceistat>
+        <cap>01100</cap>
+        <telefono>0761 - 3209339</telefono>
+        <fax>0761 - 3209336</fax>
+        <email>uepe.viterbo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+</root>
