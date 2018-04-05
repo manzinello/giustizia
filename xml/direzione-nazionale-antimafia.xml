@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Direzione nazionale antimafia-->
+<root>
+    <ufficio nomeufficio="Direzione Nazionale Antimafia di ROMA">
+        <altronome/>
+        <indirizzo> Via Giulia, 52</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00186</cap>
+        <telefono> 06 - 682821</telefono>
+        <fax> 06 - 6892611</fax>
+        <email> dna@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
