@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Tribunale di sorveglianza-->
+<root>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di ANCONA">
+        <altronome/>
+        <indirizzo> Viale della Vittoria, 22</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60100</cap>
+        <telefono> 071 - 5062008 / 4</telefono>
+        <fax> 071 - 2072862 / 5062047</fax>
+        <email> tribsorv.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.tribsorv.ancona.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di BARI">
+        <altronome/>
+        <indirizzo> Piazza E. De Nicola</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70100</cap>
+        <telefono> 080 - 5749720 / 5298318</telefono>
+        <fax> 080 - 5742432 / 5794153</fax>
+        <email> tribsorv.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di BOLOGNA">
+        <altronome/>
+        <indirizzo> Via Farini, 2</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40124</cap>
+        <telefono> 051 - 201111</telefono>
+        <fax> 051 - 201165  /  239144</fax>
+        <email> tribsorv.bologna@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di BOLZANO">
+        <altronome/>
+        <indirizzo> Via Manci, 6/A</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono> 0471 - 226116 / 17</telefono>
+        <fax> 0471 - 226120</fax>
+        <email> tribsorv.bolzano@giustizia.itcanc.tribsorv.bolzano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di BRESCIA">
+        <altronome/>
+        <indirizzo> Via Lattanzio Gambara, 40 - III piano, sc. n. 14</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25121</cap>
+        <telefono> 030 - 7673811</telefono>
+        <fax> 030 - 7673853</fax>
+        <email> tribsorv.brescia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di CAGLIARI">
+        <altronome/>
+        <indirizzo> Piazza della Repubblica, 18</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09125</cap>
+        <telefono> 070 - 602221 (centralino)</telefono>
+        <fax> 070 - 60222536 / 679 </fax>
+        <email> penale.tribsorv.cagliari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di CALTANISSETTA">
+        <altronome/>
+        <indirizzo> Viale della Regione, traversa Istituto Mottura</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono> 0934 - 71111 (centralino)</telefono>
+        <fax> 0934 - 595233</fax>
+        <email> tribsorv.caltanissetta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di CAMPOBASSO">
+        <altronome/>
+        <indirizzo> Viale Elena</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono> 0874 - 4001 (centralino)</telefono>
+        <fax> 0874 - 311630</fax>
+        <email> tribsorv.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di CATANIA">
+        <altronome/>
+        <indirizzo> Via Roberto Giuffrida Castorina, 9</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95128</cap>
+        <telefono> 095 - 7194700</telefono>
+        <fax> 095 - 508196</fax>
+        <email> tribsorv.catania@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb>www.tribunalesorveglianza.catania.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di CATANZARO">
+        <altronome/>
+        <indirizzo> Via Argento</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono> 0961 - 885111 (centralino)</telefono>
+        <fax> 0961 - 701383 / 386 / 395</fax>
+        <email> tribsorv.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di FIRENZE">
+        <altronome/>
+        <indirizzo> Viale Alessandro Guidoni, 61 - Palazzo di giustizia</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono> 055 -79941  - Centralino 055 - 7995426 / 5427 - Ufficio informazioni</telefono>
+        <fax> 055 - 480187055 - 7995440</fax>
+        <email> tribsorv.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80035250481</codicefiscale>
+        <sitoweb>http://www.giustizia.toscana.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di GENOVA">
+        <altronome/>
+        <indirizzo> Via XII Ottobre, 3 - 3° piano</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16121</cap>
+        <telefono> 010 - 5691 (centralino)010 - 5692788 / 89 / 90 (URP)</telefono>
+        <fax/>
+        <email> cancelleria.tribsorv.genova@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80100820101</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di L'AQUILA">
+        <altronome/>
+        <indirizzo> Via Pile, 7</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono> 0862 - 6321 ( Centralino )0862 - 632469 ( Segreteria Presidente, liquidazione spese di giustizia )0862 - 632443 ( Direttore Amministratvo - Segreteria amministrativa e magistrati )0862 - 632331 ( Cancelleria Magistrato di sorveglianza (lett. A-G))0862 - 632427 ( Cancelleria Magistrato di sorveglianza (lett. H-Z))0862 - 632448 ( Cancelleria Magistrato di sorveglianza di Pescara)0862 - 632446 ( Cancelleria centrale )</telefono>
+        <fax/>
+        <email> tribsorv.laquila@giustizia.it</email>
+        <pec>prot.tribsorv.laquila@giustiziacert.it (Corrispondenza amministrativa) tribsorv.laquila@giustiziacert.it(Affari penali)</pec>
+        <codicefiscale>80003750660</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 giugno</patrono>
+        <infoaggiuntive>Orario di apertura al pubblico : lunedì - sabato 8.30 -13.30</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di LECCE">
+        <altronome/>
+        <indirizzo>Viale Michele De Pietro (Palazzo di Giustizia)</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono> 0832 - 660111 (centralino)0832 - 304961 (dirigente)</telefono>
+        <fax>0832 - 308191</fax>
+        <email>posta.tribsorv.lecce@giustizia.it@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di MESSINA">
+        <altronome/>
+        <indirizzo> Via Centonze, 162</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98100</cap>
+        <telefono> 090 - 6402111 (centralino)090 - 64021308 / 64021306 (cancelleria)</telefono>
+        <fax> 090 - 663014 / 710694</fax>
+        <email> tribsorv.messina@giustizia.it </email>
+        <pec/>
+        <codicefiscale>80004520831</codicefiscale>
+        <sitoweb>www.tribsorv.messina.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 giugno</patrono>
+        <infoaggiuntive>apertura al pubblico dal lunedì al sabato dalle 8 alle 13. Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di MILANO">
+        <altronome/>
+        <indirizzo> Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20122</cap>
+        <telefono> 02 - 54334518 / 5433322802 - 54333959 (esecuzioni post udienza)</telefono>
+        <fax> 02 - 54108437 / 5519046402 - 54108504 (esecuzioni post udienza)</fax>
+        <email> tribsorv.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di NAPOLI">
+        <altronome/>
+        <indirizzo> Nuovo Palazzo di Giustizia Torre C Centro Direzionale</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80143</cap>
+        <telefono> 081 - 2234955 / 954</telefono>
+        <fax> 081 - 2234302 / 274</fax>
+        <email> tribsorv.napoli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di PALERMO">
+        <altronome/>
+        <indirizzo> Piazza della Memoria, 1 - Palazzina L</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono> 091 - 7421111 (centralino)091 -7426644 (Servizio informazioni al pubblico)091 - 7426587 / 6557 (Segreteria di Presidenza)091 - 7426555 / 6553 / 6561 (Segreteria Dirigente - Ufficio del Personale - Servizi amministrativo contabili - Spese di giustizia)091 - 7426579 (Patrocinio a spese dello Stato)091 - 7426642 / 6641 (Cancelleria ruolo generale tribunale)091 - 7426663 / 6622 / 6567 (Cancelleria esecuzione tribunale)</telefono>
+        <fax> 091 - 7426679 / 6680 (Segreteria di Presidenza)091 - 7426664 / 6124665 (Segreteria Dirigente - Ufficio del Personale - Servizi amministrativo contabili - Spese di giustizia)091 - 584401 (Patrocinio a spese dello Stato)091 - 6124660 / 7426660 (Cancelleria ruolo generale tribunale)091 - 7426666 (Cancelleria esecuzione tribunale)</fax>
+        <email> tribsorv.palermo@giustizia.itsegreteriapresidenza.tribsorv.palermo@giustizia.itpersonale.tribsorv.palermo@giustizia.itspesegiustizia.tribsorv.palermo@giustizia.itpatrocinio.tribsorv.palermo@giustizia.itcancelleria.tribsorv.palermo@giustizia.itesecuzione.tribsorv.palermo@giustizia.it</email>
+        <pec>tribsorv.palermo@giustiziacert.it prot.tribsorv.palermo@giustiziacert.it uffsorv.palermo@giustiziacert.it</pec>
+        <codicefiscale>80027410820</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive>Orari di apertura al pubblico: dal lunedì al venerdì dalle ore 8.30 alle 12.30 il martedì e il giovedì dalle ore 15.00 alle 17.00 (tel: 091 - 7426661) il sabato dalle ore 8.30 alle 12.30 (per il deposito di atti urgenti - tel: 091 - 7426649)</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di PERUGIA">
+        <altronome/>
+        <indirizzo> Via Baglioni 11</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06121</cap>
+        <telefono> 075 - 5405700 / 54051</telefono>
+        <fax> 075 - 5057563 / 5004557</fax>
+        <email> tribsorv.perugia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di POTENZA">
+        <altronome/>
+        <indirizzo> Via Nazario Sauro, 2</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono> 0971 - 491937 (centralino)0971 - 491674 (responsabile amministrativo)0971 - 491694 (segreteria amministrativa)0971 - 491698 / 491695 (ufficio istruttoria e udienze)0971 - 491694 (ufficio esecuzione)</telefono>
+        <fax/>
+        <email> tribsorv.potenza@giustizia.it</email>
+        <pec>tribsorv.potenza@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via Fra G. Melacrino, 3/5</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89100</cap>
+        <telefono>0965 - 24123 / 24156 / 895083</telefono>
+        <fax>0965 - 20187</fax>
+        <email>tribsorv.reggiocalabria@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di ROMA">
+        <altronome/>
+        <indirizzo> Via Triboniano, 5</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00193</cap>
+        <telefono> 06 - 98011202 / 203 (segreteria presidenza)06 - 98011200 (segreteria dirigenza)06 - 98011299 (ufficio personale)06 - 98011295 (ufficio del Consegnatario)06 - 98011280 / 285 (cancelleria centrale )</telefono>
+        <fax> 06 - 98011400 (cancelleria centrale)</fax>
+        <email> tribsorv.roma@giustizia.ituffsorv.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80416320580</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 giugno</patrono>
+        <infoaggiuntive>apertura pubblico dal lunedì al venerdì dalle 9 alle 13.30. Sabato dalle 9 alle 13.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di SALERNO">
+        <altronome/>
+        <indirizzo> Piazza XXIV Maggio, 6</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono> 089 - 5645832 (segreteria del Presidente)089 - 5645835  (cancelleria)</telefono>
+        <fax> 089 - 5645832 (segreteria del Presidente)089 - 227239</fax>
+        <email> tribsorv.salerno@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80028570655</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di SASSARI">
+        <altronome/>
+        <indirizzo> Via Budapest s.n.c.</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>  079-209238 (area cancelleria)    079-209234-209216  (area segreteria)                           079-209231  (area liberazioni anticipate uff sorveglianza)          079-209217  (area misure alternative uff sorveglianza)079-209234  (area permessi uff sorveglianza)</telefono>
+        <fax>  079 - 209232 (area cancelleria)079 - 232710 (aree: segreteria - liberazioni anticipate - misure alternative - permessi)</fax>
+        <email> tribsorv.sassari@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011980903</codicefiscale>
+        <sitoweb>http://www.tribsorv.sassari.giustizia.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di TARANTO">
+        <altronome/>
+        <indirizzo> Via per Montemesola - località Macchie - quartiere Paolo VI</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74100</cap>
+        <telefono> 099 - 7343111 (centralino uffici giudiziari)099 - 7343685 / 686</telefono>
+        <fax> 099 - 7343691 / 692</fax>
+        <email> tribsorv.taranto@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di TORINO">
+        <altronome/>
+        <indirizzo> Via Bologna, 47</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10152</cap>
+        <telefono> 011 - 4327111 (centralino)011 - 4327814 / 4327812 (cancelleria centrale)011 - 4327873 / 4327836 (esecuzioni)011 - 4327859 (segreteria)</telefono>
+        <fax> 011 - 4327834 / 4327826</fax>
+        <email> tribsorv.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80102790013</codicefiscale>
+        <sitoweb>www.tribsorv.torino.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di TRENTO">
+        <altronome/>
+        <indirizzo> Via Iacopo Aconcio</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono> 0461 - 213333</telefono>
+        <fax> 0461 - 982675</fax>
+        <email> tribsorv.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di TRIESTE">
+        <altronome/>
+        <indirizzo> Via Zanetti, 2</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34133</cap>
+        <telefono> 040 - 7792732  /  736  /  733  /  735  /  730  /  760</telefono>
+        <fax> 040 - 364186</fax>
+        <email> tribsorv.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Liquidazione spese di giustizia online</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Tribunale di Sorveglianza di VENEZIA">
+        <altronome/>
+        <indirizzo> Cittadella della Giustizia - Santa Croce 430 palazzina 16</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30135</cap>
+        <telefono> Dirigente/Segreteria: 041 - 9653603Registro Generale Tribunale: 041 - 9653605Istruttoria Tribunale: 041 - 9653606Riabilitazioni: 041 - 9653608Esecuzione Tribunale: 041 - 9653614/615Gratuito patrocinio: 041 - 9653616</telefono>
+        <fax> Dirigente/Segreteria: 041 - 9653444Istruttoria Tribunale: 041 - 9653445Riabilitazioni: 041 - 9653445Gratuito patrocinio: 041 - 9653443Esecuzione Tribunale: 041 - 9653422/423</fax>
+        <email> tribsorv.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80016480271</codicefiscale>
+        <sitoweb>www.tribunaledisorveglianza.venezia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
