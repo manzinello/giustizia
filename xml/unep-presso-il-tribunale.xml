@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Unep presso il Tribunale-->
+<root>
+    <ufficio nomeufficio="Unep presso il Tribunale di AGRIGENTO">
+        <altronome/>
+        <indirizzo> Via Mazzini, 179</indirizzo>
+        <comune>AGRIGENTO</comune>
+        <codiceistat>19084001</codiceistat>
+        <cap>92100</cap>
+        <telefono> 0922 - 527435</telefono>
+        <fax> 0922 - 603143</fax>
+        <email> unep.tribunale.agrigento@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80004960847</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ALESSANDRIA">
+        <altronome/>
+        <indirizzo> Piazzetta Bini, 4</indirizzo>
+        <comune>ALESSANDRIA</comune>
+        <codiceistat>01006003</codiceistat>
+        <cap>15121</cap>
+        <telefono> 0131 - 035114 / 115</telefono>
+        <fax> 0131 - 035116</fax>
+        <email> unep.tribunale.alessandria@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005400066</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di AOSTA">
+        <altronome/>
+        <indirizzo> Via Vevey, 17</indirizzo>
+        <comune>AOSTA</comune>
+        <codiceistat>02007003</codiceistat>
+        <cap>11100</cap>
+        <telefono> 0165 - 236697</telefono>
+        <fax> 0165 - 236846</fax>
+        <email> unep.tribunale.aosta@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006500070</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di AREZZO">
+        <altronome/>
+        <indirizzo> Piazza G. Falcone e P. Borsellino, 1</indirizzo>
+        <comune>AREZZO</comune>
+        <codiceistat>09051002</codiceistat>
+        <cap>52100</cap>
+        <telefono> 0575 - 1738867 / 865</telefono>
+        <fax> 0575 - 1738869</fax>
+        <email> mariafloriana.mezzapelle@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005050515</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ASCOLI PICENO">
+        <altronome/>
+        <indirizzo>Largo Cattaneo, 5</indirizzo>
+        <comune>ASCOLI PICENO</comune>
+        <codiceistat>11044007</codiceistat>
+        <cap>63100</cap>
+        <telefono>0736 - 329202</telefono>
+        <fax>0736 - 329206</fax>
+        <email>unep.tribunale.ascolipiceno@giustizia.it</email>
+        <pec>unep.tribunale.ascolipiceno@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ASTI">
+        <altronome/>
+        <indirizzo> Via Govone, 9</indirizzo>
+        <comune>ASTI</comune>
+        <codiceistat>01005005</codiceistat>
+        <cap>14100</cap>
+        <telefono>0141 - 388605</telefono>
+        <fax/>
+        <email> unep.tribunale.asti@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005140050</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>primo martedì di maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di AVELLINO">
+        <altronome/>
+        <indirizzo> Via C. Colombo, 10</indirizzo>
+        <comune>AVELLINO</comune>
+        <codiceistat>15064008</codiceistat>
+        <cap>83100</cap>
+        <telefono> 0825 - 780648</telefono>
+        <fax> 0825 - 792593</fax>
+        <email> unep.tribunale.avellino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005750643</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di AVEZZANO">
+        <altronome/>
+        <indirizzo>Via Garibaldi, 89</indirizzo>
+        <comune>AVEZZANO</comune>
+        <codiceistat>13066006</codiceistat>
+        <cap>67051</cap>
+        <telefono>0863 - 413546</telefono>
+        <fax>0863 - 446007</fax>
+        <email>unep.tribunale.avezzano@giustizia.it</email>
+        <pec/>
+        <codicefiscale>81008480667</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>27 aprile</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BARCELLONA POZZO DI GOTTO">
+        <altronome/>
+        <indirizzo> Via Falcone, 11</indirizzo>
+        <comune>BARCELLONA POZZO DI GOTTO</comune>
+        <codiceistat>19083005</codiceistat>
+        <cap>98051</cap>
+        <telefono> 090 - 9793357 / 0 / 1 / 2 / 3 / 4 / 5 / 6 / 8 / 9</telefono>
+        <fax/>
+        <email> unep.tribunale.barcellonapozzodigotto@giustizia.it</email>
+        <pec/>
+        <codicefiscale>90004320835</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>20 gennaio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BELLUNO">
+        <altronome/>
+        <indirizzo>Viale Fantuzzi, snc</indirizzo>
+        <comune>BELLUNO</comune>
+        <codiceistat>05025006</codiceistat>
+        <cap>32100</cap>
+        <telefono>0437 - 947450</telefono>
+        <fax>0437 - 947493</fax>
+        <email> unep.tribunale.belluno@giustizia.it</email>
+        <pec>unep.tribunale.belluno@giustiziacert.it</pec>
+        <codicefiscale>80004060259</codicefiscale>
+        <sitoweb> www.tribunale.belluno.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>11 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BENEVENTO">
+        <altronome/>
+        <indirizzo> Viale Atlantici ex caserma Guidoni, pian terreno</indirizzo>
+        <comune>BENEVENTO</comune>
+        <codiceistat>15062008</codiceistat>
+        <cap>82100</cap>
+        <telefono> 0824 - 1777017 / 8 / 9 / 20 / 21 / 22 / 23 / 24 / 25 / 27 / 28 / 29</telefono>
+        <fax> 0824 - 11777050</fax>
+        <email> unep.tribunale.benevento@giustizia.it</email>
+        <pec>unep.tribunale.benevento@giustiziacert.it</pec>
+        <codicefiscale>80001470626</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BERGAMO">
+        <altronome/>
+        <indirizzo> Via Borfuro, 11/A</indirizzo>
+        <comune>BERGAMO</comune>
+        <codiceistat>03016024</codiceistat>
+        <cap>24122</cap>
+        <telefono> 035 - 4120802 / 803</telefono>
+        <fax> 035 - 4120810</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80016340160</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BIELLA">
+        <altronome/>
+        <indirizzo> Via Repubblica, 41</indirizzo>
+        <comune>BIELLA</comune>
+        <codiceistat>01096004</codiceistat>
+        <cap>13900</cap>
+        <telefono> 015 - 2452503 / 504</telefono>
+        <fax> 015 - 2452505</fax>
+        <email/>
+        <pec>unep.tribunale.biella@giustiziacert.it</pec>
+        <codicefiscale>81014130025</codicefiscale>
+        <sitoweb>www.tribunale.biella.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BRINDISI">
+        <altronome/>
+        <indirizzo> Via Angelo Lanzellotti, 3</indirizzo>
+        <comune>BRINDISI</comune>
+        <codiceistat>16074001</codiceistat>
+        <cap>72100</cap>
+        <telefono>0831 - 534674 / 534653 / 534400</telefono>
+        <fax>0831 - 534687 / 534651 / 534688</fax>
+        <email/>
+        <pec>unep.tribunale.brindisi@giustiziacert.it</pec>
+        <codicefiscale>80002090746</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1/5 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di BUSTO ARSIZIO">
+        <altronome/>
+        <indirizzo> c/o procura della Repubblica - palazzo di Giustizia, Largo Giardino 4</indirizzo>
+        <comune>BUSTO ARSIZIO</comune>
+        <codiceistat>03012026</codiceistat>
+        <cap>21052</cap>
+        <telefono> 0331 - 322235</telefono>
+        <fax> 0331 - 679115</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>90001200121</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CALTAGIRONE">
+        <altronome/>
+        <indirizzo> Piazza della Regione</indirizzo>
+        <comune>CALTAGIRONE</comune>
+        <codiceistat>19087011</codiceistat>
+        <cap>95041</cap>
+        <telefono> 0933 - 369371 / 369380</telefono>
+        <fax> 0933 - 369389</fax>
+        <email> lorena.zafarana@catania.giustizia.it</email>
+        <pec/>
+        <codicefiscale>91013400873</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CASSINO">
+        <altronome/>
+        <indirizzo> Via Tasso</indirizzo>
+        <comune>CASSINO</comune>
+        <codiceistat>12060019</codiceistat>
+        <cap>03043</cap>
+        <telefono> 0776 - 375510 / 375526</telefono>
+        <fax> 0776 - 375521</fax>
+        <email> angela.romano@giustizia.it</email>
+        <pec/>
+        <codicefiscale>81004330601</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CASTROVILLARI">
+        <altronome/>
+        <indirizzo> Via XX settembre snc</indirizzo>
+        <comune>CASTROVILLARI</comune>
+        <codiceistat>18078033</codiceistat>
+        <cap>87012</cap>
+        <telefono> 0981 - 21934</telefono>
+        <fax> 0981 - 21934</fax>
+        <email>unep.tribunale.castrovillari@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94000110786</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>27 gennaio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CHIETI">
+        <altronome/>
+        <indirizzo> Piazza Malta, 16</indirizzo>
+        <comune>CHIETI</comune>
+        <codiceistat>13069022</codiceistat>
+        <cap>66100</cap>
+        <telefono> 0871 - 3531</telefono>
+        <fax> 0871 - 331239</fax>
+        <email> francesca.bibbo@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80000460693</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>11 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CHIETI - Sezione distaccata di ORTONA">
+        <altronome/>
+        <indirizzo>Via Tripoli, snc</indirizzo>
+        <comune>ORTONA</comune>
+        <codiceistat>13069058</codiceistat>
+        <cap>66026</cap>
+        <telefono>085 - 90519218 / 90519215</telefono>
+        <fax>085 - 90519223</fax>
+        <email>ferdinando.spano@giustizia.it</email>
+        <pec>unep.tribunale.chieti.ortona@giustiziacert.it</pec>
+        <codicefiscale>91006190697</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>prima domenica di maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CIVITAVECCHIA">
+        <altronome/>
+        <indirizzo> Via Terme di Traiano, 56</indirizzo>
+        <comune>CIVITAVECCHIA</comune>
+        <codiceistat>12058032</codiceistat>
+        <cap>00053</cap>
+        <telefono> 0766 - 3602224 / 3602315 / 2319 / 2353</telefono>
+        <fax> 0766 - 3602306</fax>
+        <email> daniela.buonanno@giustizia.it</email>
+        <pec/>
+        <codicefiscale>83002050587</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di COMO">
+        <altronome/>
+        <indirizzo> Viale Innocenzo, 75</indirizzo>
+        <comune>COMO</comune>
+        <codiceistat>03013075</codiceistat>
+        <cap>22100</cap>
+        <telefono> 031 - 231334</telefono>
+        <fax> 031 - 270338</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80019800137</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di COSENZA">
+        <altronome/>
+        <indirizzo> Piazza Gullo</indirizzo>
+        <comune>COSENZA</comune>
+        <codiceistat>18078045</codiceistat>
+        <cap>87100</cap>
+        <telefono> 0984 - 487206</telefono>
+        <fax> 0984 - 487206</fax>
+        <email> achille.martino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80004370781</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CREMONA">
+        <altronome/>
+        <indirizzo> Via dei Tribunali, 13</indirizzo>
+        <comune>CREMONA</comune>
+        <codiceistat>03019036</codiceistat>
+        <cap>26100</cap>
+        <telefono> 0372 - 548535 / 543 / 544</telefono>
+        <fax> 0372 - 548555</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80005720190</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CROTONE">
+        <altronome/>
+        <indirizzo> Via Manzoni, 2</indirizzo>
+        <comune>CROTONE</comune>
+        <codiceistat>18101010</codiceistat>
+        <cap>88900</cap>
+        <telefono> 0962 - 905551 / 905621</telefono>
+        <fax> 0962 - 20992</fax>
+        <email> unep.tribunale.crotone@giustizia.it</email>
+        <pec/>
+        <codicefiscale>81005950795</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di CUNEO">
+        <altronome/>
+        <indirizzo> Via Vittorio Amedeo II, 17</indirizzo>
+        <comune>CUNEO</comune>
+        <codiceistat>01004078</codiceistat>
+        <cap>12100</cap>
+        <telefono> 0171 - 690829</telefono>
+        <fax> 0171 - 079753 / 690829</fax>
+        <email> emilio.danaro@giustizia.itemanuela.amoroso@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80010890046</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ENNA">
+        <altronome/>
+        <indirizzo> Viale Diaz, 80</indirizzo>
+        <comune>ENNA</comune>
+        <codiceistat>19086009</codiceistat>
+        <cap>94100</cap>
+        <telefono> 0935 - 529432</telefono>
+        <fax> 0935 - 529201</fax>
+        <email> unep.tribunale.enna@giustizia.it</email>
+        <pec>unep.tribunale.enna@giustiziacert.it</pec>
+        <codicefiscale>91032100868</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 luglio</patrono>
+        <infoaggiuntive>apertura al pubblico per gli atti di notifica ed esecuzione dal lunedì al venerdì dalle 9 alle 12, ad eccezione degli atti urgentiche dovranno essere chiesti entro le 11. Sabato e fine mese l’orario è dalle 9 alle 10.30, limitatamente agli atti che scadono in giornata</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di FERMO">
+        <altronome/>
+        <indirizzo> Corso Cavour, 68</indirizzo>
+        <comune>FERMO</comune>
+        <codiceistat>11109006</codiceistat>
+        <cap>63900</cap>
+        <telefono> 0734 - 224453</telefono>
+        <fax> 0734 - 225350</fax>
+        <email>unep.tribunale.fermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale>81011600442</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>16 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di FERRARA">
+        <altronome/>
+        <indirizzo> Via del Borgo dei Leoni, 70/c</indirizzo>
+        <comune>FERRARA</comune>
+        <codiceistat>08038008</codiceistat>
+        <cap>44121</cap>
+        <telefono> 0532 - 232251 / 2 / 3 / 4 / 5 / 6</telefono>
+        <fax> 0532 - 240410</fax>
+        <email> unep.tribunale.ferrara@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80004180388</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile (ufficio aperto)</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di FOGGIA">
+        <altronome/>
+        <indirizzo>V.le I maggio</indirizzo>
+        <comune>FOGGIA</comune>
+        <codiceistat>16071024</codiceistat>
+        <cap>71122</cap>
+        <telefono> 0881 - 660111</telefono>
+        <fax> 0881 - 660356</fax>
+        <email> unep.tribunale.foggia@giustizia.it</email>
+        <pec>unep.tribunale.foggia@giustiziacert.it</pec>
+        <codicefiscale>80002960716</codicefiscale>
+        <sitoweb>www.tribunale.foggia.it/unep_298.html</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22 marzo</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di FORLÌ">
+        <altronome/>
+        <indirizzo> Via Lazzaretto, 2</indirizzo>
+        <comune>FORLÌ</comune>
+        <codiceistat>08040012</codiceistat>
+        <cap>47121</cap>
+        <telefono> 0543 - 717104 / 105 / 107</telefono>
+        <fax> 0543 - 717221</fax>
+        <email> unep.tribunale.forli@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80009700404</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di FROSINONE">
+        <altronome/>
+        <indirizzo> Via Fedele Calvosa</indirizzo>
+        <comune>FROSINONE</comune>
+        <codiceistat>12060038</codiceistat>
+        <cap>03100</cap>
+        <telefono> 0775 - 361241 / 2 / 3 / 4</telefono>
+        <fax> 0775 - 839471</fax>
+        <email> nep.tribunale.frosinone@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80012410603</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di GELA">
+        <altronome/>
+        <indirizzo> Via Manfredi snc</indirizzo>
+        <comune>GELA</comune>
+        <codiceistat>19085007</codiceistat>
+        <cap>93012</cap>
+        <telefono> 0933 - 812700 / 812702 / 812704 / 812706 / 812710</telefono>
+        <fax> 0933 - 812750</fax>
+        <email> unep.tribunale.gela@giustizia.it</email>
+        <pec/>
+        <codicefiscale>82002780854</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>8 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di GORIZIA">
+        <altronome/>
+        <indirizzo> Via Nazario Sauro, 1</indirizzo>
+        <comune>GORIZIA</comune>
+        <codiceistat>06031007</codiceistat>
+        <cap>34170</cap>
+        <telefono> 0481 - 593813 / 593836</telefono>
+        <fax> 0481 - 593839</fax>
+        <email> unep.tribunale.gorizia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>8004920312</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>16 marzo</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di GROSSETO">
+        <altronome/>
+        <indirizzo> Piazza Albegna, 24</indirizzo>
+        <comune>GROSSETO</comune>
+        <codiceistat>09053011</codiceistat>
+        <cap>58100</cap>
+        <telefono> 0564 - 419213 / 215 / 217</telefono>
+        <fax> 0564 - 419324</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80000820532</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di IMPERIA">
+        <altronome/>
+        <indirizzo>Via Garessio, 58</indirizzo>
+        <comune>IMPERIA</comune>
+        <codiceistat>07008031</codiceistat>
+        <cap>18100</cap>
+        <telefono>0183 - 277616 / 277785</telefono>
+        <fax>0183 - 277650</fax>
+        <email> unep.tribunale.imperia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>91001610087</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ISERNIA">
+        <altronome/>
+        <indirizzo> Piazza Tullio Tedeschi</indirizzo>
+        <comune>ISERNIA</comune>
+        <codiceistat>14094023</codiceistat>
+        <cap>86170</cap>
+        <telefono> 0865 - 4711203</telefono>
+        <fax>0865 - 411933</fax>
+        <email/>
+        <pec>unep.tribunale.isernia@giustiziacert.it</pec>
+        <codicefiscale>80002110940</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di IVREA">
+        <altronome/>
+        <indirizzo> Via Primo Levi, 11 edificio B</indirizzo>
+        <comune>IVREA</comune>
+        <codiceistat>01001125</codiceistat>
+        <cap>10015</cap>
+        <telefono> 0125 - 4264274</telefono>
+        <fax> 0125 - 4264277</fax>
+        <email> unep.tribunale.ivrea@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93001540017</codicefiscale>
+        <sitoweb>www.tribunaleivrea.it/ufficigiudiziari/unep.aspx</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LA SPEZIA">
+        <altronome/>
+        <indirizzo>Viale Italia, 142</indirizzo>
+        <comune>LA SPEZIA</comune>
+        <codiceistat>07011015</codiceistat>
+        <cap>19124</cap>
+        <telefono>0187 - 595130</telefono>
+        <fax>0187 - 595140</fax>
+        <email>unep.tribunale.laspezia@giustizia.it</email>
+        <pec>unep.tribunale.laspezia@giustiziacert.it</pec>
+        <codicefiscale>80010420117</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 marzo</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LAGONEGRO">
+        <altronome/>
+        <indirizzo> Via Napoli</indirizzo>
+        <comune>LAGONEGRO</comune>
+        <codiceistat>17076039</codiceistat>
+        <cap>85042</cap>
+        <telefono> 0973 - 21531</telefono>
+        <fax> 0973 - 23967</fax>
+        <email> Ufficionotifiche@tiscali.it</email>
+        <pec/>
+        <codicefiscale>83000310769</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LAMEZIA TERME">
+        <altronome/>
+        <indirizzo>Piazza della Repubblica, 1</indirizzo>
+        <comune>LAMEZIA TERME</comune>
+        <codiceistat>18079160</codiceistat>
+        <cap>88046</cap>
+        <telefono>0968 - 498329</telefono>
+        <fax>0968 - 498330</fax>
+        <email> unep.tribunale.lameziaterme@giustizia.it</email>
+        <pec>unep.tribunale.lameziaterme@giustiziacert.it</pec>
+        <codicefiscale>92000020799</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LANCIANO">
+        <altronome/>
+        <indirizzo>Via Fiume, 5</indirizzo>
+        <comune>LANCIANO</comune>
+        <codiceistat>13069046</codiceistat>
+        <cap>66034</cap>
+        <telefono>0872 - 729093 / 729604 / 712879</telefono>
+        <fax>0872 - 713534</fax>
+        <email>uneplanciano@giustizia.it</email>
+        <pec/>
+        <codicefiscale>81006030698</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LANCIANO - Sezione distaccata di ATESSA">
+        <altronome/>
+        <indirizzo>Via della Stazione, 1</indirizzo>
+        <comune>ATESSA</comune>
+        <codiceistat>13069005</codiceistat>
+        <cap>66041</cap>
+        <telefono>0872 - 859425</telefono>
+        <fax>0872 - 859434</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>90021550695</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LANUSEI">
+        <altronome/>
+        <indirizzo> Via Marconi, 95</indirizzo>
+        <comune>LANUSEI</comune>
+        <codiceistat>20105010</codiceistat>
+        <cap>08045</cap>
+        <telefono> 0782 - 473404</telefono>
+        <fax> 0782 - 473413</fax>
+        <email> unep.lanusei@giustizia.it</email>
+        <pec/>
+        <codicefiscale>91001260917</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LARINO">
+        <altronome/>
+        <indirizzo> Piazza del Popolo, 1</indirizzo>
+        <comune>LARINO</comune>
+        <codiceistat>14070031</codiceistat>
+        <cap>86035</cap>
+        <telefono> 0874 - 821228 / 821230 / 821231 / 821213</telefono>
+        <fax> 0874 - 822159</fax>
+        <email> unep.tribunale.larino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>81002340701</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LATINA">
+        <altronome/>
+        <indirizzo> Via Ezio, 37</indirizzo>
+        <comune>LATINA</comune>
+        <codiceistat>12059011</codiceistat>
+        <cap>04100</cap>
+        <telefono> 0773 - 4169227</telefono>
+        <fax> 0773 - 692516</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80002460592</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 luglio</patrono>
+        <infoaggiuntive>apertura al pubblico dal lunedì al venerdì dallle 8.30 alle 11. Gli atti in scadenza si devono presentare entro le 9. Il sabato l'orario è dalle 8.30 alle 10, ma  solo per gli atti urgenti. </infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LECCO">
+        <altronome/>
+        <indirizzo> Corso Promessi Sposi 27/f</indirizzo>
+        <comune>LECCO</comune>
+        <codiceistat>03097042</codiceistat>
+        <cap>23900</cap>
+        <telefono> 0341 - 379405</telefono>
+        <fax> 0341 - 285847</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>83008690139</codicefiscale>
+        <sitoweb>http://www.tribunale.lecco.it/</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LIVORNO">
+        <altronome/>
+        <indirizzo> Via Falcone e Borsellino, 1-3 p.t.</indirizzo>
+        <comune>LIVORNO</comune>
+        <codiceistat>09049009</codiceistat>
+        <cap>57123</cap>
+        <telefono> 0586 - 252111</telefono>
+        <fax> 0586 - 890335 / 211062 / 899758</fax>
+        <email> unep.tribunale.livorno@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80008740492</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LOCRI">
+        <altronome/>
+        <indirizzo> Via Salvatore Furfaro, 7</indirizzo>
+        <comune>LOCRI</comune>
+        <codiceistat>18080043</codiceistat>
+        <cap>89044</cap>
+        <telefono> 0964 - 398391 - dirigente 0964 - 398384 / 389 - notifiche civili 0964 - 398385 / 389 - restituzione atti 0964 - 398390 / 381 - esecuzioni 0964 - 398384 - notifiche civili 0964 - 398376 / 394 - notifiche penali 0964 - 398386 / 392 - notifiche biglietti di cancelleria 0964 - 398388 / 377 - notifiche atti esenti 0964 - 398393 - notifiche a mezzo posta 0964 - 398376 / 386 / 388 / 390 / 374 / 378 / 377 / 379 - ufficiali giudiziari e funzionari servizi esterni 0964 - 398393 - notifiche a mezzo posta 0964 - 398377 - notifiche estere</telefono>
+        <fax> 0964 - 398371</fax>
+        <email>unep.tribunale.locri@giustizia.it - ufficio unep.tribunale.locri@giustiziacert.it - ufficio domenico.fiasche.@giustizia.it : dirigente gianluca.trimboli.@giustizia.it : esecuzioni antoniettarosa.camarda.@giustizia.it : notifiche</email>
+        <pec/>
+        <codicefiscale>81003370806</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>25 novembre</patrono>
+        <infoaggiuntive>Orario di apertura sportello notifiche ed esecuzionidal lunedì al venerdì: ore 9.00 - 11.00sabato, prefestivi e atti con scadenza in giornata: 9.00 - 10.00</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LODI">
+        <altronome/>
+        <indirizzo> Viale Milano, 2</indirizzo>
+        <comune>LODI</comune>
+        <codiceistat>03098031</codiceistat>
+        <cap>26900</cap>
+        <telefono> 0371 - 499260</telefono>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale>84504740154</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di LUCCA">
+        <altronome/>
+        <indirizzo> Via Francesco Carrara, 1</indirizzo>
+        <comune>LUCCA</comune>
+        <codiceistat>09046017</codiceistat>
+        <cap>55100</cap>
+        <telefono> 0583 - 420285</telefono>
+        <fax> 0583 - 420278</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80005990462</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>12 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MACERATA">
+        <altronome/>
+        <indirizzo> Via Arturo Ciccolini, 7</indirizzo>
+        <comune>MACERATA</comune>
+        <codiceistat>11043023</codiceistat>
+        <cap>62100</cap>
+        <telefono> 0733 - 252301-08</telefono>
+        <fax> 0733 - 252202</fax>
+        <email> unep.tribunale.macerata@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80010720433</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>31 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MANTOVA">
+        <altronome/>
+        <indirizzo> Via Chiassi, 61</indirizzo>
+        <comune>MANTOVA</comune>
+        <codiceistat>03020030</codiceistat>
+        <cap>46100</cap>
+        <telefono> 0376 - 339823 / 822</telefono>
+        <fax> 0376 - 339848</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80022750204</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MARSALA">
+        <altronome/>
+        <indirizzo> Corso Gramsci, 85</indirizzo>
+        <comune>MARSALA</comune>
+        <codiceistat>19081011</codiceistat>
+        <cap>91025</cap>
+        <telefono> 0923 - 765349 / 765248</telefono>
+        <fax> 0923 - 765206</fax>
+        <email> unep.marsala@libero.it</email>
+        <pec/>
+        <codicefiscale>82006660813</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MASSA">
+        <altronome/>
+        <indirizzo>Via San Remigio di sotto, 18</indirizzo>
+        <comune>MASSA</comune>
+        <codiceistat>09045010</codiceistat>
+        <cap>54100</cap>
+        <telefono> 0585 - 791630</telefono>
+        <fax> 0585 - 792761</fax>
+        <email>unep.tribunale.massa@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80002330456</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MATERA">
+        <altronome/>
+        <indirizzo> Via Aldo Moro, 26</indirizzo>
+        <comune>MATERA</comune>
+        <codiceistat>17077014</codiceistat>
+        <cap>75100</cap>
+        <telefono> 0835 - 343276</telefono>
+        <fax> 0835 - 343331</fax>
+        <email> michele.carnicella@giustizia.it</email>
+        <pec>unep.tribunale.matera@giustiziacert.it</pec>
+        <codicefiscale>8000294775</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MODENA">
+        <altronome/>
+        <indirizzo> Corso Canalgrande, 60</indirizzo>
+        <comune>MODENA</comune>
+        <codiceistat>08036023</codiceistat>
+        <cap>41121</cap>
+        <telefono>059 - 2131120</telefono>
+        <fax>059 - 2131220</fax>
+        <email> unep.tribunale.modena@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80012490365</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>31 gennaio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di MONZA">
+        <altronome/>
+        <indirizzo> Via Giuseppe Ferrari, 39</indirizzo>
+        <comune>MONZA</comune>
+        <codiceistat>03108033</codiceistat>
+        <cap>20900</cap>
+        <telefono> 039 - 2358571</telefono>
+        <fax> 039 - 2358574</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>85007550156</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di NAPOLI nord in AVERSA">
+        <altronome/>
+        <indirizzo>Piazza Trieste e Trento presso "Castello Aragonese"</indirizzo>
+        <comune>AVERSA</comune>
+        <codiceistat>15061005</codiceistat>
+        <cap>81031</cap>
+        <telefono>081 - 9794300</telefono>
+        <fax>081 9794357</fax>
+        <email>unep.tribunale.napolinord@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di NOCERA INFERIORE">
+        <altronome/>
+        <indirizzo> Via Falcone, 13/14</indirizzo>
+        <comune>NOCERA INFERIORE</comune>
+        <codiceistat>15065078</codiceistat>
+        <cap>84014</cap>
+        <telefono> 081 - 5178496</telefono>
+        <fax> 081 - 5178496</fax>
+        <email/>
+        <pec>unep.tribunale.nocerainferiore@giustiziacert.it</pec>
+        <codicefiscale>80032760656</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>9 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di NOLA">
+        <altronome/>
+        <indirizzo> Via Mario De Sena, 13 - 15</indirizzo>
+        <comune>NOLA</comune>
+        <codiceistat>15063050</codiceistat>
+        <cap>80035</cap>
+        <telefono> 081 - 5129165</telefono>
+        <fax> 081 - 5124854</fax>
+        <email/>
+        <pec>unep.tribunale.nola@giustiziacert.it</pec>
+        <codicefiscale>84006760635</codicefiscale>
+        <sitoweb>www.corteappello.napoli.it/ufficigiudiziari/Unep_nola/unep_nola.aspx</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di NOVARA">
+        <altronome/>
+        <indirizzo> Via Azario, 5</indirizzo>
+        <comune>NOVARA</comune>
+        <codiceistat>01003106</codiceistat>
+        <cap>28100</cap>
+        <telefono> 0321 - 3702904</telefono>
+        <fax/>
+        <email> unep.tribunale.novara@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011590033</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22 gennaio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di NUORO">
+        <altronome/>
+        <indirizzo>Via L. da Vinci, 17</indirizzo>
+        <comune>NUORO</comune>
+        <codiceistat>20091051</codiceistat>
+        <cap>08100</cap>
+        <telefono>0784 - 216221 / 236 / 284 / 285 / 281 / 246 / 289</telefono>
+        <fax>0784 - 33925</fax>
+        <email> unep.tribunale.nuoro@giustizia.it</email>
+        <pec/>
+        <codicefiscale>93000780911</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ORISTANO">
+        <altronome/>
+        <indirizzo> Via Diego Contini, 9</indirizzo>
+        <comune>ORISTANO</comune>
+        <codiceistat>20095038</codiceistat>
+        <cap>09170</cap>
+        <telefono> 0783 - 792229</telefono>
+        <fax> 0783 - 792220</fax>
+        <email> unep.or@tiscali.it</email>
+        <pec/>
+        <codicefiscale>80031170956</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PADOVA">
+        <altronome/>
+        <indirizzo> Niccolò Tommaseo, 55</indirizzo>
+        <comune>PADOVA</comune>
+        <codiceistat>05028060</codiceistat>
+        <cap>35131</cap>
+        <telefono> 049 - 8236247 (Dirigente)049 - 8236336 (ufficio notifiche)</telefono>
+        <fax> 049 - 8236335</fax>
+        <email> unep.tribunale.padova@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80015080288</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PALMI">
+        <altronome/>
+        <indirizzo> Via Sauro, snc</indirizzo>
+        <comune>PALMI</comune>
+        <codiceistat>18080057</codiceistat>
+        <cap>89015</cap>
+        <telefono>0966 - 416 (segue interno desiderato)</telefono>
+        <fax>0966 - 22679</fax>
+        <email>unep.tribunale.palmi@giustizia.it</email>
+        <pec>unep.tribunale.palmi@giustiziacert.it</pec>
+        <codicefiscale>82002030805</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PAOLA">
+        <altronome/>
+        <indirizzo> Via Falcone e Borsellino</indirizzo>
+        <comune>PAOLA</comune>
+        <codiceistat>18078091</codiceistat>
+        <cap>87027</cap>
+        <telefono>0982 - 6221334</telefono>
+        <fax>0982 - 589349</fax>
+        <email> unep.tribunale.paola@giustizia.it</email>
+        <pec/>
+        <codicefiscale>96004740781</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 aprile</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PARMA">
+        <altronome/>
+        <indirizzo> V.lo San Marcellino, 1</indirizzo>
+        <comune>PARMA</comune>
+        <codiceistat>08034027</codiceistat>
+        <cap>43121</cap>
+        <telefono> 0521 - 1916435 - 426</telefono>
+        <fax/>
+        <email/>
+        <pec>unep.tribunale.parma@giustiziacert.it</pec>
+        <codicefiscale>92009910347</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>13 gennaio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PATTI">
+        <altronome/>
+        <indirizzo> Via Molino Croce, 1</indirizzo>
+        <comune>PATTI</comune>
+        <codiceistat>19083066</codiceistat>
+        <cap>98066</cap>
+        <telefono> 0941 - 21680</telefono>
+        <fax> 0941 - 245219</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>94009640833</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PAVIA">
+        <altronome/>
+        <indirizzo> Via Luigi Porta, 14</indirizzo>
+        <comune>PAVIA</comune>
+        <codiceistat>03018110</codiceistat>
+        <cap>27100</cap>
+        <telefono> 0382 - 398247</telefono>
+        <fax> 0382 - 398548</fax>
+        <email> giovanna.giannaccari@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80013930187</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PESARO">
+        <altronome/>
+        <indirizzo> Piazzale  Carducci, 12</indirizzo>
+        <comune>PESARO</comune>
+        <codiceistat>11041044</codiceistat>
+        <cap>61121</cap>
+        <telefono> 0721 - 697241</telefono>
+        <fax> 0721 - 64468</fax>
+        <email> unep.tribunale.pesaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92029800411</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PESCARA">
+        <altronome/>
+        <indirizzo> Via Lo Feudo, 1</indirizzo>
+        <comune>PESCARA</comune>
+        <codiceistat>13068028</codiceistat>
+        <cap>65129</cap>
+        <telefono>085 - 4532379</telefono>
+        <fax>085 - 6920141</fax>
+        <email> unep.tribunale.pescara@giustizia.it</email>
+        <pec/>
+        <codicefiscale>870010810689</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PIACENZA">
+        <altronome/>
+        <indirizzo> Vicolo del Consiglio,19</indirizzo>
+        <comune>PIACENZA</comune>
+        <codiceistat>08033032</codiceistat>
+        <cap>29100</cap>
+        <telefono> 0523 - 332778</telefono>
+        <fax> 0523 - 305650</fax>
+        <email> unep.tribunale.piacenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011170331</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PISA">
+        <altronome/>
+        <indirizzo> Via De Amicis, 12</indirizzo>
+        <comune>PISA</comune>
+        <codiceistat>09050026</codiceistat>
+        <cap>56100</cap>
+        <telefono> 050 - 970918 / 970980</telefono>
+        <fax> 050 - 3157476</fax>
+        <email> uneppisa@libero.it</email>
+        <pec/>
+        <codicefiscale>80004390508</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PISTOIA">
+        <altronome/>
+        <indirizzo> Piazza Duomo, 6</indirizzo>
+        <comune>PISTOIA</comune>
+        <codiceistat>09047014</codiceistat>
+        <cap>51100</cap>
+        <telefono> 0573 - 3571228</telefono>
+        <fax> 0573 - 24847</fax>
+        <email> unep.tribunale.pistoia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>90022220470</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PORDENONE">
+        <altronome/>
+        <indirizzo> Piazza Giustiniano, 5</indirizzo>
+        <comune>PORDENONE</comune>
+        <codiceistat>06093033</codiceistat>
+        <cap>33170</cap>
+        <telefono> 0434 - 501440 / 501439</telefono>
+        <fax> 0434 - 501439</fax>
+        <email> unep.tribunale.pordenone@giustizia.it</email>
+        <pec>unep.tribunale.pordenone@giustiziacert.it</pec>
+        <codicefiscale>80013210937</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>8 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di PRATO">
+        <altronome/>
+        <indirizzo> Piazzale Falcone e Borsellino, 8</indirizzo>
+        <comune>PRATO</comune>
+        <codiceistat>09100005</codiceistat>
+        <cap>59100</cap>
+        <telefono> 0574 - 579339</telefono>
+        <fax> 0574 - 579224</fax>
+        <email> unep.tribunale.prato@giustizia.it</email>
+        <pec/>
+        <codicefiscale>84008990487</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di RAGUSA">
+        <altronome/>
+        <indirizzo> Via Angelo Maiorana, 48</indirizzo>
+        <comune>RAGUSA</comune>
+        <codiceistat>19088009</codiceistat>
+        <cap>97100</cap>
+        <telefono> 0932 - 678450 / 0932 - 678400</telefono>
+        <fax> 0932 - 686830</fax>
+        <email> concetta.biondi@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92018850880</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di RAVENNA">
+        <altronome/>
+        <indirizzo> Via Falcone, 67</indirizzo>
+        <comune>RAVENNA</comune>
+        <codiceistat>08039014</codiceistat>
+        <cap>48124</cap>
+        <telefono> 0544 - 511871</telefono>
+        <fax> 0544 - 511873</fax>
+        <email/>
+        <pec>unep.tribunale.ravenna@giustiziacert.it</pec>
+        <codicefiscale>80006400396</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di REGGIO EMILIA">
+        <altronome/>
+        <indirizzo> Via Paterlini Avvenire, 1</indirizzo>
+        <comune>REGGIO EMILIA</comune>
+        <codiceistat>08035033</codiceistat>
+        <cap>42124</cap>
+        <telefono> 0522 - 510710 / 510727 / 510693 / 510813</telefono>
+        <fax/>
+        <email> unep.tribunale.reggioemilia@giustizia.it</email>
+        <pec>unep.tribunale.reggioemilia@giustiziacert.it</pec>
+        <codicefiscale>91003780359</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di RIETI">
+        <altronome/>
+        <indirizzo> Viale delle Ortensie, 7</indirizzo>
+        <comune>RIETI</comune>
+        <codiceistat>12057059</codiceistat>
+        <cap>02100</cap>
+        <telefono> 0746 - 200015 / 208238</telefono>
+        <fax> 0746 - 270423</fax>
+        <email> uneprieti@libero.it</email>
+        <pec/>
+        <codicefiscale>90002270578</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di RIMINI">
+        <altronome/>
+        <indirizzo> Viale Carlo Alberto Dalla Chiesa, 11</indirizzo>
+        <comune>RIMINI</comune>
+        <codiceistat>08099014</codiceistat>
+        <cap>47900</cap>
+        <telefono> 0541 - 763700</telefono>
+        <fax> 0541 - 763711</fax>
+        <email> unep.tribunale.rimini@giustizia.it</email>
+        <pec/>
+        <codicefiscale>82009410406</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ROVERETO">
+        <altronome/>
+        <indirizzo> Via Matteo del Ben, 5/B</indirizzo>
+        <comune>ROVERETO</comune>
+        <codiceistat>04022161</codiceistat>
+        <cap>38068</cap>
+        <telefono> 0464 - 423785 / 422498</telefono>
+        <fax> 0464 - 423228</fax>
+        <email> melchionnac@yahoo.it</email>
+        <pec/>
+        <codicefiscale>94002460221</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di ROVIGO">
+        <altronome/>
+        <indirizzo> Via all'Aran, 6</indirizzo>
+        <comune>ROVIGO</comune>
+        <codiceistat>05029041</codiceistat>
+        <cap>45100</cap>
+        <telefono> 0425 - 22591</telefono>
+        <fax> 0425 - 422255</fax>
+        <email> francesco.marigliano@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006010294</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SANTA MARIA CAPUA VETERE">
+        <altronome/>
+        <indirizzo> Via Bonaparte, 38</indirizzo>
+        <comune>SANTA MARIA CAPUA VETERE</comune>
+        <codiceistat>15061083</codiceistat>
+        <cap>81055</cap>
+        <telefono> 0823 - 794921</telefono>
+        <fax> 0823 - 792425</fax>
+        <email> unep.tribunale.santamariacapuavetere@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80011690619</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>22 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SAVONA">
+        <altronome/>
+        <indirizzo> Piazza Barile, 1</indirizzo>
+        <comune>SAVONA</comune>
+        <codiceistat>07009056</codiceistat>
+        <cap>17100</cap>
+        <telefono> 019 - 8316374</telefono>
+        <fax> 019 - 8316422</fax>
+        <email>unep.tribunale.savona@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006010096</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SCIACCA">
+        <altronome/>
+        <indirizzo> Via Quasimodo, 1</indirizzo>
+        <comune>SCIACCA</comune>
+        <codiceistat>19084041</codiceistat>
+        <cap>92019</cap>
+        <telefono> 0925 - 964314 / 964310 / 964312</telefono>
+        <fax> 0925 - 87190</fax>
+        <email> unep.tribunale.sciacca@giustizia.it</email>
+        <pec>unep.tribunale.sciacca@giustiziacert.it</pec>
+        <codicefiscale>8004180846</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>2 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SIENA">
+        <altronome/>
+        <indirizzo> Via R. Franci, 26</indirizzo>
+        <comune>SIENA</comune>
+        <codiceistat>09052032</codiceistat>
+        <cap>53100</cap>
+        <telefono> 0577 - 21341</telefono>
+        <fax> 0577 - 213685</fax>
+        <email> unep.tribunale.siena@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006740528</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SIRACUSA">
+        <altronome/>
+        <indirizzo> Viale Santa Panagia, 109</indirizzo>
+        <comune>SIRACUSA</comune>
+        <codiceistat>19089017</codiceistat>
+        <cap>96100</cap>
+        <telefono> 0931 - 752646</telefono>
+        <fax> 0931 - 752648</fax>
+        <email> concetta.trovato@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80003130897</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>13 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SONDRIO">
+        <altronome/>
+        <indirizzo> Via Pio Rajina, 4</indirizzo>
+        <comune>SONDRIO</comune>
+        <codiceistat>03014061</codiceistat>
+        <cap>23100</cap>
+        <telefono> 0342 - 529274</telefono>
+        <fax/>
+        <email/>
+        <pec/>
+        <codicefiscale>80004150142</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SPOLETO">
+        <altronome/>
+        <indirizzo> Via Flaminia, 54</indirizzo>
+        <comune>SPOLETO</comune>
+        <codiceistat>10054051</codiceistat>
+        <cap>06049</cap>
+        <telefono> 0743 - 223210</telefono>
+        <fax> 0743 - 201385</fax>
+        <email> unep.spoleto@tiscali.it</email>
+        <pec/>
+        <codicefiscale>84004150540</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di SULMONA">
+        <altronome/>
+        <indirizzo>Piazza Giuseppe Capograssi, 1</indirizzo>
+        <comune>SULMONA</comune>
+        <codiceistat>13066098</codiceistat>
+        <cap>67039</cap>
+        <telefono>0864 - 2453205</telefono>
+        <fax>0864 - 31379</fax>
+        <email>patrizia.raschiatore@giustizia.it</email>
+        <pec/>
+        <codicefiscale>83002750665</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>28 aprile</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TEMPIO PAUSANIA">
+        <altronome/>
+        <indirizzo> Via Limbara, 2</indirizzo>
+        <comune>TEMPIO PAUSANIA</comune>
+        <codiceistat>20104025</codiceistat>
+        <cap>07029</cap>
+        <telefono> 079 - 678917 / 678949 / 678971</telefono>
+        <fax> 079 - 678970</fax>
+        <email> unep.tribunale.tempiopausania@giustizia.it</email>
+        <pec/>
+        <codicefiscale>91004520903</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TERAMO">
+        <altronome/>
+        <indirizzo>Piazza Madonna delle Grazie, snc</indirizzo>
+        <comune>TERAMO</comune>
+        <codiceistat>13067041</codiceistat>
+        <cap>66100</cap>
+        <telefono>0861 - 326424 / 423</telefono>
+        <fax>0861 - 326425</fax>
+        <email> unep.tribunale.teramo@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80004950673</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TERMINI IMERESE">
+        <altronome/>
+        <indirizzo> Piazza Sant'Antonio, 21</indirizzo>
+        <comune>TERMINI IMERESE</comune>
+        <codiceistat>19082070</codiceistat>
+        <cap>90145</cap>
+        <telefono>091 - 8115623</telefono>
+        <fax>091 - 8113471</fax>
+        <email> nep.tribunale.terminiimerese@giustizia.it</email>
+        <pec>unep.tribunale.terminiimerese@giustiziacert.it</pec>
+        <codicefiscale>96000840825</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TERNI">
+        <altronome/>
+        <indirizzo>Via del Teatro romano, 13 palazzo Gazzoli</indirizzo>
+        <comune>TERNI</comune>
+        <codiceistat>10055032</codiceistat>
+        <cap>05100</cap>
+        <telefono>0744 - 398389 / 398391 / 398392</telefono>
+        <fax>0744 - 398399</fax>
+        <email> unep.tribunale.terni@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80006070553</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TIVOLI">
+        <altronome/>
+        <indirizzo> Viale Trieste, 51</indirizzo>
+        <comune>TIVOLI</comune>
+        <codiceistat>12058104</codiceistat>
+        <cap>00019</cap>
+        <telefono> 0774 - 451401 / 3 / 21 / 23</telefono>
+        <fax> 0774 - 451451</fax>
+        <email> pierluigi.damario@giustizia.it</email>
+        <pec/>
+        <codicefiscale>86006290588</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TORRE ANNUNZIATA">
+        <altronome/>
+        <indirizzo> Via Regina Margherita</indirizzo>
+        <comune>TORRE ANNUNZIATA</comune>
+        <codiceistat>15063083</codiceistat>
+        <cap>80058</cap>
+        <telefono> 081 - 8573670</telefono>
+        <fax> 081 - 8573675</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>82015530635</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TRANI">
+        <altronome/>
+        <indirizzo> Piazza Trieste, 1</indirizzo>
+        <comune>TRANI</comune>
+        <codiceistat>16110009</codiceistat>
+        <cap>70059</cap>
+        <telefono> 0883 - 505359 0883 - 505351</telefono>
+        <fax> 0883 - 505377</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>92041070720</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>apertura al pubblico dall 9 alle ore 12. Il sabato dalle 9 alle 11.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TRAPANI">
+        <altronome/>
+        <indirizzo> Via XXX Gennaio</indirizzo>
+        <comune>TRAPANI</comune>
+        <codiceistat>19081021</codiceistat>
+        <cap>91100</cap>
+        <telefono> 0923 - 802733 / 802383 / 802363 / 802373</telefono>
+        <fax> 0923 - 541408</fax>
+        <email> unep.tribunale.trapani@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005440815</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di TREVISO">
+        <altronome/>
+        <indirizzo> Viale Verdi, 18</indirizzo>
+        <comune>TREVISO</comune>
+        <codiceistat>05026086</codiceistat>
+        <cap>31100</cap>
+        <telefono> 0422 - 418275 / 277</telefono>
+        <fax/>
+        <email> unep.tribunale.treviso@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005620267</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>27 aprile</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di UDINE">
+        <altronome/>
+        <indirizzo> Via Caterina Percoto, 16</indirizzo>
+        <comune>UDINE</comune>
+        <codiceistat>06030129</codiceistat>
+        <cap>33100</cap>
+        <telefono>0432 - 272114 / 272120</telefono>
+        <fax/>
+        <email> unep.notifiche.tribunale.udine@giustizia.it unep.esecuzioni.tribunale.udine@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80023450309</codicefiscale>
+        <sitoweb>www.tribunale.udine.giustizia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>12 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di URBINO">
+        <altronome/>
+        <indirizzo> Via Raffaello, 28</indirizzo>
+        <comune>URBINO</comune>
+        <codiceistat>11041067</codiceistat>
+        <cap>61029</cap>
+        <telefono> 0722 - 3769112 / 113</telefono>
+        <fax> 0722 - 4066</fax>
+        <email> unep.tribunale.urbino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>91016330416</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VALLO DELLA LUCANIA">
+        <altronome/>
+        <indirizzo> Via Andrea De Hippolytis</indirizzo>
+        <comune>VALLO DELLA LUCANIA</comune>
+        <codiceistat>15065154</codiceistat>
+        <cap>84078</cap>
+        <telefono> 0974 - 713347</telefono>
+        <fax> 0974 - 713392</fax>
+        <email>virgilio.maiese@giustizia.it</email>
+        <pec/>
+        <codicefiscale>84001530652</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>27 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VARESE">
+        <altronome/>
+        <indirizzo> Viale Milano, 13</indirizzo>
+        <comune>VARESE</comune>
+        <codiceistat>03012133</codiceistat>
+        <cap>21100</cap>
+        <telefono> 0332 - 1769312 (notifiche civili)0332 - 1769319 (comunicazioni)0332 - 1769314 (notifiche penali)0332 - 1769310 (esecuzioni)0332 - 1769311 (protesti)0332 - 1769302 (Uff. giud. dirigente)</telefono>
+        <fax> 0332 - 1769317</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80011340124</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>Orario apertura sportelli giorni feriali ore 8.30 -11.30</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VASTO">
+        <altronome/>
+        <indirizzo>Via Bachelet, 1</indirizzo>
+        <comune>VASTO</comune>
+        <codiceistat>13069099</codiceistat>
+        <cap>66054</cap>
+        <telefono>0873 - 367655</telefono>
+        <fax>0873 - 69759</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>92000260692</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VELLETRI">
+        <altronome/>
+        <indirizzo> Via Fratelli Laracca</indirizzo>
+        <comune>VELLETRI</comune>
+        <codiceistat>12058111</codiceistat>
+        <cap>00049</cap>
+        <telefono> 06 - 961503410</telefono>
+        <fax> 06 - 961503408</fax>
+        <email> unep.velletri@libero.it</email>
+        <pec/>
+        <codicefiscale>87004040587</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VERBANIA">
+        <altronome/>
+        <indirizzo> Corso Europa, 3</indirizzo>
+        <comune>VERBANIA</comune>
+        <codiceistat>01103072</codiceistat>
+        <cap>28922</cap>
+        <telefono> 0323 - 555711</telefono>
+        <fax> 0323 - 555852</fax>
+        <email> unep.tribunale.verbania@giustizia.it</email>
+        <pec>unep.tribunale.verbania@giustiziacert.it</pec>
+        <codicefiscale>84010980039</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>8 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VERCELLI">
+        <altronome/>
+        <indirizzo> Piazza Amedeo IX, 6</indirizzo>
+        <comune>VERCELLI</comune>
+        <codiceistat>01002158</codiceistat>
+        <cap>13100</cap>
+        <telefono> 0161 - 282293</telefono>
+        <fax> 0161 - 282292</fax>
+        <email> unep.tribunale.vercelli@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80015000021</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VERONA">
+        <altronome/>
+        <indirizzo> Corte G. Zanconati, 1</indirizzo>
+        <comune>VERONA</comune>
+        <codiceistat>05023091</codiceistat>
+        <cap>37122</cap>
+        <telefono> 045 - 8084280 / 8084283 / 8084284 / 8084290 / 8084301</telefono>
+        <fax> 045 - 8084319</fax>
+        <email> ufficialegiudiziario.tribunale.verona@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80010720235</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VIBO VALENTIA">
+        <altronome/>
+        <indirizzo> Via Lacquari – Nuovo Palazzo di Giustizia</indirizzo>
+        <comune>VIBO VALENTIA</comune>
+        <codiceistat>18102047</codiceistat>
+        <cap>89900</cap>
+        <telefono> 0963 - 9967151</telefono>
+        <fax> 0963 - 9967151</fax>
+        <email> unep.tribunale.vibovalentia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>96006960791</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>1 marzo</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VICENZA">
+        <altronome/>
+        <indirizzo> Contrà Santa Corona, 26</indirizzo>
+        <comune>VICENZA</comune>
+        <codiceistat>05024116</codiceistat>
+        <cap>36100</cap>
+        <telefono> 0444 - 398145 / 398147</telefono>
+        <fax> 0444 - 398206</fax>
+        <email> nicola.dambrosio@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80027200247</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso il Tribunale di VITERBO">
+        <altronome/>
+        <indirizzo>Via Falcone e Borsellino, 41</indirizzo>
+        <comune>VITERBO</comune>
+        <codiceistat>12056059</codiceistat>
+        <cap>01100</cap>
+        <telefono>0761-3517180761-351888</telefono>
+        <fax>0761-399023</fax>
+        <email>giusy.taraborrelli@giustizia.itvivaldofrancesco.dangelo@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80012330561</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>

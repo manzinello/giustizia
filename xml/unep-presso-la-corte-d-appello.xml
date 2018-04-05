@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Unep presso la Corte d'appello-->
+<root>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di ANCONA">
+        <altronome/>
+        <indirizzo> Corso Mazzini, 95</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60121</cap>
+        <telefono> 071 - 5062015 / 5062017</telefono>
+        <fax> 071 - 5062058</fax>
+        <email> unep.ca.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80017050420</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di BARI">
+        <altronome/>
+        <indirizzo> Piazza E. De Nicola presso Palazzo di Giustizia</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70123</cap>
+        <telefono> 080 - 5298145 (dirigenza)080 - 5298115 / 121 (segreteria)</telefono>
+        <fax> 080 - 5746410</fax>
+        <email> unep.ca.bari@giustizia.it </email>
+        <pec>unep.ca.bari@giustiziacert.it </pec>
+        <codicefiscale>93123580727</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di BOLOGNA">
+        <altronome/>
+        <indirizzo> Vicolo Monticelli, 3/a</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40124</cap>
+        <telefono> 051 - 263732 (dirigenza)051 - 224112 (esecuzioni e funzionari unep)051 - 232224 (civile)051 - 232885 (penale)051 - 239722 (ufficiali giudiziari)051 - 227180 (amministrativo)</telefono>
+        <fax> 051 - 265407 (dirigenza)051 - 262408 (penale)051 - 261460 (esecuzioni)</fax>
+        <email>unep.ca.bologna@giustizia.it unep.esecuzioni.ca.bologna@giustizia.it</email>
+        <pec>unep.ca.bologna@giustiziacert.it</pec>
+        <codicefiscale>91265630375</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di BRESCIA">
+        <altronome/>
+        <indirizzo> Ufficio Esecuzioni: Via Solferino, 24/DUfficio Notifiche: Via A. Saffi, 13</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25121</cap>
+        <telefono> Esecuzioni: 030 - 3775270Notifiche: 030 - 28962</telefono>
+        <fax> Esecuzioni: 030 - 3751221Notifiche: 030 - 3776071</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80018390171</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di CAGLIARI">
+        <altronome/>
+        <indirizzo> Via G. Deledda, 54</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09127</cap>
+        <telefono> 070 - 60223069 (segreteria) 070 - 60223052 (contabilità) 070 - 60223053 (esecuzioni) 070 - 60223047 / 48 (notifiche civili)070 - 60223123 (notifiche penali)</telefono>
+        <fax> 070 - 60223071</fax>
+        <email> unep.ca.cagliari@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92110450928</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di CAGLIARI - Sezione distaccata di SASSARI">
+        <altronome/>
+        <indirizzo> Via Budapest, 34</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono> 079 - 209296</telefono>
+        <fax> 079 - 209303</fax>
+        <email> unep.ca.sassari@giustizia.it</email>
+        <pec>unep.ca.sassari@giustiziacert.it</pec>
+        <codicefiscale>92004490907</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di CALTANISSETTA">
+        <altronome/>
+        <indirizzo> Via Libertà, 5</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono> 0934 - 71362</telefono>
+        <fax> 0934 - 596418</fax>
+        <email> unep.caltanissetta@tiscali.it</email>
+        <pec/>
+        <codicefiscale>80009380850</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di CAMPOBASSO">
+        <altronome/>
+        <indirizzo> Via Francesco Crispi, 4</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono> 0874 - 400500</telefono>
+        <fax> 0874 - 400514</fax>
+        <email> unep.ca.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80008360705</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di CATANIA">
+        <altronome/>
+        <indirizzo> Via G. D'Annunzio, 33</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95128</cap>
+        <telefono>095 - 7165119 / 120</telefono>
+        <fax>095 - 433303</fax>
+        <email> unep.ca.catania@giustizia.it</email>
+        <pec>unep.ca.catania@giustiziacert.it</pec>
+        <codicefiscale>80010650879</codicefiscale>
+        <sitoweb>www.giustizia.catania.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>5 febbraio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di CATANZARO">
+        <altronome/>
+        <indirizzo> Via Indipendenza, 43</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono> 0961 - 885111</telefono>
+        <fax> 0961 - 480316</fax>
+        <email> unep.ca.catanzaro@giustizia.it</email>
+        <pec/>
+        <codicefiscale>97032820793</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>16 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di FIRENZE">
+        <altronome/>
+        <indirizzo> Viale Alessandro Guidoni, 61 - Palazzo di giustizia</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono> 055 - 79941 (Centralino)055 - 7995025 - 5027 ( Sportelli notifiche atti civili)055 - 7995309 - 5245 (Sportello esecuzioni)055 - 7995323 (Notifiche penali)055 - 7995330 (Responsabile)</telefono>
+        <fax> 055 - 7995331 (Segreteria responsabile)055 - 7995336 (Comunicazioni cancellerie  penali)</fax>
+        <email> unep.ca.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80016650485</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di GENOVA">
+        <altronome/>
+        <indirizzo>Via Edmondo de Amicis, 2</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16122</cap>
+        <telefono>010 - 5694173 (segreteria)</telefono>
+        <fax>010 - 542169</fax>
+        <email> unep.ca.genova@giustizia.it</email>
+        <pec>dirigenteunep.ca.genova@giustiziacert.it segreteriaunep.ca.genova@giustiziacert.it areacivileunep.ca.genova@giustiziacert.it	areapenaleunep.ca.genova@giustiziacert.it areaesecuzioneunep.ca.genova@giustiziacert.it</pec>
+        <codicefiscale>80041970106</codicefiscale>
+        <sitoweb>www.ufficigiudiziarigenova.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di L'AQUILA">
+        <altronome/>
+        <indirizzo> Via Pile, 7</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono> 0862 - 632360</telefono>
+        <fax> 0862 - 632863</fax>
+        <email/>
+        <pec>unep.ca.laquila@giustiziacert.it</pec>
+        <codicefiscale>80009140668</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di LECCE">
+        <altronome/>
+        <indirizzo> Via Brenta, 5</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono>0832 - 305216</telefono>
+        <fax> 0832 - 241021</fax>
+        <email> unep.ca.lecce@giustizia.it</email>
+        <pec>unep.ca.lecce@giustiziacert.it</pec>
+        <codicefiscale>80015340757</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di LECCE - Sezione distaccata di TARANTO">
+        <altronome/>
+        <indirizzo> Viale Cannata, snc</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74123</cap>
+        <telefono> 099 - 7343191</telefono>
+        <fax> 099 - 7343680</fax>
+        <email> ufficialegiudiziario.ca.taranto@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80013120730</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di MESSINA">
+        <altronome/>
+        <indirizzo> Via San Domenico Savio Is. 255/B</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98123</cap>
+        <telefono> 090 - 7766730 (dirigenza)090 - 7766732 (segreteria)090 - 7766725 (preposto esecuzioni)090 - 7766733 (preposto notifiche)090 - 7766724 (ufficio notifiche ricezione)090 - 7766735 (ufficio notifiche civile)090 - 7766734 (ufficio notifiche lavoro)090 - 7766729 (ufficio notifiche amministrativo)090 - 7766728 (ufficio notifiche penale)090 - 7766726 / 727 (ufficiali giudiziari esecutori) 090 - 7766723 / 722 / 700 / 706</telefono>
+        <fax> 090 - 7766731</fax>
+        <email> unep.ca.messina@giustizia.it</email>
+        <pec>unep.ca.messina@giustiziacert.it</pec>
+        <codicefiscale>97064630839</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 giugno</patrono>
+        <infoaggiuntive>orario ricezione atti dal lunedì al venerdì: atti normali dalle ore 09.00 alle ore 11.30atti urgenti entro le ore 11.00orario ricezione atti sabato e prefestivi: solo atti urgenti dalle ore 09.00 alle ore 11.00.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di MILANO">
+        <altronome/>
+        <indirizzo> Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20121</cap>
+        <telefono> 02 - 54334478 (dirigente)02 - 54333770 (amministrazione)02 - 54333816 / 4353 (notifiche penali)02 - 54333629 (notifiche civili)02 - 54333817 (notifiche biglietti di cancelleria e mod. E)</telefono>
+        <fax> 02 - 551757902 - 5517579 (notifiche penali)02 - 54334218 (notifiche biglietti di cancelleria e mod. E)</fax>
+        <email> unep.attipenali.ca.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80188650156</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>apertura al pubblico dalle 8,30 alle 12.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di NAPOLI">
+        <altronome/>
+        <indirizzo> Piazza Cenni - npg</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80143</cap>
+        <telefono>081 - 2238246</telefono>
+        <fax>081 - 2238668</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80021140639</codicefiscale>
+        <sitoweb>www.corteappello.napoli.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>19 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di PALERMO">
+        <altronome/>
+        <indirizzo> Via Impallomeni</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono> 091 - 7424446 / 7424416</telefono>
+        <fax> 091 - 7424417 / 7424449</fax>
+        <email> unep.ca.palermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale>97001170824</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di PERUGIA">
+        <altronome/>
+        <indirizzo> Piazza Matteotti, 1</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06100</cap>
+        <telefono> 075 - 54051</telefono>
+        <fax> 075 - 5723812</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80005410545</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di POTENZA">
+        <altronome/>
+        <indirizzo> Via Nazario Sauro, 74</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono> 0971 - 472233</telefono>
+        <fax/>
+        <email> unep.ca.potenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80007880760</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo> Via Francesco Fiorentino, 7 - Via Paolo Pellicano, 7</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89128</cap>
+        <telefono> Ufficio Dirigenza 0965 - 896400 (dirigente) 0965 - 857816 0965 - 857812 (segreteria) Ufficio Notifiche Civili (sportello) 0965 - 857869 (preposto notifiche civili) 0965 - 857870/871 0965 - 857822 (sportello restituzione atti) Ufficio Esecuzioni 0965 - 857827 (preposto settore esecuzioni) Ufficio Protesti 0965 - 857819 (preposto settore protesti) 0965 - 332538 Ufficio Notifiche Penale 0965 - 857810 (preposto notifiche penali) 0965 - 857813/814 Ufficio Biglietti di Cancelleria 0965 - 857810 (preposto notifiche biglietti di cancelleria) Ufficio notifiche a mezzo posta 0965 - 857820 Ufficiali Giudiziari e Funzionari addetti ai servizi esterni 0965 - 857846/847/848/849/850/851/852/853/857/858/861/862/863/864/865/866/867/868 0965 - 857859/860 (notifiche estere)</telefono>
+        <fax> 0965 - 811513</fax>
+        <email> unep.ca.reggiocalabria@giustizia.it</email>
+        <pec>unep.ca.reggiocalabria@giustiziacert.it</pec>
+        <codicefiscale>80011180801</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>23 aprile</patrono>
+        <infoaggiuntive>Orario di ricezione e restituzione atti dal lunedì al venerdì: - dal lunedì al venerdì dalle ore 8,30 alle ore 11,30 (gli atti con scadenza di legge in giornata dovranno essere presentati entro e non oltre le ore 10,00) - Il sabato e prefestivi dalle ore 8,30 alle ore 10,00 l’ufficio limiterà la ricezione degli atti a quelli di comprovata urgenza e scadenti in giornata.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di ROMA">
+        <altronome/>
+        <indirizzo> Viale Giulio Cesare, 52</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00195</cap>
+        <telefono> 06 - 328361 (centralino)</telefono>
+        <fax> 06 - 329367921</fax>
+        <email> unep.ca.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80077130583</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di SALERNO">
+        <altronome/>
+        <indirizzo> Piazza Matteotti</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono> 089 - 5646846</telefono>
+        <fax> 089 - 5646847</fax>
+        <email/>
+        <pec/>
+        <codicefiscale>80008610653</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>21 settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di TORINO">
+        <altronome/>
+        <indirizzo> C.so Vittorio Emanuele II, 127</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10138</cap>
+        <telefono>011 - 4329366</telefono>
+        <fax>011 - 4329891</fax>
+        <email> unep.ca.torino@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80082530017</codicefiscale>
+        <sitoweb>www.distretto.torino.giustizia.it/Unep_TO/unep_torino.aspx</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di TRENTO">
+        <altronome/>
+        <indirizzo> Via Jacopo Aconcio, 2</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono> 0461 - 213426 - 427 (Dirigente)0461 - 213420 (front office)</telefono>
+        <fax> 0461 - 213428</fax>
+        <email> unep.ca.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80017350226</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di TRENTO - Sezione distaccata di BOLZANO">
+        <altronome/>
+        <indirizzo>Via Cesare Battisti, 14</indirizzo>
+        <comune>BOLZANO</comune>
+        <codiceistat>04021008</codiceistat>
+        <cap>39100</cap>
+        <telefono>0471 - 226772</telefono>
+        <fax>0471 - 272315</fax>
+        <email> reinhard.christanell@giustizia.it</email>
+        <pec>unep.ca.bolzano@giustiziacert.it</pec>
+        <codicefiscale>80011930213</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>lunedì di Pentecoste</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di TRIESTE">
+        <altronome/>
+        <indirizzo>Via del Coroneo, 20</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34100</cap>
+        <telefono>040 - 7792284 / 467</telefono>
+        <fax>040 - 7792590</fax>
+        <email> unep.uffnotifciv.ca.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80020310324</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Unep presso la Corte d'Appello di VENEZIA">
+        <altronome/>
+        <indirizzo> Santa Croce, 488</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30135</cap>
+        <telefono>041 - 2714800</telefono>
+        <fax>041 - 2714822</fax>
+        <email> unep.ca.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80012070274</codicefiscale>
+        <sitoweb>www.unep.venezia.it</sitoweb>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
