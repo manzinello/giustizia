@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Centro di prima accoglienza-->
+<root>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di ANCONA">
+        <altronome/>
+        <indirizzo>Via Matteotti, 35</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60100</cap>
+        <telefono>071 - 203111</telefono>
+        <fax>071 - 202137</fax>
+        <email>cpa.ancona.dgm@giustizia.it</email>
+        <pec>cpa.ancona.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di BARI">
+        <altronome/>
+        <indirizzo>Via Giulio Petroni, 90</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70124</cap>
+        <telefono>080 - 5044317</telefono>
+        <fax>080 - 5041189</fax>
+        <email>cpa.bari.dgm@giustizia.it</email>
+        <pec>cpa.bari.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di BOLOGNA con annessa Comunità">
+        <altronome/>
+        <indirizzo>Via del Pratello, 38/3</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40122</cap>
+        <telefono>051 - 232342 / 221495</telefono>
+        <fax>051 - 232342</fax>
+        <email>cpa.bologna.dgm@giustizia.it</email>
+        <pec>cpa.bologna.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di CAGLIARI - QUARTUCCIU">
+        <altronome/>
+        <indirizzo>Località Supezzu Mannu</indirizzo>
+        <comune>QUARTUCCIU</comune>
+        <codiceistat>20092105</codiceistat>
+        <cap>09044</cap>
+        <telefono>070 - 845837</telefono>
+        <fax>070 - 845604</fax>
+        <email>cpa.cagliari.dgm@giustizia.it</email>
+        <pec>cpa.cagliari.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>Via Filippo Turati, 46</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 596957</telefono>
+        <fax>0934 - 595743</fax>
+        <email>cpa.caltanissetta.dgm@giustizia.it</email>
+        <pec>cpa.caltanissetta.dgm@giustiziacert.it</pec>
+        <codicefiscale>92044680855</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 Settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di CATANIA">
+        <altronome/>
+        <indirizzo>Via Raimondo Franchetti, 62</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95123</cap>
+        <telefono>095 - 7240388</telefono>
+        <fax>095 - 7240239</fax>
+        <email>cpa.catania.dgm@giustizia.it</email>
+        <pec>cpa.catania.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di CATANZARO">
+        <altronome/>
+        <indirizzo>Via Paglia, 47</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961 - 517492 / 792981</telefono>
+        <fax>0961 - 517491</fax>
+        <email>cpa.catanzaro.dgm@giustizia.it</email>
+        <pec>cpa.catanzaro.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di FIRENZE">
+        <altronome/>
+        <indirizzo>Via degli Orti Oricellari, 20</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50123</cap>
+        <telefono>055 - 267294</telefono>
+        <fax>055 - 2672756</fax>
+        <email>cpa.firenze.dgm@giustizia.it</email>
+        <pec>cpa.firenze.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di GENOVA con annessa Comunità">
+        <altronome/>
+        <indirizzo>Via Fieschi, 1 int. 4-5</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16121</cap>
+        <telefono>010 - 5956867 / 5956883</telefono>
+        <fax>010 - 5956946</fax>
+        <email>cpa.genova.dgm@giustizia.it</email>
+        <pec>cpa.genova.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di L'AQUILA">
+        <altronome/>
+        <indirizzo>Via Acquasanta, 1</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 26445</telefono>
+        <fax>0862 - 24540</fax>
+        <email>cpa.laquila.dgm@giustizia.it</email>
+        <pec>cpa.laquila.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di LECCE con annessa Comunità">
+        <altronome/>
+        <indirizzo>Via Monteroni, 157</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono>0832 - 354540</telefono>
+        <fax>0832 - 354540</fax>
+        <email>cpa.lecce.dgm@giustizia.it</email>
+        <pec>cpa.lecce.dgm@giustiziacert.it</pec>
+        <codicefiscale>93062850750</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>26 agosto</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di MESSINA">
+        <altronome/>
+        <indirizzo>Viale Europa, 137</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98124</cap>
+        <telefono>090 - 2931206</telefono>
+        <fax>090 - 6514999</fax>
+        <email>cpa.messina.dgm@giustizia.it</email>
+        <pec>cpa.messina.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di MILANO">
+        <altronome/>
+        <indirizzo>Via G. Spagliardi</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20152</cap>
+        <telefono>02 - 48370114</telefono>
+        <fax>02 - 48301879</fax>
+        <email>cpa.milano.dgm@giustizia.it</email>
+        <pec>cpa.milano.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di NAPOLI (Maschile) con annessa Comunità">
+        <altronome/>
+        <indirizzo>Viale Colli Aminei, 44</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80135</cap>
+        <telefono>081 - 7448111 / 7448241</telefono>
+        <fax>081 - 7448253</fax>
+        <email>cpa.napoli.dgm@giustizia.it</email>
+        <pec>cpa.napoli.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di NISIDA (Femminile)">
+        <altronome/>
+        <indirizzo>Via Nisida, 59</indirizzo>
+        <comune>NISIDA</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80124</cap>
+        <telefono>081 - 6192111</telefono>
+        <fax>081 - 7620135</fax>
+        <email>ipm.nisida.dgm@giustizia.it</email>
+        <pec>ipm.nisida.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di PALERMO">
+        <altronome/>
+        <indirizzo>Via Principe di Palagonia, 135</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90145</cap>
+        <telefono>091 - 6822777</telefono>
+        <fax>091 - 6822777</fax>
+        <email>cpa.palermo.dgm@giustizia.it</email>
+        <pec>cpa.palermo.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di POTENZA con annessa Comunità">
+        <altronome/>
+        <indirizzo>Via San Vincenzo de' Paoli, 11</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 58750</telefono>
+        <fax>0971 - 54477</fax>
+        <email>cpa.potenza.dgm@giustizia.it</email>
+        <pec>cpa.potenza.dgm@giustiziacert.it</pec>
+        <codicefiscale>80005260767</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di REGGIO CALABRIA con annessa Comunità">
+        <altronome/>
+        <indirizzo>Via Marsala, 13</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89127</cap>
+        <telefono>0965 - 813166</telefono>
+        <fax>0965 - 813166</fax>
+        <email>cpa.reggiocalabria.dgm@giustizia.it</email>
+        <pec>cpa.reggiocalabria.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di ROMA">
+        <altronome/>
+        <indirizzo>Via V. Agnelli, 15</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00151</cap>
+        <telefono>06 - 65790000</telefono>
+        <fax>06 - 6572923</fax>
+        <email>cpa.roma.dgm@giustizia.it</email>
+        <pec>cpa.roma.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di SALERNO">
+        <altronome/>
+        <indirizzo>Largo S. Tommaso D'Aquino</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84121</cap>
+        <telefono>089 - 253000</telefono>
+        <fax>089 - 253000</fax>
+        <email>cpa.salerno.dgm@giustizia.it</email>
+        <pec>cpa.salerno.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di SASSARI">
+        <altronome/>
+        <indirizzo>Viale Papa Giovanni Paolo II, 6</indirizzo>
+        <comune>SASSARI</comune>
+        <codiceistat>20090064</codiceistat>
+        <cap>07100</cap>
+        <telefono>079 - 262650</telefono>
+        <fax>079 - 262484</fax>
+        <email>cpa.sassari.dgm@giustizia.it</email>
+        <pec>cpa.sassari.dgm@giustiziacert.it</pec>
+        <codicefiscale>92033850907</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>6 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di TARANTO">
+        <altronome/>
+        <indirizzo>Vico S. Agostino, 1</indirizzo>
+        <comune>TARANTO</comune>
+        <codiceistat>16073027</codiceistat>
+        <cap>74123</cap>
+        <telefono>099 - 4709383</telefono>
+        <fax>099 - 4709383</fax>
+        <email>cpa.taranto.dgm@giustizia.it</email>
+        <pec>cpa.taranto.dgm@giustiziacert.it</pec>
+        <codicefiscale>90068440735</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>10 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di TORINO">
+        <altronome/>
+        <indirizzo>Corso Unione Sovietica, 325</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10135</cap>
+        <telefono>011 - 6194238</telefono>
+        <fax>011 - 6194259</fax>
+        <email>cpa.torino.dgm@giustizia.it</email>
+        <pec>cpa.torino.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di TRENTO">
+        <altronome/>
+        <indirizzo>Via Rosmini, 69</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono>0461 - 982738</telefono>
+        <fax>0461 - 232501</fax>
+        <email>cpa.trento.dgm@giustizia.it</email>
+        <pec>cpa.trento.dgm@giustiziacert.it</pec>
+        <codicefiscale>96020870224</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Centro di Prima Accoglienza di TREVISO">
+        <altronome/>
+        <indirizzo>Via Santa Bona Nuova, 5/d</indirizzo>
+        <comune>TREVISO</comune>
+        <codiceistat>05026086</codiceistat>
+        <cap>31100</cap>
+        <telefono>0422 - 432936 / 432991</telefono>
+        <fax>0422 - 234979</fax>
+        <email> cpa.treviso.dgm@giustizia.it</email>
+        <pec>cpa.treviso.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>27 aprile</patrono>
+        <infoaggiuntive>Informazioni possono essere chieste alla segreteria dal lunedì al venerdi dalle 10 alle 12.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+</root>
