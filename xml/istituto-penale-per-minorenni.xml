@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Istituto penale per minorenni-->
+<root>
+    <ufficio nomeufficio="Istituto Penale Minorenni di ACIREALE">
+        <altronome/>
+        <indirizzo>Via G. Gozzano, 8</indirizzo>
+        <comune>ACIREALE</comune>
+        <codiceistat>19087004</codiceistat>
+        <cap>95024</cap>
+        <telefono>095 - 601922</telefono>
+        <fax>095 - 601944</fax>
+        <email>ipm.acireale.dgm@giustizia.it</email>
+        <pec>ipm.acireale.dgm@giustiziacert.it</pec>
+        <codicefiscale>81006070874</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>14 novembre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di AIROLA">
+        <altronome/>
+        <indirizzo>Corso Montella, 16</indirizzo>
+        <comune>AIROLA</comune>
+        <codiceistat>15062001</codiceistat>
+        <cap>82011</cap>
+        <telefono>0823 - 716601 / 2 / 3</telefono>
+        <fax>0823 - 716625</fax>
+        <email>ipm.airola.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di BARI">
+        <altronome/>
+        <indirizzo>Via Giulio Petroni, 90</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70124</cap>
+        <telefono>080 - 5041012 / 5041014</telefono>
+        <fax>080 - 5041189</fax>
+        <email>ipm.bari.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di BOLOGNA">
+        <altronome/>
+        <indirizzo>Via de’ Marchi, 5/2</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40123</cap>
+        <telefono>051 - 238310 (centralino) 051 - 233290</telefono>
+        <fax>051 - 223865</fax>
+        <email>ipm.bologna.dgm@giustizia.it</email>
+        <pec>ipm.bologna.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di CAGLIARI - QUARTUCCIU">
+        <altronome/>
+        <indirizzo>Località Supezzu Mannu</indirizzo>
+        <comune>QUARTUCCIU</comune>
+        <codiceistat>20092105</codiceistat>
+        <cap>09044</cap>
+        <telefono>070 - 851469 / 841863</telefono>
+        <fax>070 - 844198</fax>
+        <email>ipm.cagliari.dgm@giustizia.it</email>
+        <pec>ipm.cagliari.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>Via Filippo Turati, 46</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 596957 093 / 4596957 centralino</telefono>
+        <fax>0934 - 595743 093 - 4561397 ufficio matricola 093 - 4595743 ufficio segreteria </fax>
+        <email>ipm.caltanissetta.dgm@giustizia.it  matricola.ipm.caltanissetta.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>92006250853</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 Settembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di CATANIA">
+        <altronome/>
+        <indirizzo>Località Bicocca</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95100</cap>
+        <telefono>095 - 591046/591357</telefono>
+        <fax>095 - 591448</fax>
+        <email>ipm.catania.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di CATANZARO">
+        <altronome/>
+        <indirizzo>Via Paglia, 43</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961 - 725188</telefono>
+        <fax>0961 - 725189</fax>
+        <email>ipm.catanzaro.dgm@giustizia.it ipm.catanzaro.dgm@giustiziacert.it</email>
+        <pec/>
+        <codicefiscale>80003500792</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>16 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di FIRENZE">
+        <altronome/>
+        <indirizzo>Via degli Orti Oricellari, 18</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50123</cap>
+        <telefono>055 - 267291</telefono>
+        <fax>055 - 2672723</fax>
+        <email>ipm.firenze.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94014830486</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>24 giugno</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di MILANO">
+        <altronome/>
+        <indirizzo>Via Calchi e Taeggi, 20</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>20152</cap>
+        <telefono>02 - 414791</telefono>
+        <fax>02 - 48302191</fax>
+        <email>ipm.milano.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di NISIDA (NA)">
+        <altronome/>
+        <indirizzo>Via Nisida, 59</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80124</cap>
+        <telefono>081 - 6192111</telefono>
+        <fax>081 - 7620135</fax>
+        <email>ipm.nisida.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di PALERMO">
+        <altronome/>
+        <indirizzo>Via Francesco Cilea, 28</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90144</cap>
+        <telefono>091 - 6813106 (centralino) 091 - 6812223 (direttore)</telefono>
+        <fax>091 - 6815390 (segreteria) 091 - 6828773 (matricola)</fax>
+        <email>ipm.palermo.dgm@giustizia.it</email>
+        <pec>ipm.palermo.dgm@giustiziacert.it</pec>
+        <codicefiscale>80017820822</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive>Direttore: Michelangelo Capitanocarta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di PONTREMOLI">
+        <altronome/>
+        <indirizzo>Via IV Novembre, 15</indirizzo>
+        <comune>PONTREMOLI</comune>
+        <codiceistat>09045014</codiceistat>
+        <cap>54027</cap>
+        <telefono>0187 - 830135</telefono>
+        <fax>0187 - 833243</fax>
+        <email>ipm.pontremoli.dgm@giustizia.it</email>
+        <pec>ipm.pontremoli.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di POTENZA">
+        <altronome/>
+        <indirizzo>San Vincenzo de' Paoli, 11</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 53987 0971 - 58750</telefono>
+        <fax>0971 - 54477</fax>
+        <email>ipm.potenza.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80005260767</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>30 maggio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di ROMA">
+        <altronome/>
+        <indirizzo>Via G. Barellai, 140</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00135</cap>
+        <telefono>06 - 303301</telefono>
+        <fax>06 - 3387525</fax>
+        <email>ipm.roma.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di TORINO">
+        <altronome/>
+        <indirizzo>Via Beruti e Ferrero,3</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10135</cap>
+        <telefono>011 - 6194201</telefono>
+        <fax>011 - 6194249</fax>
+        <email>ipm.torino.dgm@giustizia.it</email>
+        <pec>ipm.torino.dgm@giustiziacert.it</pec>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive>carta dei servizi</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Istituto Penale Minorenni di TREVISO">
+        <altronome/>
+        <indirizzo>Via S. Bona Nova, 5/d</indirizzo>
+        <comune>TREVISO</comune>
+        <codiceistat>05026086</codiceistat>
+        <cap>31100</cap>
+        <telefono>0422 - 432936 / 432991</telefono>
+        <fax>0422 - 234979</fax>
+        <email>ipm.treviso.dgm@giustizia.it</email>
+        <pec/>
+        <codicefiscale>94001770265</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>27 aprile</patrono>
+        <infoaggiuntive>Informazioni possono essere chieste alla segreteria dal lunedì al venerdi dalle 10 alle 12.</infoaggiuntive>
+        <aggiornamento/>
+    </ufficio>
+</root>
