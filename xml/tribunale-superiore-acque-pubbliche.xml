@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Tribunale superiore Acque pubbliche-->
+<root>
+    <ufficio nomeufficio="Tribunale Superiore delle Acque Pubbliche di ROMA">
+        <altronome/>
+        <indirizzo> Piazza Cavour</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00193</cap>
+        <telefono> 06 - 68832334 / 2559 (segreteria)06 - 68832562 / 2568 / 2898 (cancelleria)</telefono>
+        <fax> 06 - 68832691  (segreteria)06 - 68897072 (cancelleria)</fax>
+        <email> tribsupacquepub.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale>80421550585</codicefiscale>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>29 Giugno</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
