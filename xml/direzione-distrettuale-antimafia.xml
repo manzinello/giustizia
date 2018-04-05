@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Lista uffici derivanti dalla ricerca per tipo ufficio: Direzione distrettuale antimafia-->
+<root>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di ANCONA">
+        <altronome/>
+        <indirizzo>Corso Mazzini, 95</indirizzo>
+        <comune>ANCONA</comune>
+        <codiceistat>11042002</codiceistat>
+        <cap>60100</cap>
+        <telefono>071 - 5061</telefono>
+        <fax>071 - 5062035</fax>
+        <email>procura.ancona@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di BARI">
+        <altronome/>
+        <indirizzo>Via Nazarian, 1</indirizzo>
+        <comune>BARI</comune>
+        <codiceistat>16072006</codiceistat>
+        <cap>70123</cap>
+        <telefono>080 - 5270111</telefono>
+        <fax>080 - 5270454</fax>
+        <email>segreteria.procuratore.procura.bari@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di BOLOGNA">
+        <altronome/>
+        <indirizzo>Via Garibaldi, 6</indirizzo>
+        <comune>BOLOGNA</comune>
+        <codiceistat>08037006</codiceistat>
+        <cap>40137</cap>
+        <telefono>051 - 201633 (segreteria)  </telefono>
+        <fax>051 - 201904 (segreteria)</fax>
+        <email>dda.bologna@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>4 ottobre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di BRESCIA">
+        <altronome/>
+        <indirizzo>Via Lattanzio Gambarra, 40</indirizzo>
+        <comune>BRESCIA</comune>
+        <codiceistat>03017029</codiceistat>
+        <cap>25122</cap>
+        <telefono>030 - 7675111</telefono>
+        <fax>030 - 7674999</fax>
+        <email>procura.brescia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di CAGLIARI">
+        <altronome/>
+        <indirizzo>Piazza Repubblica, 16/18</indirizzo>
+        <comune>CAGLIARI</comune>
+        <codiceistat>20092009</codiceistat>
+        <cap>09129</cap>
+        <telefono>070 - 60221</telefono>
+        <fax>070 - 60222204070 - 60222276</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di CALTANISSETTA">
+        <altronome/>
+        <indirizzo>Via Libertà, 1</indirizzo>
+        <comune>CALTANISSETTA</comune>
+        <codiceistat>19085004</codiceistat>
+        <cap>93100</cap>
+        <telefono>0934 - 71111</telefono>
+        <fax>0934 - 71781</fax>
+        <email>dda.caltanissetta@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di CAMPOBASSO">
+        <altronome/>
+        <indirizzo>Piazza Vittorio Emanuele c/o palazzo di giustizia</indirizzo>
+        <comune>CAMPOBASSO</comune>
+        <codiceistat>14070006</codiceistat>
+        <cap>86100</cap>
+        <telefono>0874 - 4001</telefono>
+        <fax>0874 - 92980</fax>
+        <email>dda.campobasso@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di CATANIA">
+        <altronome/>
+        <indirizzo>Piazza Giovanni Verga</indirizzo>
+        <comune>CATANIA</comune>
+        <codiceistat>19087015</codiceistat>
+        <cap>95100</cap>
+        <telefono>095 - 366111</telefono>
+        <fax>095 - 438214</fax>
+        <email>dda.procura.catania@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di CATANZARO">
+        <altronome/>
+        <indirizzo>Piazza Matteotti, 5</indirizzo>
+        <comune>CATANZARO</comune>
+        <codiceistat>18079023</codiceistat>
+        <cap>88100</cap>
+        <telefono>0961 - 885111</telefono>
+        <fax>0961 - 709410</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di FIRENZE">
+        <altronome/>
+        <indirizzo>Viale Alessandro Guidoni, 61 - Palazzo di giustizia</indirizzo>
+        <comune>FIRENZE</comune>
+        <codiceistat>09048017</codiceistat>
+        <cap>50127</cap>
+        <telefono>055 -79941 - centralino 055 - 7994236 / 4673 (segreteria)</telefono>
+        <fax>055 - 7994206</fax>
+        <email>dda.firenze@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <urp>
+            <indirizzo/>
+            <cap/>
+            <email>urp.ca.firenze@giustizia.it</email>
+            <telefono>055 - 7995341</telefono>
+            <sito/>
+        </urp>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di GENOVA">
+        <altronome/>
+        <indirizzo>Piazza Portoria, 1</indirizzo>
+        <comune>GENOVA</comune>
+        <codiceistat>07010025</codiceistat>
+        <cap>16100</cap>
+        <telefono>010 - 5691</telefono>
+        <fax>010 - 540822</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di L'AQUILA">
+        <altronome/>
+        <indirizzo>Via XX settembre</indirizzo>
+        <comune>L'AQUILA</comune>
+        <codiceistat>13066049</codiceistat>
+        <cap>67100</cap>
+        <telefono>0862 - 632321</telefono>
+        <fax>0862 - 632221</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di LECCE">
+        <altronome/>
+        <indirizzo>Viale Michele De Pietro, 2</indirizzo>
+        <comune>LECCE</comune>
+        <codiceistat>16075035</codiceistat>
+        <cap>73100</cap>
+        <telefono>0832 - 660111</telefono>
+        <fax>0832 - 3349840832 - 334976</fax>
+        <email>segrpart.procura.lecce@giustizia.it segrdda.procura.lecce@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di MESSINA">
+        <altronome/>
+        <indirizzo>Via Tommaso Cannizzaro</indirizzo>
+        <comune>MESSINA</comune>
+        <codiceistat>19083048</codiceistat>
+        <cap>98100</cap>
+        <telefono>090 - 77661</telefono>
+        <fax>090 - 774087</fax>
+        <email>dda.messina@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di MILANO">
+        <altronome/>
+        <indirizzo>Via Freguglia, 1</indirizzo>
+        <comune>MILANO</comune>
+        <codiceistat>03015146</codiceistat>
+        <cap>54361</cap>
+        <telefono>02 - 54361</telefono>
+        <fax>02 - 54258663</fax>
+        <email>procura.milano@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>7 dicembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di NAPOLI">
+        <altronome/>
+        <indirizzo>Centro Direzionale isola E5</indirizzo>
+        <comune>NAPOLI</comune>
+        <codiceistat>15063049</codiceistat>
+        <cap>80100</cap>
+        <telefono>081 - 2236111</telefono>
+        <fax>081 - 2236262</fax>
+        <email>segreteria.dda.napoli@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di PALERMO">
+        <altronome/>
+        <indirizzo>Piazza Vittorio Emanuele Orlando</indirizzo>
+        <comune>PALERMO</comune>
+        <codiceistat>19082053</codiceistat>
+        <cap>90138</cap>
+        <telefono>091 - 7421111</telefono>
+        <fax>091 - 6110175</fax>
+        <email>dda.palermo@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>15 luglio</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di PERUGIA">
+        <altronome/>
+        <indirizzo>Via Fiorenzo di Lorenzo, 22</indirizzo>
+        <comune>PERUGIA</comune>
+        <codiceistat>10054039</codiceistat>
+        <cap>06121</cap>
+        <telefono>075 - 54491</telefono>
+        <fax>075 - 5727492</fax>
+        <email>procura.perugia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di POTENZA">
+        <altronome/>
+        <indirizzo>Via Nazario Sauro c/o Palazzo di Giustizia</indirizzo>
+        <comune>POTENZA</comune>
+        <codiceistat>17076063</codiceistat>
+        <cap>85100</cap>
+        <telefono>0971 - 491111</telefono>
+        <fax>0971 - 491533</fax>
+        <email>dda.potenza@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di REGGIO CALABRIA">
+        <altronome/>
+        <indirizzo>Via S. Anna, 2 - Palazzo Cedir</indirizzo>
+        <comune>REGGIO CALABRIA</comune>
+        <codiceistat>18080063</codiceistat>
+        <cap>89128</cap>
+        <telefono>0965 - 8571</telefono>
+        <fax>0965 - 8577336</fax>
+        <email>procura.reggiocalabria@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di ROMA">
+        <altronome/>
+        <indirizzo>Piazzale Clodio - città giudiziaria</indirizzo>
+        <comune>ROMA</comune>
+        <codiceistat>12058091</codiceistat>
+        <cap>00195</cap>
+        <telefono>06 - 38701</telefono>
+        <fax>06 - 39736135</fax>
+        <email>segrdda.procura.roma@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di SALERNO">
+        <altronome/>
+        <indirizzo>Corso Garibaldi - Palazzo di Giustizia</indirizzo>
+        <comune>SALERNO</comune>
+        <codiceistat>15065116</codiceistat>
+        <cap>84100</cap>
+        <telefono>089 - 5645428</telefono>
+        <fax>089 - 226643</fax>
+        <email>procura.salerno@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di TORINO">
+        <altronome/>
+        <indirizzo>Corso Vittorio Emanuele II, 130</indirizzo>
+        <comune>TORINO</comune>
+        <codiceistat>01001272</codiceistat>
+        <cap>10100</cap>
+        <telefono>011 - 4327111</telefono>
+        <fax>011 - 4327040</fax>
+        <email/>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di TRENTO">
+        <altronome/>
+        <indirizzo>Largo Pigarelli, 1</indirizzo>
+        <comune>TRENTO</comune>
+        <codiceistat>04022205</codiceistat>
+        <cap>38122</cap>
+        <telefono>0461 - 200111</telefono>
+        <fax>0461 - 200352</fax>
+        <email>procura.trento@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di TRIESTE">
+        <altronome/>
+        <indirizzo>Via Foro Ulpiano, 1</indirizzo>
+        <comune>TRIESTE</comune>
+        <codiceistat>06032006</codiceistat>
+        <cap>34100</cap>
+        <telefono>040 - 7792595</telefono>
+        <fax>040 - 7792326</fax>
+        <email>dda.procura.trieste@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono>3 novembre</patrono>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+    <ufficio nomeufficio="Direzione Distrettuale Antimafia di VENEZIA">
+        <altronome/>
+        <indirizzo>Santa Croce, 423 Fondamenta delle Burchielle</indirizzo>
+        <comune>VENEZIA</comune>
+        <codiceistat>05027042</codiceistat>
+        <cap>30135</cap>
+        <telefono>041 - 9653115</telefono>
+        <fax>041 - 9653373</fax>
+        <email>dda.venezia@giustizia.it</email>
+        <pec/>
+        <codicefiscale/>
+        <sitoweb/>
+        <cartaservizi/>
+        <altresedi/>
+        <patrono/>
+        <infoaggiuntive/>
+        <aggiornamento/>
+    </ufficio>
+</root>
