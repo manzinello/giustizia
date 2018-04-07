@@ -2152,7 +2152,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Ispettorato circoscrizionale degli archivi notarili di ROMA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Matteotti, 35",
             "comune": "ANCONA",
@@ -2626,7 +2626,7 @@
             "infoaggiuntive": "Informazioni possono essere chieste alla segreteria dal lunedì al venerdi dalle 10 alle 12.",
             "aggiornamento": "",
             "_nomeufficio": "Centro di Prima Accoglienza di TREVISO"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "",
             "comune": "BARI",
@@ -2853,7 +2853,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Centro per la Giustizia Minorile di VENEZIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Scala dei Cappuccini, 1",
             "comune": "TRIESTE",
@@ -3118,7 +3118,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Commissariato agli usi civici per la SICILIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "con centro diurno polifunzionaleVia Don Minzoni, 43",
             "comune": "CALTANISSETTA",
@@ -3231,7 +3231,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Comunità per minori di SANTA MARIA CAPUA VETERE"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via G. Carducci, 3",
             "comune": "ANCONA",
@@ -3872,7 +3872,7 @@
             "infoaggiuntive": "Liquidazione spese di giustizia online",
             "aggiornamento": "",
             "_nomeufficio": "Corte d'Appello di VENEZIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Corso Mazzini, 95",
             "comune": "ANCONA",
@@ -4422,7 +4422,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Corte di Assise di VENEZIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Corso Mazzini, 95",
             "comune": "ANCONA",
@@ -4972,25 +4972,25 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Corte di Assise di VENEZIA"
-        },{
-        "altronome": "",
-        "indirizzo": "Piazza Cavour",
-        "comune": "ROMA",
-        "codiceistat": "12058091",
-        "cap": "00193",
-        "telefono": "06 - 68831 (centralino)",
-        "fax": "06 - 6883423",
-        "email": "",
-        "pec": "",
-        "codicefiscale": "",
-        "sitoweb": "www.cortedicassazione.it",
-        "cartaservizi": "",
-        "altresedi": "",
-        "patrono": "29 giugno",
-        "infoaggiuntive": "",
-        "aggiornamento": "",
-        "_nomeufficio": "Corte Suprema di Cassazione di ROMA"
-    },{
+        }, {
+            "altronome": "",
+            "indirizzo": "Piazza Cavour",
+            "comune": "ROMA",
+            "codiceistat": "12058091",
+            "cap": "00193",
+            "telefono": "06 - 68831 (centralino)",
+            "fax": "06 - 6883423",
+            "email": "",
+            "pec": "",
+            "codicefiscale": "",
+            "sitoweb": "www.cortedicassazione.it",
+            "cartaservizi": "",
+            "altresedi": "",
+            "patrono": "29 giugno",
+            "infoaggiuntive": "",
+            "aggiornamento": "",
+            "_nomeufficio": "Corte Suprema di Cassazione di ROMA"
+        }, {
             "altronome": "",
             "indirizzo": "Corso Mazzini, 95",
             "comune": "ANCONA",
@@ -5490,25 +5490,25 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Direzione Distrettuale Antimafia di VENEZIA"
-        },{
-        "altronome": "",
-        "indirizzo": "Via Giulia, 52",
-        "comune": "ROMA",
-        "codiceistat": "12058091",
-        "cap": "00186",
-        "telefono": "06 - 682821",
-        "fax": "06 - 6892611",
-        "email": "dna@giustizia.it",
-        "pec": "",
-        "codicefiscale": "",
-        "sitoweb": "",
-        "cartaservizi": "",
-        "altresedi": "",
-        "patrono": "",
-        "infoaggiuntive": "",
-        "aggiornamento": "",
-        "_nomeufficio": "Direzione Nazionale Antimafia di ROMA"
-    },{
+        }, {
+            "altronome": "",
+            "indirizzo": "Via Giulia, 52",
+            "comune": "ROMA",
+            "codiceistat": "12058091",
+            "cap": "00186",
+            "telefono": "06 - 682821",
+            "fax": "06 - 6892611",
+            "email": "dna@giustizia.it",
+            "pec": "",
+            "codicefiscale": "",
+            "sitoweb": "",
+            "cartaservizi": "",
+            "altresedi": "",
+            "patrono": "",
+            "infoaggiuntive": "",
+            "aggiornamento": "",
+            "_nomeufficio": "Direzione Nazionale Antimafia di ROMA"
+        }, {
             "altronome": "",
             "indirizzo": "Via Cairoli, 1",
             "comune": "ABBIATEGRASSO",
@@ -13000,7 +13000,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Giudice di Pace di VOLTERRA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via G. Gozzano, 8",
             "comune": "ACIREALE",
@@ -13322,7 +13322,7 @@
             "infoaggiuntive": "Informazioni possono essere chieste alla segreteria dal lunedì al venerdi dalle 10 alle 12.",
             "aggiornamento": "",
             "_nomeufficio": "Istituto Penale Minorenni di TREVISO"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "",
             "comune": "VASTO",
@@ -16950,7 +16950,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Istituto penitenziario - VOLTERRA - reclusione"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Corso Mazzini, 32",
             "comune": "ANCONA",
@@ -17500,7 +17500,7 @@
             "infoaggiuntive": "Liquidazione spese di giustizia online",
             "aggiornamento": "",
             "_nomeufficio": "Procura della Repubblica presso il Tribunale per i minorenni di VENEZIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Mazzini 179",
             "comune": "AGRIGENTO",
@@ -21559,7 +21559,7 @@
             },
             "aggiornamento": "",
             "_nomeufficio": "Procura della Repubblica presso il Tribunale di VITERBO"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Matteotti, 48",
             "comune": "ANCONA",
@@ -22109,25 +22109,25 @@
             "infoaggiuntive": "Liquidazione spese di giustizia online",
             "aggiornamento": "",
             "_nomeufficio": "Procura Generale della Repubblica presso la Corte d'Appello di VENEZIA"
-        },{
-        "altronome": "",
-        "indirizzo": "Piazza Cavour",
-        "comune": "ROMA",
-        "codiceistat": "12058091",
-        "cap": "00193",
-        "telefono": "06 - 68831 (centralino)",
-        "fax": "06 - 68832260",
-        "email": "pg.cassazione@giustizia.it",
-        "pec": "",
-        "codicefiscale": "",
-        "sitoweb": "www.procuracassazione.it/procura-generale/",
-        "cartaservizi": "",
-        "altresedi": "",
-        "patrono": "29 giugno",
-        "infoaggiuntive": "",
-        "aggiornamento": "",
-        "_nomeufficio": "Procura Generale presso la Cassazione"
-    },{
+        }, {
+            "altronome": "",
+            "indirizzo": "Piazza Cavour",
+            "comune": "ROMA",
+            "codiceistat": "12058091",
+            "cap": "00193",
+            "telefono": "06 - 68831 (centralino)",
+            "fax": "06 - 68832260",
+            "email": "pg.cassazione@giustizia.it",
+            "pec": "",
+            "codicefiscale": "",
+            "sitoweb": "www.procuracassazione.it/procura-generale/",
+            "cartaservizi": "",
+            "altresedi": "",
+            "patrono": "29 giugno",
+            "infoaggiuntive": "",
+            "aggiornamento": "",
+            "_nomeufficio": "Procura Generale presso la Cassazione"
+        }, {
             "altronome": "",
             "indirizzo": "",
             "comune": "CATANZARO",
@@ -22335,7 +22335,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Provveditorato dell'amministrazione penitenziaria VENETO, TRENTINO-ALTO ADIGE, FRIULI-VENEZIA GIULIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Viale della Vittoria, 22",
             "comune": "ANCONA",
@@ -22885,7 +22885,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Tribunale di Sorveglianza di VENEZIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Cavorchie, 1/C",
             "comune": "ANCONA",
@@ -23435,7 +23435,7 @@
             "infoaggiuntive": "Liquidazione spese di giustizia online",
             "aggiornamento": "",
             "_nomeufficio": "Tribunale per i Minorenni di VENEZIA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Piazza Repubblica",
             "comune": "CAGLIARI",
@@ -23586,25 +23586,25 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Tribunale Regionale delle Acque Pubbliche di VENEZIA"
-        },{
-        "altronome": "",
-        "indirizzo": "Piazza Cavour",
-        "comune": "ROMA",
-        "codiceistat": "12058091",
-        "cap": "00193",
-        "telefono": "06 - 68832334 / 2559 (segreteria)06 - 68832562 / 2568 / 2898 (cancelleria)",
-        "fax": "06 - 68832691  (segreteria)06 - 68897072 (cancelleria)",
-        "email": "tribsupacquepub.roma@giustizia.it",
-        "pec": "",
-        "codicefiscale": "80421550585",
-        "sitoweb": "",
-        "cartaservizi": "",
-        "altresedi": "",
-        "patrono": "29 Giugno",
-        "infoaggiuntive": "",
-        "aggiornamento": "",
-        "_nomeufficio": "Tribunale Superiore delle Acque Pubbliche di ROMA"
-    },{
+        }, {
+            "altronome": "",
+            "indirizzo": "Piazza Cavour",
+            "comune": "ROMA",
+            "codiceistat": "12058091",
+            "cap": "00193",
+            "telefono": "06 - 68832334 / 2559 (segreteria)06 - 68832562 / 2568 / 2898 (cancelleria)",
+            "fax": "06 - 68832691  (segreteria)06 - 68897072 (cancelleria)",
+            "email": "tribsupacquepub.roma@giustizia.it",
+            "pec": "",
+            "codicefiscale": "80421550585",
+            "sitoweb": "",
+            "cartaservizi": "",
+            "altresedi": "",
+            "patrono": "29 Giugno",
+            "infoaggiuntive": "",
+            "aggiornamento": "",
+            "_nomeufficio": "Tribunale Superiore delle Acque Pubbliche di ROMA"
+        }, {
             "altronome": "",
             "indirizzo": "VIA MAZZINI 179",
             "comune": "AGRIGENTO",
@@ -27520,7 +27520,7 @@
             },
             "aggiornamento": "",
             "_nomeufficio": "Tribunale di VITERBO"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Mazzini, 177",
             "comune": "AGRIGENTO",
@@ -29110,7 +29110,7 @@
             "infoaggiuntive": "L'ufficio resterà chiuso sabato 9 - 23 e 30 dicembre 2017.",
             "aggiornamento": "",
             "_nomeufficio": "Ufficio esecuzione penale esterna di VITERBO - distrettuale"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Kennedy, 1",
             "comune": "AGRIGENTO",
@@ -30211,7 +30211,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Ufficio di Sorveglianza di VITERBO"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Cavorchie, 1/E",
             "comune": "ANCONA",
@@ -31141,7 +31141,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Ufficio Servizio Sociale per Minorenni di VENEZIA - Sezione distaccata di PADOVA"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Via Mazzini, 179",
             "comune": "AGRIGENTO",
@@ -33287,7 +33287,7 @@
             "infoaggiuntive": "",
             "aggiornamento": "",
             "_nomeufficio": "Unep presso il Tribunale di VITERBO"
-        },{
+        }, {
             "altronome": "",
             "indirizzo": "Corso Mazzini, 95",
             "comune": "ANCONA",
